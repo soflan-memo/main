@@ -1,0 +1,279 @@
+@charset "utf-8";
+html{ /*remとpxを合わせるため記載 ※1.6rem = 16pxとなる*/
+  font-size: 62.5%;
+}
+
+body{ /*768px未満の基本フォントサイズ*/
+  font-size: 1.6rem;
+}
+
+@media (min-width: 768px) { /* 768～991pxのフォントサイズ */
+  body{font-size: 1.8rem;}
+}
+
+
+@media (min-width: 992px) { /* 992～1199pxのフォントサイズ */
+  body{font-size: 2.0rem;}
+}
+
+
+@media (min-width: 1200px) { /* 1200px以上のフォントサイズ */
+  body{font-size: 2.2rem;}
+}
+
+body{
+  background-color:hsl(235, 30%, 7.5%);
+  color:hsl(32,100%,90%);
+}
+
+div[data-div-header]{
+  background-color:hsl(240, 35%, 5%);
+}
+
+div[data-div-footer]{
+  background-color:hsl(240, 5%, 5%);
+}
+
+/*768px未満のテーブル幅*/
+.col-add-remove,
+.col-input-value,
+.col-bpm,
+.col-green,
+.col-hs,
+.col-sud,
+.col-lift
+{
+  width:calc(100% / 10.5);
+}
+
+.col-action{ /*操作内容幅は1.5列ぶん*/
+  width:calc((100% / 10.5) * 1.5);
+}
+
+.col-memo{ /*メモ列は2幅ぶん*/
+  width:calc((100% / 10.5) * 2);
+}
+
+@media (min-width: 768px) { /* 768～991pxのテーブル幅 */
+	.col-add-remove,
+	.col-input-value,
+	.col-bpm,
+	.col-green,
+	.col-hs,
+	.col-sud,
+	.col-lift
+	{
+	  width:calc(100% / 12.5);
+	}
+	.col-action{ /*操作内容幅は1.5列ぶん*/
+	  width:calc((100% / 12.5) * 1.5);
+	}
+
+  .col-memo{ /*メモ幅は4列ぶん*/
+	  width:calc((100% / 12.5) * 4);
+	}
+}
+
+@media (min-width: 992px) { /* 992～1199pxのテーブル幅 */
+	.col-add-remove,
+	.col-input-value,
+	.col-bpm,
+	.col-green,
+	.col-hs,
+	.col-sud,
+	.col-lift
+	{
+	  width:calc(100% / 14.5);
+	}
+	.col-action{ /*操作内容幅は1.5列ぶん*/
+	  width:calc((100% / 14.5) * 1.5);
+	}
+  .col-memo{ /*メモ幅は6列ぶん*/
+	  width:calc((100% / 14.5) * 6);
+	}
+}
+
+
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+	.col-add-remove,
+	.col-action,
+	.col-input-value,
+	.col-bpm,
+	.col-green,
+	.col-hs,
+	.col-sud,
+	.col-lift
+	{
+	  width:calc(100% / 16.5);
+	}
+	.col-action{ /*操作内容幅は1.5列ぶん*/
+	  width:calc((100% / 16.5) * 1.5);
+	}
+  .col-memo{ /*メモ幅は8列ぶん*/
+	  width:calc((100% / 16.5) * 8);
+	}
+}
+
+div.div-header-default-setting{
+  padding-top: 10px;
+  margin-bottom: 10px;
+}
+
+div.div-header-music-sort{
+  margin-bottom: 5px;
+}
+
+table[data-table-music] {
+  background-color: hsl(230, 25%, 10%);
+  text-align: center;
+}
+
+tr[data-tr-type="action"]{
+  background-color: hsl(220, 20%, 15%);
+}
+
+/*アクション行ではBPM列を透明に*/
+tr[data-tr-type="action"] td[data-td-bpm]{
+	color:hsl(32,100%,90%,0);
+}
+
+td[data-td-sud]{
+	color:hsl(32,20%,90%);
+}
+
+td[data-td-lift]{
+	color:hsl(32,20%,90%);
+}
+
+td[data-td-memo]{
+	text-align: left;
+}
+
+td.td-s{
+	opacity: 0.83;
+}
+
+td.td-vs{
+	opacity: 0.67;
+}
+
+td.td-vvs{
+	opacity: 0.5;
+}
+
+
+#input-default-green{
+  margin-right: 10px;
+  width:4em;
+  background-color: hsl(210, 10%, 95%);
+  text-align:center; 
+  color:hsl(240, 100%, 10%);
+}
+
+#input-default-sud{
+  margin-right: 10px;
+  width:4em;
+  background-color: hsl(210, 10%, 95%);
+  text-align:center; 
+  color:hsl(240, 100%, 10%);
+}
+
+#input-default-lift{
+  width:4em;
+  background-color: hsl(210, 10%, 95%);
+  text-align:center; 
+  color:hsl(240, 100%, 10%);
+}
+
+#MUSIC_SELECT{
+  width:100%;
+  background-color: hsl(210, 10%, 95%);
+  font-size: 2em;
+  font-family: monospace;
+}
+
+input[data-input-add-row] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: auto;
+  border: none;
+  border-radius: 5px;
+  background-color: hsl(230, 20%, 20%);
+  text-align: center;
+  color: hsl(32,100%,90%);
+}
+
+input[data-input-add-row]:hover {
+  background-color: hsl(210, 10%, 50%);
+}
+
+input[data-input-delete-row] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: auto;
+  border: none;
+  border-radius: 0px;
+  background-color: hsl(230, 20%, 20%);
+  text-align:center;
+  color: hsl(32,100%,90%);
+}
+
+input[data-input-delete-row]:hover {
+    background-color: hsl(210, 10%, 50%);
+}
+
+select[data-select-action]{
+  width:100%;
+  background-color: hsl(210, 10%, 95%);
+  text-align:center; 
+  color:hsl(240, 100%, 10%);
+  appearance:none; /*幅ギリギリなので矢印を削除*/
+}
+
+select[data-select-action="ST+SCR"]{
+  background: radial-gradient(circle,hsl(0, 80%, 50%) 0%,hsl(0, 80%, 50%) 10%,hsl(210, 20%, 40%) 11%,hsl(210, 20%, 40%) 30%,hsl(210, 10%, 95%) 31%,hsl(210, 10%, 95%) 100%);
+}
+
+select[data-select-action="ST+KEY"]{
+  background: linear-gradient(0deg,hsl(210, 10%, 90%) 0%,hsl(210, 0%, 100%) 20%,hsl(210, 25%, 70%) 21%,hsl(210, 0%, 90%) 80%,hsl(240, 80%, 50%) 81%,hsl(240, 70%, 50%) 100%);
+}
+
+select[data-select-action="ST→ST"]{
+  background: linear-gradient(90deg,hsl(210, 50%, 90%) 0%,hsl(210, 0%, 100%) 48%,hsl(240, 0%, 50%) 49%,hsl(210, 0%, 50%) 55%,hsl(210,5%, 60%) 100%);
+}
+
+[data-element-input-value]{
+  width:100%;
+  background-color: hsl(210, 10%, 95%);
+  text-align:center; 
+  color:hsl(240, 100%, 10%);
+}
+
+select[data-element-input-value][name="select-key-value"]{
+  appearance:none; /*幅ギリギリなので矢印を削除*/
+}
+
+input[data-element-input-value][name="input-show-hide-sud"]{
+  background-color: hsl(220, 10%, 50%);
+}
+
+select[data-element-input-value][name="select-hispeed-type"]{
+  appearance:none; /*幅ギリギリなので矢印を削除*/
+}
+
+textarea[data-textarea-memo]{
+  width:100%;
+  box-sizing: border-box;
+  max-width:100%;
+  field-sizing: content;
+  resize:none;
+  overflow: hidden;
+  background-color: hsl(230, 25%, 10%);
+  color:hsl(32,100%,90%);
+}

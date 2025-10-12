@@ -1,0 +1,10906 @@
+{
+	"musicList": [
+		{
+			"id": "TENGOKU",
+			"title": ".59",
+			"read": "テンゴク",
+			"ver": 2,
+			"verName": "2nd",
+			"soflan": 14.56,
+			"textage": "/2/_59.html",
+			"SPN": 4,
+			"SPH": 6,
+			"SPA": 7,
+			"DPN": 4,
+			"DPH": 6,
+			"DPA": 7,
+			"bpmList": [
+				{
+					"bpm": 135,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 123,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				}
+			]
+		},
+		{
+			"id": "NOT_ANGEL",
+			"title": "(This Is Not) The Angels",
+			"read": "This Is Not The Angels",
+			"ver": 24,
+			"verName": "Sino",
+			"soflan": 171.5,
+			"textage": "/24/theangel.html",
+			"SPN": 4,
+			"SPH": 8,
+			"SPA": 11,
+			"DPN": 5,
+			"DPH": 8,
+			"DPA": 11,
+			"bpmList": []
+		},
+		{
+			"id": "FIRST_SAMURAI",
+			"title": "1st Samurai",
+			"read": "~1st Samurai",
+			"ver": 10,
+			"verName": "10th",
+			"soflan": 17.98,
+			"textage": "/10/1samurai.html",
+			"SPN": 5,
+			"SPH": 10,
+			"SPA": 11,
+			"DPN": 7,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 175,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 200,
+					"type": "",
+					"memo": "1小節分の休拍後皿チョン可"
+				}
+			]
+		},
+		{
+			"id": "TOO_HOT_TOO_EAT",
+			"title": "2hot2eat",
+			"read": "~2hot2eat",
+			"ver": 14,
+			"verName": "Gold",
+			"soflan": 111.82,
+			"textage": "/14/2hot2eat.html",
+			"SPN": 4,
+			"SPH": 7,
+			"SPA": 9,
+			"DPN": 4,
+			"DPH": 9,
+			"DPA": 10,
+			"bpmList": [
+				{
+					"bpm": 140,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 143,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 146,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 149,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 152,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 155,
+					"type": "td-s",
+					"memo": "3.5小節 "
+				},
+				{
+					"bpm": 149,
+					"type": "td-s",
+					"memo": "1.5小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "",
+					"memo": "5小節 "
+				}
+			]
+		},
+		{
+			"id": "KONAMI_50TH_MEDLEY",
+			"title": "50th Memorial Songs -Flagship medley-",
+			"read": "~50th Memorial Songs -Flagship medley-",
+			"ver": 26,
+			"verName": "Root",
+			"soflan": 56.03,
+			"textage": "/26/50th_flg.html",
+			"SPN": 5,
+			"SPH": 8,
+			"SPA": 10,
+			"DPN": 5,
+			"DPH": 8,
+			"DPA": 10,
+			"bpmList": [
+				{
+					"bpm": 175,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 135,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 143,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 175,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "A_AMURO",
+			"title": "A",
+			"read": "A",
+			"ver": 7,
+			"verName": "7th",
+			"soflan": 68.7,
+			"textage": "/7/a_amuro.html",
+			"SPN": 6,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 8,
+			"DPH": 11,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 93,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 191,
+					"type": "",
+					"memo": "事前ギアチェン推奨"
+				}
+			]
+		},
+		{
+			"id": "ABSOLUTE",
+			"title": "ABSOLUTE",
+			"read": "ABSOLUTE",
+			"ver": 4,
+			"verName": "4th",
+			"soflan": 97.51,
+			"textage": "/4/absolute.html",
+			"SPN": 6,
+			"SPH": 8,
+			"SPA": 10,
+			"SPL": 11,
+			"DPN": 6,
+			"DPH": 8,
+			"DPA": 11,
+			"DPL": 11,
+			"bpmList": [
+				{
+					"bpm": 144,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 133,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 112,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 89,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 85,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 60,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 80,
+					"type": "td-vs",
+					"memo": "1小節 "
+				}
+			]
+		},
+		{
+			"id": "AETHER",
+			"title": "ÆTHER",
+			"read": "エーテル",
+			"ver": 21,
+			"verName": "Spa",
+			"soflan": 131.36,
+			"textage": "/21/_aether.html",
+			"SPL": 12,
+			"DPL": 12,
+			"bpmList": [
+				{
+					"bpm": 192,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 96,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 24,
+					"type": "td-vvs",
+					"memo": "0.5小節 疑似停止2拍"
+				},
+				{
+					"bpm": 96,
+					"type": "td-vvs",
+					"memo": "0.5小節 疑似停止2拍"
+				},
+				{
+					"bpm": 192,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "AGNUS_DEI",
+			"title": "Agnus Dei",
+			"read": "Agnus Dei",
+			"ver": 12,
+			"verName": "HaSk",
+			"soflan": 97.39,
+			"textage": "/12/agnusdei.html",
+			"SPN": 5,
+			"SPH": 9,
+			"SPA": 10,
+			"DPN": 5,
+			"DPH": 8,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 168,
+					"type": "",
+					"memo": "5小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 70,
+					"type": "td-vvs",
+					"memo": "0.5小節 ﾃﾞｭｩｩｩﾝ"
+				},
+				{
+					"bpm": 168,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 150,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 168,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 160,
+					"type": "td-s",
+					"memo": "4小節 "
+				}
+			]
+		},
+		{
+			"id": "AH_HAH_YEAH",
+			"title": "Ah Hah Yeah",
+			"read": "Ah Hah Yeah",
+			"ver": 28,
+			"verName": "Bis",
+			"soflan": 116.72,
+			"textage": "/28/ahahyeah.html",
+			"SPN": 4,
+			"SPH": 8,
+			"SPA": 11,
+			"DPN": 4,
+			"DPH": 8,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 115,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 230,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 115,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 230,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "AIRFLOW",
+			"title": "airflow",
+			"read": "airflow",
+			"ver": 8,
+			"verName": "8th",
+			"soflan": 71.19,
+			"textage": "/8/airflow.html",
+			"SPN": 3,
+			"SPH": 5,
+			"SPA": 7,
+			"DPN": 3,
+			"DPH": 6,
+			"DPA": 7,
+			"bpmList": [
+				{
+					"bpm": 148,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 142,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 137,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 131,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 118,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 105,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 124,
+					"type": "td-vvs",
+					"memo": "0.25小節 まさかの加速"
+				},
+				{
+					"bpm": 109,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 95,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 75,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 70,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 40,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				}
+			]
+		},
+		{
+			"id": "ASIAN_DISTRACTIVE",
+			"title": "AsiaN distractive",
+			"read": "AsiaN distractive",
+			"ver": 24,
+			"verName": "Sino",
+			"soflan": 52.62,
+			"textage": "/24/asiandst.html",
+			"SPN": 5,
+			"SPH": 8,
+			"SPA": 11,
+			"DPN": 6,
+			"DPH": 9,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 157,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 149,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 141,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 132,
+					"type": "td-vvs",
+					"memo": "0.75小節 "
+				},
+				{
+					"bpm": 152,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				}
+			]
+		},
+		{
+			"id": "AVANT_GARDE",
+			"title": "avant-guerre",
+			"read": "avant-guerre",
+			"ver": 15,
+			"verName": "DJT",
+			"soflan": 57.14,
+			"textage": "/15/a_guerre.html",
+			"SPN": 4,
+			"SPH": 7,
+			"SPA": 10,
+			"DPN": 5,
+			"DPH": 9,
+			"DPA": 10,
+			"bpmList": [
+				{
+					"bpm": 146,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 130,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 146,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "AWA_AWA",
+			"title": "AWA AWA",
+			"read": "AWA AWA",
+			"ver": 30,
+			"verName": "Resi",
+			"soflan": 51.56,
+			"textage": "/30/awaawa.html",
+			"SPN": 4,
+			"SPH": 7,
+			"SPA": 10,
+			"DPN": 4,
+			"DPH": 7,
+			"DPA": 10,
+			"bpmList": [
+				{
+					"bpm": 165,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 154,
+					"type": "td-s",
+					"memo": "1.33小節 "
+				},
+				{
+					"bpm": 149,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 119,
+					"type": "td-vvs",
+					"memo": "0.75小節 "
+				},
+				{
+					"bpm": 116,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 103,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 95,
+					"type": "td-s",
+					"memo": "3小節 "
+				}
+			]
+		},
+		{
+			"id": "BEAT_JUG_MIX",
+			"title": "Beat Juggling Mix",
+			"read": "Beat Juggling Mix",
+			"ver": 24,
+			"verName": "Sino",
+			"soflan": 113.55,
+			"textage": "/24/beatjugg.html",
+			"SPN": 6,
+			"SPH": 9,
+			"SPA": 11,
+			"DPN": 6,
+			"DPH": 9,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 105,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "td-vs",
+					"memo": "1小節 スクラッチと同時にBPMが変わる。いじわる"
+				},
+				{
+					"bpm": 105,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 66,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 94,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 198,
+					"type": "td-vvs",
+					"memo": "0.25小節 FHS殺しの速度変化。いじわる"
+				},
+				{
+					"bpm": 192,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 186,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 170,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 188,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 176,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 170,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 164,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 156,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 142,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-vs",
+					"memo": "1小節 "
+				}
+			]
+		},
+		{
+			"id": "BITTER_LUCKY",
+			"title": "Bitter & Lucky",
+			"read": "Bitter & Lucky",
+			"ver": 31,
+			"verName": "Epo",
+			"soflan": 76.77,
+			"textage": "/31/bitlucky.html",
+			"SPN": 4,
+			"SPH": 7,
+			"SPA": 10,
+			"DPN": 4,
+			"DPH": 7,
+			"DPA": 10,
+			"bpmList": [
+				{
+					"bpm": 180,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 135,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "BLIND_JUSTICE",
+			"title": "Blind Justice 〜Torn souls, Hurt Faiths〜",
+			"read": "Blind Justice 〜Torn souls, Hurt Faiths〜",
+			"ver": 14,
+			"verName": "Gold",
+			"soflan": 26.31,
+			"textage": "/14/blindjus.html",
+			"SPN": 6,
+			"SPH": 8,
+			"SPA": 11,
+			"DPN": 7,
+			"DPH": 8,
+			"DPA": 10,
+			"bpmList": [
+				{
+					"bpm": 165,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 156,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 137,
+					"type": "td-s",
+					"memo": "3.5小節 "
+				}
+			]
+		},
+		{
+			"id": "BREAK_OVER",
+			"title": "BREAK OVER",
+			"read": "BREAK OVER",
+			"ver": 24,
+			"verName": "Sino",
+			"soflan": 16.25,
+			"textage": "/24/breakovr.html",
+			"SPN": 5,
+			"SPH": 9,
+			"SPA": 11,
+			"DPN": 5,
+			"DPH": 8,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 150,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 106,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "CCCNNN",
+			"title": "C-C-C-N-N-N",
+			"read": "C-C-C-N-N-N",
+			"ver": 30,
+			"verName": "Resi",
+			"soflan": 32.21,
+			"textage": "/30/cccnnn.html",
+			"SPN": 5,
+			"SPH": 9,
+			"SPA": 11,
+			"DPN": 5,
+			"DPH": 8,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 162,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 170,
+					"type": "",
+					"memo": "8小節 All night \"long\"で加速"
+				},
+				{
+					"bpm": 180,
+					"type": "",
+					"memo": "ﾗﾌｽｹｯﾁさんのらったった～♪で最高速。ムービーに30の数字が見えるのが目安"
+				}
+			]
+		},
+		{
+			"id": "CHECKING_YOU_OUT",
+			"title": "CHECKING YOU OUT",
+			"read": "CHECKING YOU OUT",
+			"ver": 4,
+			"verName": "4th",
+			"soflan": 84.71,
+			"textage": "/4/checking.html",
+			"SPN": 7,
+			"SPH": 9,
+			"SPA": 11,
+			"DPN": 7,
+			"DPH": 11,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 108,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 216,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 108,
+					"type": "td-s",
+					"memo": "3小節 "
+				}
+			]
+		},
+		{
+			"id": "CLOSE_MY_EYES",
+			"title": "Close my Eyes for Me",
+			"read": "Close my Eyes for Me",
+			"ver": 11,
+			"verName": "Red",
+			"soflan": 32.92,
+			"textage": "/11/closeyes.html",
+			"SPN": 5,
+			"SPH": 8,
+			"SPA": 9,
+			"DPN": 5,
+			"DPH": 8,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 132,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 145,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "CONCERTINO",
+			"title": "Concertino in Blue",
+			"read": "Concertino in Blue",
+			"ver": 13,
+			"verName": "DisD",
+			"soflan": 162.67,
+			"textage": "/13/concert.html",
+			"SPN": 5,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 5,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 140,
+					"type": "",
+					"memo": "5小節 "
+				},
+				{
+					"bpm": 155,
+					"type": "",
+					"memo": "7.33小節 "
+				},
+				{
+					"bpm": 153,
+					"type": "td-vvs",
+					"memo": "0.66小節 "
+				},
+				{
+					"bpm": 151,
+					"type": "td-s",
+					"memo": "2.66小節 "
+				},
+				{
+					"bpm": 155,
+					"type": "",
+					"memo": "5.66小節 "
+				},
+				{
+					"bpm": 153,
+					"type": "td-vvs",
+					"memo": "0.66小節 "
+				},
+				{
+					"bpm": 151,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 155,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 154,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 141,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 155,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 151,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 139,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 128,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 122,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 112,
+					"type": "td-vvs",
+					"memo": "0.66小節 "
+				},
+				{
+					"bpm": 103,
+					"type": "",
+					"memo": "5.33小節 "
+				}
+			]
+		},
+		{
+			"id": "CRADLE",
+			"title": "Cradle",
+			"read": "Cradle",
+			"ver": 9,
+			"verName": "9th",
+			"soflan": 29.16,
+			"textage": "/9/cradle.html",
+			"SPN": 5,
+			"SPH": 8,
+			"SPA": 10,
+			"DPN": 6,
+			"DPH": 10,
+			"bpmList": [
+				{
+					"bpm": 160,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 188,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "D_EAGLE",
+			"title": "D",
+			"read": "D",
+			"ver": 17,
+			"verName": "Siri",
+			"soflan": 159.06,
+			"textage": "/17/d_eagle.html",
+			"SPN": 8,
+			"SPH": 10,
+			"SPA": 11,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 120,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 130,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 160,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 170,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 190,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 200,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 210,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 220,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 240,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 50,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 175,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 170,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 160,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 30,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "DAY_DREAM",
+			"title": "DAY DREAM",
+			"read": "DAY DREAM",
+			"ver": 20,
+			"verName": "Tri",
+			"soflan": 159.61,
+			"textage": "/20/daydream.html",
+			"SPN": 5,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 80,
+					"type": "",
+					"memo": "7小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 170,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 90,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 170,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "DISCLOZE",
+			"title": "Discloze",
+			"read": "Discloze",
+			"ver": 22,
+			"verName": "Pen",
+			"soflan": 96.9,
+			"textage": "/22/discloze.html",
+			"SPN": 6,
+			"SPH": 9,
+			"SPA": 11,
+			"DPN": 6,
+			"DPH": 9,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 145,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 140,
+					"type": "",
+					"memo": "7小節 "
+				},
+				{
+					"bpm": 128,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 145,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "DROPZ",
+			"title": "DropZ-Line-",
+			"read": "DropZ-Line-",
+			"ver": 25,
+			"verName": "CaBa",
+			"soflan": 139.56,
+			"textage": "/25/dropz_ln.html",
+			"SPN": 7,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 7,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 200,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 100,
+					"type": "",
+					"memo": "5小節 "
+				},
+				{
+					"bpm": 200,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 400,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 50,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 200,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "DUAL_CONTROL",
+			"title": "dual control",
+			"read": "dual control",
+			"ver": 8,
+			"verName": "8th",
+			"soflan": 23.62,
+			"textage": "/8/dual.html",
+			"SPN": 5,
+			"SPH": 7,
+			"SPA": 9,
+			"DPN": 4,
+			"DPH": 8,
+			"DPA": 9,
+			"bpmList": [
+				{
+					"bpm": 131,
+					"type": "",
+					"memo": "7小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "DUE_TOMORROW",
+			"title": "DUE TOMORROW",
+			"read": "DUE TOMORROW",
+			"ver": 13,
+			"verName": "DisD",
+			"soflan": 24.54,
+			"textage": "/13/due_tmrw.html",
+			"SPN": 6,
+			"SPH": 9,
+			"SPA": 12,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 400,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 100,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 400,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "EARTH_SCAPE",
+			"title": "earth scape",
+			"read": "earth scape",
+			"ver": 11,
+			"verName": "Red",
+			"soflan": 158.74,
+			"textage": "/11/earthscp.html",
+			"SPN": 2,
+			"SPH": 5,
+			"SPA": 7,
+			"DPN": 2,
+			"DPH": 6,
+			"bpmList": [
+				{
+					"bpm": 94,
+					"type": "td-s",
+					"memo": "2.5小節 "
+				},
+				{
+					"bpm": 91,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 88,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 84,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 90,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 94,
+					"type": "td-s",
+					"memo": "1.5小節 "
+				},
+				{
+					"bpm": 89,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 94,
+					"type": "td-s",
+					"memo": "1.5小節 "
+				},
+				{
+					"bpm": 91,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 88,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 94,
+					"type": "td-s",
+					"memo": "3.25小節 "
+				},
+				{
+					"bpm": 91,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 89,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 85,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 94,
+					"type": "td-s",
+					"memo": "3.75小節 "
+				},
+				{
+					"bpm": 84,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 94,
+					"type": "td-s",
+					"memo": "2.75小節 "
+				},
+				{
+					"bpm": 88,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 90,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 89,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 88,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 87,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 80,
+					"type": "td-vvs",
+					"memo": "0.75小節 "
+				},
+				{
+					"bpm": 94,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 91,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 87,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 93,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 92,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 90,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 88,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 84,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 71,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 45,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 94,
+					"type": "td-s",
+					"memo": "2小節 "
+				}
+			]
+		},
+		{
+			"id": "EBONY_IVORY",
+			"title": "EBONY & IVORY",
+			"read": "EBONY & IVORY",
+			"ver": 22,
+			"verName": "Pen",
+			"soflan": 106.68,
+			"textage": "/22/ebnyivry.html",
+			"SPL": 12,
+			"DPL": 12,
+			"bpmList": [
+				{
+					"bpm": 170,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 113,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 170,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "EMERALDAS",
+			"title": "EMERALDAS",
+			"read": "EMERALDAS",
+			"ver": 25,
+			"verName": "CaBa",
+			"soflan": 113.62,
+			"textage": "/25/emeralds.html",
+			"SPN": 7,
+			"SPH": 11,
+			"SPA": 12,
+			"DPN": 7,
+			"DPH": 11,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 176,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 88,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 176,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "EMPATHY",
+			"title": "empathy",
+			"read": "empathy",
+			"ver": 4,
+			"verName": "4th",
+			"soflan": 79.8,
+			"textage": "/4/empathy.html",
+			"SPH": 7,
+			"SPA": 8,
+			"bpmList": [
+				{
+					"bpm": 170,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 85,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 170,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "ERA_NOSTAL",
+			"title": "era (nostalmix)",
+			"read": "era (nostalmix)",
+			"ver": 3,
+			"verName": "3rd",
+			"soflan": 109.32,
+			"textage": "/3/eranos.html",
+			"SPN": 5,
+			"SPH": 8,
+			"SPA": 9,
+			"DPN": 5,
+			"DPH": 12,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 180,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 90,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 90,
+					"type": "td-s",
+					"memo": "4小節 "
+				}
+			]
+		},
+		{
+			"id": "ERA_STEP",
+			"title": "era (step mix)",
+			"read": "era (step mix)",
+			"ver": 4,
+			"verName": "4th",
+			"soflan": 100.69,
+			"textage": "/4/erastep.html",
+			"SPN": 5,
+			"SPH": 8,
+			"SPA": 9,
+			"DPN": 4,
+			"DPH": 8,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 180,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 90,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 90,
+					"type": "td-s",
+					"memo": "4小節 "
+				}
+			]
+		},
+		{
+			"id": "ERASER_MOTOR_PHANTOM",
+			"title": "eRAseRmOToRpHAntOM",
+			"read": "eRAseRmOToRpHAntOM",
+			"ver": 17,
+			"verName": "Siri",
+			"soflan": 72.84,
+			"textage": "/17/ephantom.html",
+			"SPN": 7,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 8,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 135,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 270,
+					"type": "",
+					"memo": "笑い声のスクラッチに合わせて事前ギアチェン推奨"
+				}
+			]
+		},
+		{
+			"id": "EVANESCENT",
+			"title": "EVANESCENT",
+			"read": "EVANESCENT",
+			"ver": 26,
+			"verName": "Root",
+			"soflan": 123.54,
+			"textage": "/26/evanscnt.html",
+			"SPN": 6,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 161,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 147,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 137,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 127,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 161,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 165,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "FAXX",
+			"title": "Fascination MAXX",
+			"read": "Fascination MAXX",
+			"ver": 14,
+			"verName": "Gold",
+			"soflan": 200,
+			"textage": "/14/fas_maxx.html",
+			"SPN": 9,
+			"SPH": 11,
+			"SPA": 12,
+			"DPN": 9,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 100,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 400,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 200,
+					"type": "td-vvs",
+					"memo": "0.5小節 疑似停止2拍"
+				},
+				{
+					"bpm": 400,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 200,
+					"type": "td-vvs",
+					"memo": "0.25小節 疑似停止1拍"
+				},
+				{
+					"bpm": 400,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 200,
+					"type": "td-vvs",
+					"memo": "0.25小節 疑似停止1拍"
+				},
+				{
+					"bpm": 400,
+					"type": "",
+					"memo": "4.25小節 "
+				},
+				{
+					"bpm": 200,
+					"type": "td-vvs",
+					"memo": "0.25小節 疑似停止1拍"
+				},
+				{
+					"bpm": 400,
+					"type": "td-s",
+					"memo": "2.5小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 200,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 100,
+					"type": "td-vs",
+					"memo": "1小節 ここで鍵盤ギアチェンするなら皿巻き込みに注意"
+				},
+				{
+					"bpm": 200,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 400,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 100,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 200,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 400,
+					"type": "",
+					"memo": "6小節 "
+				}
+			]
+		},
+		{
+			"id": "FIRE_BEAT",
+			"title": "Fire Beat",
+			"read": "Fire Beat",
+			"ver": 28,
+			"verName": "Bis",
+			"soflan": 64.16,
+			"textage": "/28/firebeat.html",
+			"SPN": 6,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 157,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 300,
+					"type": "",
+					"memo": "(「・ω・)「ｶﾞｵｰ!のスクラッチに合わせて事前ギアチェン推奨"
+				}
+			]
+		},
+		{
+			"id": "FLOWERS_ALBION",
+			"title": "FLOWERS for ALBION",
+			"read": "FLOWERS for ALBION",
+			"ver": 4,
+			"verName": "4th",
+			"soflan": 46.88,
+			"textage": "/4/flowers.html",
+			"SPN": 2,
+			"SPH": 5,
+			"DPN": 5,
+			"DPH": 7,
+			"bpmList": [
+				{
+					"bpm": 80,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 93,
+					"type": "td-s",
+					"memo": "1.75小節 "
+				},
+				{
+					"bpm": 84,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 93,
+					"type": "td-s",
+					"memo": "2.75小節 "
+				},
+				{
+					"bpm": 90,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 93,
+					"type": "td-s",
+					"memo": "1.75小節 "
+				},
+				{
+					"bpm": 79,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 91,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 85,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 70,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 93,
+					"type": "td-s",
+					"memo": "2.75小節 "
+				},
+				{
+					"bpm": 85,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 93,
+					"type": "td-vvs",
+					"memo": "0.75小節 "
+				},
+				{
+					"bpm": 84,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 93,
+					"type": "td-s",
+					"memo": "1.75小節 "
+				},
+				{
+					"bpm": 85,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 93,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "FOUR_PIECES",
+			"title": "four pieces of heaven",
+			"read": "four pieces of heaven",
+			"ver": 15,
+			"verName": "DJT",
+			"soflan": 151.71,
+			"textage": "/15/fourpces.html",
+			"SPN": 5,
+			"SPH": 10,
+			"SPA": 11,
+			"SPL": 12,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 12,
+			"DPL": 12,
+			"bpmList": [
+				{
+					"bpm": 195,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 175,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 168,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 160,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 135,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 125,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 135,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 145,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 160,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 170,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 195,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "FUN",
+			"title": "fun",
+			"read": "fun",
+			"ver": 9,
+			"verName": "9th",
+			"soflan": 121.86,
+			"textage": "/9/fun30.html",
+			"SPN": 4,
+			"SPH": 7,
+			"SPA": 10,
+			"DPN": 4,
+			"DPH": 7,
+			"DPA": 10,
+			"bpmList": [
+				{
+					"bpm": 100,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 200,
+					"type": "",
+					"memo": "ﾃｨﾛﾘﾛ~というピアノ音のスクラッチの1拍後に皿チョン可"
+				},
+				{
+					"bpm": 100,
+					"type": "td-s",
+					"memo": "3.75小節 "
+				},
+				{
+					"bpm": 200,
+					"type": "td-s",
+					"memo": "2.25小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "td-s",
+					"memo": "4小節 "
+				}
+			]
+		},
+		{
+			"id": "FUTURE_IS_DEAD",
+			"title": "FUTURE is Dead",
+			"read": "FUTURE is Dead",
+			"ver": 25,
+			"verName": "CaBa",
+			"soflan": 150.08,
+			"textage": "/25/futuredd.html",
+			"SPA": 11,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 110,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 220,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 110,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 220,
+					"type": "",
+					"memo": "6小節 "
+				},
+				{
+					"bpm": 110,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "GAME_CHANGER",
+			"title": "Game Changers",
+			"read": "Game Changers",
+			"ver": 29,
+			"verName": "CaHo",
+			"soflan": 48.28,
+			"textage": "/29/gamechng.html",
+			"SPN": 4,
+			"SPH": 8,
+			"SPA": 11,
+			"DPN": 4,
+			"DPH": 8,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 105,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 210,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "GANYMEDE",
+			"title": "Ganymede",
+			"read": "Ganymede",
+			"ver": 13,
+			"verName": "DisD",
+			"soflan": 36.59,
+			"textage": "/13/ganymede.html",
+			"SPN": 6,
+			"SPH": 10,
+			"SPA": 11,
+			"SPL": 12,
+			"DPN": 8,
+			"DPH": 11,
+			"DPA": 12,
+			"DPL": 12,
+			"bpmList": [
+				{
+					"bpm": 82,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 78,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 75,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 78,
+					"type": "td-s",
+					"memo": "2小節 "
+				}
+			]
+		},
+		{
+			"id": "GHOST",
+			"title": "GHOST",
+			"read": "GHOST",
+			"ver": 27,
+			"verName": "HeVe",
+			"soflan": 88.38,
+			"textage": "/27/ghosthmj.html",
+			"SPN": 5,
+			"SPH": 8,
+			"SPA": 11,
+			"DPN": 5,
+			"DPH": 8,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 180,
+					"type": "td-vs",
+					"memo": "1小節 開始時に最高速に合わせてくれる親切設計"
+				},
+				{
+					"bpm": 150,
+					"type": "td-s",
+					"memo": "2.75小節 "
+				},
+				{
+					"bpm": 155,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 160,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 165,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 175,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "GLITCH_N_RIDE",
+			"title": "Glitch N Ride",
+			"read": "Glitch N Ride",
+			"ver": 31,
+			"verName": "Epo",
+			"soflan": 154.22,
+			"textage": "/31/glitch_n.html",
+			"SPN": 7,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 7,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 150,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 100,
+					"type": "td-s",
+					"memo": "1.5小節 "
+				},
+				{
+					"bpm": 50,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-vvs",
+					"memo": "0.5小節 音のリズムはﾂｰ・ﾄﾝ・ﾄﾄ"
+				},
+				{
+					"bpm": 240,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-vvs",
+					"memo": "0.25小節 音のリズムはﾂｰ・ﾄﾄﾄ"
+				},
+				{
+					"bpm": 270,
+					"type": "td-vvs",
+					"memo": "0.75小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.25小節 音のリズムはﾂｰ・ﾄﾄﾄｰ"
+				},
+				{
+					"bpm": 280,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 30,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 170,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 190,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 200,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 210,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 220,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 230,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 240,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 250,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 216,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 108,
+					"type": "",
+					"memo": "5小節 ムービーでコナミコマンドが入力されている"
+				},
+				{
+					"bpm": 175,
+					"type": "",
+					"memo": "Adjusting is complete."
+				}
+			]
+		},
+		{
+			"id": "GLORIOUS_DAYS",
+			"title": "Glorious Days",
+			"read": "Glorious Days",
+			"ver": 7,
+			"verName": "7th",
+			"soflan": 58.37,
+			"textage": "/7/glorious.html",
+			"SPN": 3,
+			"SPH": 5,
+			"SPA": 6,
+			"DPN": 6,
+			"DPH": 7,
+			"bpmList": [
+				{
+					"bpm": 82,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 83,
+					"type": "",
+					"memo": "4.25小節 "
+				},
+				{
+					"bpm": 80,
+					"type": "td-s",
+					"memo": "1.25小節 "
+				},
+				{
+					"bpm": 81,
+					"type": "td-s",
+					"memo": "3.75小節 "
+				},
+				{
+					"bpm": 79,
+					"type": "td-vvs",
+					"memo": "0.75小節 "
+				},
+				{
+					"bpm": 78,
+					"type": "td-s",
+					"memo": "1.5小節 "
+				},
+				{
+					"bpm": 76,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 74,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 59,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 49,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 40,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				}
+			]
+		},
+		{
+			"id": "GRADIUS_MEDLEY",
+			"title": "GRADIUS -FULL SPEED-",
+			"read": "GRADIUS -FULL SPEED-",
+			"ver": 10,
+			"verName": "10th",
+			"soflan": 120.8,
+			"textage": "/10/grafull.html",
+			"SPN": 4,
+			"SPH": 8,
+			"SPA": 10,
+			"DPN": 3,
+			"DPH": 7,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 160,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 220,
+					"type": "",
+					"memo": "青カプセル取得の効果音のスクラッチから一拍後に加速"
+				},
+				{
+					"bpm": 160,
+					"type": "",
+					"memo": "5.25小節 赤カプセル取得の効果音のスクラッチから半拍後に減速"
+				},
+				{
+					"bpm": 220,
+					"type": "td-s",
+					"memo": "3.5小節 被撃墜音のスクラッチから二拍後に加速"
+				},
+				{
+					"bpm": 160,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 200,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "GRADIUSIC_CYBER_01",
+			"title": "GRADIUSIC CYBER(N)(H)",
+			"read": "GRADIUSIC CYBER_01",
+			"ver": 1,
+			"verName": "1st",
+			"soflan": 28.47,
+			"textage": "/1/gracyber.html",
+			"SPN": 5,
+			"SPH": 6,
+			"DPN": 4,
+			"DPH": 9,
+			"bpmList": [
+				{
+					"bpm": 160,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 167,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 160,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 159,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 160,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "GRADIUSIC_CYBER_02",
+			"title": "GRADIUSIC CYBER(A)",
+			"read": "GRADIUSIC CYBER_02",
+			"ver": 1,
+			"verName": "1st",
+			"soflan": 31.02,
+			"textage": "/1/gracyber.html",
+			"SPA": 7,
+			"DPA": 9,
+			"bpmList": [
+				{
+					"bpm": 160,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 167,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 160,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "HELLA_DEEP",
+			"title": "Hella Deep",
+			"read": "Hella Deep",
+			"ver": 25,
+			"verName": "CaBa",
+			"soflan": 29.71,
+			"textage": "/25/helladep.html",
+			"SPN": 4,
+			"SPH": 7,
+			"SPA": 10,
+			"DPN": 4,
+			"DPH": 8,
+			"DPA": 10,
+			"bpmList": [
+				{
+					"bpm": 150,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 144,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 132,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "CYBER_FLAMENCO",
+			"title": "hora de verdad",
+			"read": "hora de verdad",
+			"ver": 32,
+			"verName": "PiCr",
+			"soflan": 77.14,
+			"textage": "/32/horadeve.html",
+			"SPN": 6,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 140,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 280,
+					"type": "",
+					"memo": "8小節 "
+				}
+			]
+		},
+		{
+			"id": "ICARUS",
+			"title": "ICARUS",
+			"read": "ICARUS",
+			"ver": 15,
+			"verName": "DJT",
+			"soflan": 189.41,
+			"textage": "/15/icarus.html",
+			"SPN": 7,
+			"SPH": 10,
+			"SPA": 12,
+			"SPL": 12,
+			"DPN": 7,
+			"DPH": 10,
+			"DPA": 12,
+			"DPL": 12,
+			"bpmList": [
+				{
+					"bpm": 176,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 126,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 131,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 136,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 141,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 146,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 151,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 156,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 161,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 166,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 171,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 176,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 181,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 186,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 191,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 196,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 201,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 211,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 221,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 231,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 241,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 251,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 176,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "IGNIS_IRAE",
+			"title": "Ignis†Iræ",
+			"read": "Ignis†Iræ",
+			"ver": 28,
+			"verName": "Bis",
+			"soflan": 47.93,
+			"textage": "/28/ignisira.html",
+			"SPN": 6,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 191,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 188,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 191,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "IN_THE_BREEZE",
+			"title": "In The Breeze",
+			"read": "In The Breeze",
+			"ver": 22,
+			"verName": "Pen",
+			"soflan": 35.95,
+			"textage": "/22/inbreeze.html",
+			"SPN": 4,
+			"SPH": 7,
+			"SPA": 9,
+			"DPN": 5,
+			"DPH": 8,
+			"DPA": 10,
+			"bpmList": [
+				{
+					"bpm": 123,
+					"type": "",
+					"memo": "5小節 "
+				},
+				{
+					"bpm": 142,
+					"type": "",
+					"memo": "メインフレーズ開始のドラムロールと同時に加速"
+				}
+			]
+		},
+		{
+			"id": "JOMANDA",
+			"title": "JOMANDA",
+			"read": "JOMANDA",
+			"ver": 20,
+			"verName": "Tri",
+			"soflan": 179.34,
+			"textage": "/20/jomanda.html",
+			"SPN": 6,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 195,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 160,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 90,
+					"type": "td-s",
+					"memo": "1.125小節 "
+				},
+				{
+					"bpm": 95,
+					"type": "td-vvs",
+					"memo": "0.0625小節 16分一個ぶん"
+				},
+				{
+					"bpm": 100,
+					"type": "td-vvs",
+					"memo": "0.0625小節 16分一個ぶん"
+				},
+				{
+					"bpm": 110,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 170,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 190,
+					"type": "td-vvs",
+					"memo": "0.625小節 "
+				},
+				{
+					"bpm": 210,
+					"type": "td-vvs",
+					"memo": "0.75小節 "
+				},
+				{
+					"bpm": 220,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 240,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 250,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "",
+					"memo": "5小節 "
+				},
+				{
+					"bpm": 195,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "OTOGE_CORE",
+			"title": "kors k's How to make OTOGE CORE",
+			"read": "kors k's How to make OTOGE CORE",
+			"ver": 29,
+			"verName": "CaHo",
+			"soflan": 119.18,
+			"textage": "/29/korskhow.html",
+			"SPN": 5,
+			"SPH": 9,
+			"SPA": 11,
+			"DPN": 5,
+			"DPH": 9,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 124,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 190,
+					"type": "",
+					"memo": "190でいってみよう→kicks→\"ﾄﾞｯﾄﾞｯﾄﾞｯﾄﾞｯ\"で加速"
+				},
+				{
+					"bpm": 124,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 190,
+					"type": "",
+					"memo": "何事もツカミと印象と勢いが大事だ！→加速→Melodys"
+				},
+				{
+					"bpm": 124,
+					"type": "",
+					"memo": "裸の心おおおお！！"
+				},
+				{
+					"bpm": 190,
+					"type": "",
+					"memo": "ここでゲームの難易度が決まります→result→\"Are you ready!!\"で加速"
+				}
+			]
+		},
+		{
+			"id": "AMOUR_LIBERTY",
+			"title": "L'amour et la liberté",
+			"read": "L'amour et la liberté",
+			"ver": 6,
+			"verName": "6th",
+			"soflan": 76.95,
+			"textage": "/6/lamour31.html",
+			"SPN": 5,
+			"SPH": 8,
+			"SPA": 10,
+			"DPN": 5,
+			"DPH": 8,
+			"DPA": 10,
+			"bpmList": [
+				{
+					"bpm": 145,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 140,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 145,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 140,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 145,
+					"type": "",
+					"memo": "8小節 "
+				}
+			]
+		},
+		{
+			"id": "LETHAL_WEAPON",
+			"title": "Lethal Weapon",
+			"read": "Lethal Weapon",
+			"ver": 26,
+			"verName": "Root",
+			"soflan": 113.27,
+			"textage": "/26/lethalwp.html",
+			"SPN": 6,
+			"SPH": 9,
+			"SPA": 12,
+			"DPN": 6,
+			"DPH": 9,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 180,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 90,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "LINUS",
+			"title": "Linus",
+			"read": "Linus",
+			"ver": 6,
+			"verName": "6th",
+			"soflan": 116.34,
+			"textage": "/6/linus.html",
+			"SPN": 5,
+			"SPH": 9,
+			"SPA": 11,
+			"DPN": 5,
+			"DPH": 9,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 176,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 160,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 176,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 172,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 168,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 170,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 169,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 170,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 171,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 172,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 173,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 174,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 175,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 176,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 166,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 176,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "L_L_PRINCESS",
+			"title": "Little Little Princess",
+			"read": "Little Little Princess",
+			"ver": 12,
+			"verName": "HaSk",
+			"soflan": 39.59,
+			"textage": "/12/littlepr.html",
+			"SPH": 10,
+			"SPA": 11,
+			"SPL": 12,
+			"DPH": 10,
+			"DPA": 11,
+			"DPL": 12,
+			"bpmList": [
+				{
+					"bpm": 212,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 180,
+					"type": "td-s",
+					"memo": "2小節 "
+				}
+			]
+		},
+		{
+			"id": "MARIE_ANTOINETTE",
+			"title": "Marie Antoinette",
+			"read": "Marie Antoinette",
+			"ver": 16,
+			"verName": "Emp",
+			"soflan": 91.2,
+			"textage": "/16/marieant.html",
+			"SPN": 6,
+			"SPH": 9,
+			"SPA": 11,
+			"SPL": 12,
+			"DPN": 6,
+			"DPH": 9,
+			"DPA": 11,
+			"DPL": 11,
+			"bpmList": [
+				{
+					"bpm": 215,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 205,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 248,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "MAX_300",
+			"title": "MAX 300",
+			"read": "MAX 300",
+			"ver": 7,
+			"verName": "7th",
+			"soflan": 88.13,
+			"textage": "/7/max_300.html",
+			"SPN": 7,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 7,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 300,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 277,
+					"type": "td-vvs",
+					"memo": "0.125小節 再加速は8拍後。そこから1拍でノーツ"
+				},
+				{
+					"bpm": 251,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 226,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 289,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 129,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 66,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 12,
+					"type": "td-vvs",
+					"memo": "0.1小節 厳密解192フレームに対して約189.2フレーム"
+				},
+				{
+					"bpm": 300,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "MAX_360",
+			"title": "MAX 360",
+			"read": "MAX 360",
+			"ver": 30,
+			"verName": "Resi",
+			"soflan": 64.69,
+			"textage": "/30/max_360.html",
+			"SPN": 6,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 360,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 330,
+					"type": "td-vvs",
+					"memo": "0.125小節 再加速は8拍後。そこから1拍でノーツ"
+				},
+				{
+					"bpm": 295,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 255,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 210,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 160,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 105,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 45,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 15,
+					"type": "td-vvs",
+					"memo": "0.0625小節 厳密解160フレームに対して約155.6フレーム"
+				},
+				{
+					"bpm": 360,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "MEISSA",
+			"title": "Meissa",
+			"read": "Meissa",
+			"ver": 30,
+			"verName": "Resi",
+			"soflan": 90.05,
+			"textage": "/30/meissa.html",
+			"SPN": 5,
+			"SPH": 9,
+			"SPA": 12,
+			"DPN": 5,
+			"DPH": 9,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 174,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 162,
+					"type": "td-s",
+					"memo": "3.5小節 "
+				},
+				{
+					"bpm": 156,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 124,
+					"type": "td-s",
+					"memo": "2.25小節 "
+				}
+			]
+		},
+		{
+			"id": "MIDNIGHT_DRIVE",
+			"title": "Midnight Drive",
+			"read": "Midnight Drive",
+			"ver": 28,
+			"verName": "Bis",
+			"soflan": 81.61,
+			"textage": "/28/middrive.html",
+			"SPN": 3,
+			"SPH": 8,
+			"SPA": 10,
+			"DPN": 3,
+			"DPH": 8,
+			"DPA": 10,
+			"bpmList": [
+				{
+					"bpm": 110,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 105,
+					"type": "td-vs",
+					"memo": "1小節 ﾄｩﾙﾄｩﾙﾄｩｯﾄｩｰのスキャット終了後から減速"
+				},
+				{
+					"bpm": 100,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 95,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 90,
+					"type": "",
+					"memo": "take no ﾅﾝﾄｶ just do it"
+				}
+			]
+		},
+		{
+			"id": "MIND_THE_GAP",
+			"title": "mind the gap",
+			"read": "mind the gap",
+			"ver": 12,
+			"verName": "HaSk",
+			"soflan": 112.77,
+			"textage": "/12/mindgp29.html",
+			"SPN": 5,
+			"SPH": 7,
+			"SPA": 9,
+			"DPN": 6,
+			"DPH": 8,
+			"DPA": 9,
+			"bpmList": [
+				{
+					"bpm": 98,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 147,
+					"type": "",
+					"memo": "スネアドラムのﾀﾝﾀﾀの直後に加速"
+				},
+				{
+					"bpm": 98,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 147,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 98,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "MON_BUIS",
+			"title": "Monkey Business",
+			"read": "Monkey Business",
+			"ver": 31,
+			"verName": "Epo",
+			"soflan": 177.04,
+			"textage": "/31/monkeybs.html",
+			"SPN": 5,
+			"SPH": 8,
+			"SPA": 11,
+			"DPN": 5,
+			"DPH": 8,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 160,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 80,
+					"type": "td-vvs",
+					"memo": "0.5小節 疑似停止2拍"
+				},
+				{
+					"bpm": 160,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 80,
+					"type": "td-vvs",
+					"memo": "0.5小節 疑似停止2拍"
+				},
+				{
+					"bpm": 160,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 80,
+					"type": "",
+					"memo": "8小節 ｱｧｰﾝのスクラッチの1拍後に減速"
+				},
+				{
+					"bpm": 160,
+					"type": "td-s",
+					"memo": "3.75小節 "
+				},
+				{
+					"bpm": 80,
+					"type": "td-vvs",
+					"memo": "0.25小節 疑似停止1拍"
+				},
+				{
+					"bpm": 160,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 80,
+					"type": "td-vs",
+					"memo": "1小節 疑似停止4拍"
+				},
+				{
+					"bpm": 160,
+					"type": "td-s",
+					"memo": "4小節 "
+				}
+			]
+		},
+		{
+			"id": "MOON_CHILD",
+			"title": "moon_child",
+			"read": "moon_child",
+			"ver": 9,
+			"verName": "9th",
+			"soflan": 35.91,
+			"textage": "/9/m_child.html",
+			"SPN": 5,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 4,
+			"DPH": 11,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 146,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 155,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 160,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 155,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "td-vs",
+					"memo": "1小節 ソフランするがここ以降はどの譜面もノーツ無し"
+				},
+				{
+					"bpm": 146,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "td-vs",
+					"memo": "1小節 "
+				}
+			]
+		},
+		{
+			"id": "N_A",
+			"title": "n/a",
+			"read": "n/a",
+			"ver": 29,
+			"verName": "CaHo",
+			"soflan": 165.51,
+			"textage": "/29/n_a.html",
+			"SPN": 7,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 7,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 170,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 85,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 170,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 190,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 200,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 210,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 220,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 230,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 240,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 255,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "NEBULA_GRASPER",
+			"title": "NEBULA GRASPER",
+			"read": "NEBULA GRASPER",
+			"ver": 11,
+			"verName": "Red",
+			"soflan": 0.87,
+			"textage": "/11/nebula_g.html",
+			"SPN": 6,
+			"SPH": 9,
+			"SPA": 10,
+			"DPN": 7,
+			"DPH": 9,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 152,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 153,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "NEW_CATSLE_LEGIONS",
+			"title": "New Castle Legions",
+			"read": "New Castle Legions",
+			"ver": 18,
+			"verName": "ReAn",
+			"soflan": 125.87,
+			"textage": "/18/nwcasl26.html",
+			"SPN": 6,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 120,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 150,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 120,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 170,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "NINJA_IS_DEAD",
+			"title": "NINJA IS DEAD IIDX ver.",
+			"read": "NINJA IS DEAD IIDX ver.",
+			"ver": 23,
+			"verName": "Cop",
+			"soflan": 64.37,
+			"textage": "/23/ninja_dd.html",
+			"SPN": 6,
+			"SPH": 9,
+			"SPA": 12,
+			"DPN": 6,
+			"DPH": 9,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 222,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 111,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 222,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "NNRT",
+			"title": "NNRT",
+			"read": "NNRT",
+			"ver": 19,
+			"verName": "Linc",
+			"soflan": 15.64,
+			"textage": "/19/nnrt.html",
+			"SPN": 6,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 101,
+					"type": "",
+					"memo": "5小節 "
+				},
+				{
+					"bpm": 202,
+					"type": "",
+					"memo": "イントロが終わったら皿チョン可能"
+				},
+				{
+					"bpm": 101,
+					"type": "td-s",
+					"memo": "3小節 "
+				}
+			]
+		},
+		{
+			"id": "NOSTOS",
+			"title": "nostos",
+			"read": "nostos",
+			"ver": 24,
+			"verName": "Sino",
+			"soflan": 151.92,
+			"textage": "/24/nostos.html",
+			"SPN": 5,
+			"SPH": 8,
+			"SPA": 11,
+			"DPN": 5,
+			"DPH": 9,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 128,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 132,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 144,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 138,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 128,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 116,
+					"type": "td-vvs",
+					"memo": "0.66小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "td-vvs",
+					"memo": "0.66小節 "
+				},
+				{
+					"bpm": 86,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 112,
+					"type": "td-vvs",
+					"memo": "0.66小節 ﾀﾝﾄﾝ\"ﾀﾝﾄﾝﾀﾝﾄﾝ\"で加速"
+				},
+				{
+					"bpm": 106,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 102,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 90,
+					"type": "td-s",
+					"memo": "2.125小節 小節線より少し前に減"
+				}
+			]
+		},
+		{
+			"id": "ODIN",
+			"title": "Odin",
+			"read": "Odin",
+			"ver": 21,
+			"verName": "Spa",
+			"soflan": 72,
+			"textage": "/21/odin.html",
+			"SPN": 4,
+			"SPH": 7,
+			"SPA": 10,
+			"DPN": 5,
+			"DPH": 7,
+			"DPA": 10,
+			"bpmList": [
+				{
+					"bpm": 180,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 172,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 166,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 160,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 166,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 172,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "ONYX",
+			"title": "Onyx",
+			"read": "Onyx",
+			"ver": 29,
+			"verName": "CaHo",
+			"soflan": 132.88,
+			"textage": "/29/onyx.html",
+			"SPN": 5,
+			"SPH": 8,
+			"SPA": 11,
+			"DPN": 5,
+			"DPH": 8,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 174,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 44,
+					"type": "td-vs",
+					"memo": "1小節 疑似停止2拍"
+				},
+				{
+					"bpm": 174,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 44,
+					"type": "td-vs",
+					"memo": "1小節 疑似停止2拍"
+				},
+				{
+					"bpm": 174,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "JOJO",
+			"title": "op.31 叙情",
+			"read": "op.31 叙情",
+			"ver": 14,
+			"verName": "Gold",
+			"soflan": 195.28,
+			"textage": "/14/op31jojo.html",
+			"SPN": 4,
+			"SPH": 9,
+			"SPA": 10,
+			"DPN": 6,
+			"DPH": 11,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 180,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 200,
+					"type": "td-s",
+					"memo": "1.33小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "td-s",
+					"memo": "1.33小節 "
+				},
+				{
+					"bpm": 160,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 210,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 180,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 160,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 210,
+					"type": "",
+					"memo": "6小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.66小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-s",
+					"memo": "1.33小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 310,
+					"type": "",
+					"memo": "6小節 "
+				},
+				{
+					"bpm": 230,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "",
+					"memo": "7.66小節 "
+				},
+				{
+					"bpm": 320,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "",
+					"memo": "8.33小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.66小節 "
+				},
+				{
+					"bpm": 200,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 220,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 230,
+					"type": "",
+					"memo": "6小節 "
+				},
+				{
+					"bpm": 190,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 340,
+					"type": "",
+					"memo": "7.66小節 "
+				},
+				{
+					"bpm": 350,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 320,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "",
+					"memo": "5小節 "
+				},
+				{
+					"bpm": 220,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 240,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "td-s",
+					"memo": "3小節 "
+				}
+			]
+		},
+		{
+			"id": "PARA_HADES",
+			"title": "PARANOiA 〜HADES〜",
+			"read": "PARANOiA HADES",
+			"ver": 15,
+			"verName": "DJT",
+			"soflan": 134.16,
+			"textage": "/15/pr_hades.html",
+			"SPN": 7,
+			"SPH": 11,
+			"SPA": 12,
+			"DPN": 8,
+			"DPH": 11,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 300,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 75,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 300,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "PARA_SURV",
+			"title": "PARANOIA survivor MAX",
+			"read": "PARANOIA survivor MAX",
+			"ver": 9,
+			"verName": "9th",
+			"soflan": 178.52,
+			"textage": "/9/parasv31.html",
+			"SPN": 5,
+			"SPH": 8,
+			"SPA": 10,
+			"DPN": 5,
+			"DPH": 8,
+			"DPA": 10,
+			"bpmList": [
+				{
+					"bpm": 290,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 145,
+					"type": "td-vs",
+					"memo": "1小節 疑似停止4拍"
+				},
+				{
+					"bpm": 290,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 145,
+					"type": "td-vs",
+					"memo": "1小節 疑似停止4拍"
+				},
+				{
+					"bpm": 290,
+					"type": "",
+					"memo": "5.5小節 "
+				},
+				{
+					"bpm": 145,
+					"type": "td-vs",
+					"memo": "1小節 疑似停止4拍"
+				},
+				{
+					"bpm": 290,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 73,
+					"type": "td-vs",
+					"memo": "1小節 疑似停止4拍"
+				},
+				{
+					"bpm": 290,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 145,
+					"type": "td-vs",
+					"memo": "1小節 疑似停止4拍"
+				},
+				{
+					"bpm": 290,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "PENDUAL_TALISMAN",
+			"title": "PENDUAL TALISMAN",
+			"read": "PENDUAL TALISMAN",
+			"ver": 22,
+			"verName": "Pen",
+			"soflan": 12.42,
+			"textage": "/22/pendualt.html",
+			"SPN": 5,
+			"SPH": 8,
+			"SPA": 11,
+			"DPN": 4,
+			"DPH": 8,
+			"DPA": 10,
+			"bpmList": [
+				{
+					"bpm": 160,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 150,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "PINK_ROSE",
+			"title": "Pink Rose",
+			"read": "Pink Rose",
+			"ver": 12,
+			"verName": "HaSk",
+			"soflan": 29.94,
+			"textage": "/12/pinkr_ra.html",
+			"SPN": 3,
+			"SPH": 5,
+			"SPA": 8,
+			"SPL": 10,
+			"DPN": 3,
+			"DPH": 5,
+			"DPA": 8,
+			"DPL": 10,
+			"bpmList": [
+				{
+					"bpm": 132,
+					"type": "",
+					"memo": "8小節 ﾅｶﾅｲﾃﾞｰ"
+				},
+				{
+					"bpm": 128,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 124,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 116,
+					"type": "td-s",
+					"memo": "1.25小節 "
+				},
+				{
+					"bpm": 146,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "POSSESSION",
+			"title": "POSSESSION",
+			"read": "POSSESSION",
+			"ver": 23,
+			"verName": "Cop",
+			"soflan": 157.88,
+			"textage": "/23/posesion.html",
+			"SPN": 7,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 7,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 185,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 93,
+					"type": "td-s",
+					"memo": "3.875小節 "
+				},
+				{
+					"bpm": 23,
+					"type": "td-vvs",
+					"memo": "0.125小節 疑似停止1拍"
+				},
+				{
+					"bpm": 185,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 93,
+					"type": "td-s",
+					"memo": "3.5小節 "
+				},
+				{
+					"bpm": 23,
+					"type": "td-vvs",
+					"memo": "0.375小節 疑似停止3拍"
+				},
+				{
+					"bpm": 93,
+					"type": "td-vvs",
+					"memo": "0.125小節 疑似停止1拍"
+				},
+				{
+					"bpm": 185,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "OTOGE_STREAMER",
+			"title": "Push on Beats!〜音ゲの国のeX-ストリーマー〜",
+			"read": "Push on Beats!〜音ゲの国のeX-ストリーマー〜",
+			"ver": 29,
+			"verName": "CaHo",
+			"soflan": 91.12,
+			"textage": "/29/pushonbt.html",
+			"SPN": 6,
+			"SPH": 9,
+			"SPA": 12,
+			"DPN": 6,
+			"DPH": 9,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 168,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 164,
+					"type": "",
+					"memo": "8小節 Hip Hop!"
+				},
+				{
+					"bpm": 167,
+					"type": "td-vs",
+					"memo": "1小節 Hip Hop!(二回目)"
+				},
+				{
+					"bpm": 170,
+					"type": "td-vs",
+					"memo": "1小節 Trance!(二回目)"
+				},
+				{
+					"bpm": 172,
+					"type": "",
+					"memo": "5小節 Electronica(二回目)"
+				},
+				{
+					"bpm": 168,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "QUAVER",
+			"title": "quaver♪",
+			"read": "quaver♪",
+			"ver": 19,
+			"verName": "Linc",
+			"soflan": 45.72,
+			"textage": "/19/quaver.html",
+			"SPN": 4,
+			"SPH": 9,
+			"SPA": 12,
+			"DPN": 4,
+			"DPH": 9,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 182,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 184,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 186,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "RAAM",
+			"title": "ra'am",
+			"read": "ra'am",
+			"ver": 21,
+			"verName": "Spa",
+			"soflan": 88.86,
+			"textage": "/21/raam.html",
+			"SPN": 8,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 7,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 111,
+					"type": "",
+					"memo": "6小節 "
+				},
+				{
+					"bpm": 222,
+					"type": "",
+					"memo": "ﾌﾟｲｰﾝのCNと同時に加速"
+				},
+				{
+					"bpm": 111,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 222,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 111,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 222,
+					"type": "td-vs",
+					"memo": "1小節 "
+				}
+			]
+		},
+		{
+			"id": "RAISON_DETRE",
+			"title": "Raison d'être〜交差する宿命〜",
+			"read": "Raison d'être〜交差する宿命〜",
+			"ver": 17,
+			"verName": "Siri",
+			"soflan": 15.93,
+			"textage": "/17/raison.html",
+			"SPN": 5,
+			"SPH": 10,
+			"SPA": 11,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 155,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 175,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "REGULUS",
+			"title": "Regulus",
+			"read": "Regulus",
+			"ver": 5,
+			"verName": "5th",
+			"soflan": 36.87,
+			"textage": "/5/regulus.html",
+			"SPN": 6,
+			"SPH": 9,
+			"SPA": 10,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 128,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 125,
+					"type": "td-s",
+					"memo": "3.75小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 128,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "OPALS",
+			"title": "ruin of opals",
+			"read": "ruin of opals",
+			"ver": 26,
+			"verName": "Root",
+			"soflan": 187.3,
+			"textage": "/26/ruinopal.html",
+			"SPN": 6,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 355,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 350,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "td-s",
+					"memo": "1.5小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 220,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "td-s",
+					"memo": "2.75小節 "
+				},
+				{
+					"bpm": 258,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 355,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 330,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 315,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 330,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 340,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 350,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 380,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 330,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 345,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 360,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 370,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 380,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 390,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 340,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 330,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 320,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 360,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 350,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 250,
+					"type": "",
+					"memo": "5小節 "
+				}
+			]
+		},
+		{
+			"id": "SAYONARA_SUPER_STAR",
+			"title": "SA.YO.NA.RA. SUPER STAR",
+			"read": "SA.YO.NA.RA. SUPER STAR",
+			"ver": 19,
+			"verName": "Linc",
+			"soflan": 89.54,
+			"textage": "/19/synrstar.html",
+			"SPN": 4,
+			"SPH": 8,
+			"SPA": 10,
+			"DPN": 5,
+			"DPH": 9,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 170,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 85,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 170,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "SABER_WING",
+			"title": "SABER WING",
+			"read": "SABER WING",
+			"ver": 18,
+			"verName": "ReAn",
+			"soflan": 172.01,
+			"textage": "/18/saberwng.html",
+			"SPN": 5,
+			"SPH": 9,
+			"SPA": 11,
+			"DPN": 5,
+			"DPH": 9,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 222,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 56,
+					"type": "td-vs",
+					"memo": "1小節 疑似停止3拍"
+				},
+				{
+					"bpm": 222,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 56,
+					"type": "td-vvs",
+					"memo": "0.16小節 合わせて疑似停止3拍分"
+				},
+				{
+					"bpm": 222,
+					"type": "td-vvs",
+					"memo": "0.16小節 "
+				},
+				{
+					"bpm": 56,
+					"type": "td-vvs",
+					"memo": "0.16小節 "
+				},
+				{
+					"bpm": 222,
+					"type": "td-vvs",
+					"memo": "0.16小節 "
+				},
+				{
+					"bpm": 56,
+					"type": "td-vvs",
+					"memo": "0.16小節 "
+				},
+				{
+					"bpm": 222,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 444,
+					"type": "td-s",
+					"memo": "4小節 高速中のスクラッチは3拍後。鍵盤ギアチェンする場合は皿巻き込みに注意"
+				},
+				{
+					"bpm": 74,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 37,
+					"type": "td-vvs",
+					"memo": "0.83小節 疑似停止5拍"
+				},
+				{
+					"bpm": 74,
+					"type": "td-vvs",
+					"memo": "0.17小節 疑似停止1拍"
+				},
+				{
+					"bpm": 222,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "SARUTOBI",
+			"title": "Sarutobi Champion is 拙者",
+			"read": "Sarutobi Champion is 拙者",
+			"ver": 24,
+			"verName": "Sino",
+			"soflan": 54.55,
+			"textage": "/24/sarutobi.html",
+			"SPN": 6,
+			"SPH": 9,
+			"SPA": 11,
+			"DPN": 6,
+			"DPH": 9,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 130,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 195,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "SESSION_1",
+			"title": "Session 1 -Genesis-",
+			"read": "Session 1 -Genesis-",
+			"ver": 17,
+			"verName": "Siri",
+			"soflan": 14.01,
+			"textage": "/17/session1.html",
+			"SPN": 6,
+			"SPH": 9,
+			"SPA": 11,
+			"DPN": 8,
+			"DPH": 9,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 79,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 178,
+					"type": "",
+					"memo": "イントロの連続CNが終わったら皿チョン可能"
+				}
+			]
+		},
+		{
+			"id": "SESSION_9",
+			"title": "Session 9 -Chronicles-",
+			"read": "Session 9 -Chronicles-",
+			"ver": 18,
+			"verName": "ReAn",
+			"soflan": 28.05,
+			"textage": "/18/session9.html",
+			"SPN": 5,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 5,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 182,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 189,
+					"type": "",
+					"memo": "メインフレーズの開始と共にソフラン"
+				}
+			]
+		},
+		{
+			"id": "MY_WIFE",
+			"title": "She is my wife",
+			"read": "She is my wife",
+			"ver": 17,
+			"verName": "Siri",
+			"soflan": 8.23,
+			"textage": "/17/she_wife.html",
+			"SPN": 5,
+			"SPH": 9,
+			"SPA": 10,
+			"DPN": 5,
+			"DPH": 9,
+			"DPA": 10,
+			"bpmList": [
+				{
+					"bpm": 85,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 170,
+					"type": "",
+					"memo": "イントロ終了のスクラッチから4拍後に皿チョン可能。小節線と同時にソフラン"
+				}
+			]
+		},
+		{
+			"id": "SILLY_LOVE",
+			"title": "Silly Love",
+			"read": "Silly Love",
+			"ver": 27,
+			"verName": "HeVe",
+			"soflan": 70.99,
+			"textage": "/27/silylove.html",
+			"SPN": 4,
+			"SPH": 8,
+			"SPA": 10,
+			"DPN": 4,
+			"DPH": 8,
+			"DPA": 10,
+			"bpmList": [
+				{
+					"bpm": 153,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 124,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 153,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "SILVER_BULLET",
+			"title": "Silver Bullet",
+			"read": "Silver Bullet",
+			"ver": 29,
+			"verName": "CaHo",
+			"soflan": 188.86,
+			"textage": "/29/slbullet.html",
+			"SPN": 6,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 168,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 166,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 167,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 168,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 160,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 168,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 165,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 168,
+					"type": "td-vvs",
+					"memo": "0.75小節 "
+				},
+				{
+					"bpm": 166,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 163,
+					"type": "td-vvs",
+					"memo": "0.75小節 "
+				},
+				{
+					"bpm": 168,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 163,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 158,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 152,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 165,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 164,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 162,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 166,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 165,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 168,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 167,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 168,
+					"type": "td-vvs",
+					"memo": "0.75小節 "
+				},
+				{
+					"bpm": 165,
+					"type": "td-vvs",
+					"memo": "0.75小節 "
+				},
+				{
+					"bpm": 163,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 167,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 168,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 163,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 158,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 165,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 166,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 167,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 168,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 160,
+					"type": "",
+					"memo": "5小節 "
+				},
+				{
+					"bpm": 168,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 172,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 168,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 164,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 162,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 163,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 165,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 167,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 168,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 165,
+					"type": "td-vvs",
+					"memo": "0.75小節 "
+				},
+				{
+					"bpm": 168,
+					"type": "",
+					"memo": "6小節 "
+				}
+			]
+		},
+		{
+			"id": "SINUS",
+			"title": "Sinus Iridum",
+			"read": "Sinus Iridum",
+			"ver": 28,
+			"verName": "Bis",
+			"soflan": 150.87,
+			"textage": "/28/sinusiri.html",
+			"SPN": 7,
+			"SPH": 11,
+			"SPA": 12,
+			"DPN": 7,
+			"DPH": 11,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 128,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 256,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 128,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 256,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 128,
+					"type": "",
+					"memo": "8小節 "
+				}
+			]
+		},
+		{
+			"id": "SISYPHUS",
+			"title": "SISYPHUS",
+			"read": "SISYPHUS",
+			"ver": 32,
+			"verName": "PiCr",
+			"soflan": 181.27,
+			"textage": "/32/sisyphus.html",
+			"SPN": 6,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 180,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 90,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 95,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 105,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 110,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 115,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 125,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 135,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 145,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 155,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 160,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 165,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 170,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 175,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 90,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 95,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 105,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 110,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 115,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 125,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 135,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 145,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 155,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 160,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 165,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 170,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 175,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 185,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 190,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 90,
+					"type": "td-vs",
+					"memo": "1小節 "
+				}
+			]
+		},
+		{
+			"id": "SKRATCH_EDUCATION",
+			"title": "Skratch Education Lv-1",
+			"read": "Skratch Education Lv-1",
+			"ver": 32,
+			"verName": "PiCr",
+			"soflan": 181.94,
+			"textage": "/32/skedulv1.html",
+			"SPN": 7,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 7,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 100,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 105,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 110,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 115,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 125,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 135,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 145,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 155,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 160,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 165,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 170,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 175,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 185,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 190,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 195,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 200,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "SOKUSINJOUBUTU",
+			"title": "Sol Cosine Job 2",
+			"read": "Sol Cosine Job 2",
+			"ver": 20,
+			"verName": "Tri",
+			"soflan": 51.39,
+			"textage": "/20/soljob2.html",
+			"SPN": 6,
+			"SPH": 9,
+			"SPA": 12,
+			"DPN": 6,
+			"DPH": 11,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 190,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 195,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 200,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "SPACE_IN_TIME",
+			"title": "Space In Time",
+			"read": "Space In Time",
+			"ver": 32,
+			"verName": "PiCr",
+			"soflan": 86.02,
+			"textage": "/32/spaceint.html",
+			"SPN": 6,
+			"SPH": 9,
+			"SPA": 11,
+			"DPN": 6,
+			"DPH": 9,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 165,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 166,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 167,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 168,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 169,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 170,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 171,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 172,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 173,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 174,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "STULTI",
+			"title": "STULTI",
+			"read": "STULTI",
+			"ver": 20,
+			"verName": "Tri",
+			"soflan": 109.35,
+			"textage": "/20/stulti.html",
+			"SPN": 5,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 5,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 182,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 90,
+					"type": "",
+					"memo": "5小節 "
+				},
+				{
+					"bpm": 182,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "SURF_LIGHT",
+			"title": "Surf on the Light",
+			"read": "Surf on the Light",
+			"ver": 24,
+			"verName": "Sino",
+			"soflan": 101.32,
+			"textage": "/24/surfon.html",
+			"SPN": 4,
+			"SPH": 8,
+			"SPA": 10,
+			"DPN": 4,
+			"DPH": 8,
+			"DPA": 10,
+			"bpmList": [
+				{
+					"bpm": 160,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 150,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 147,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 138,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 118,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 116,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 114,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 101,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 91,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 111,
+					"type": "td-vvs",
+					"memo": "0.25小節 まさかの加速"
+				},
+				{
+					"bpm": 99,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 90,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 71,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 60,
+					"type": "td-vs",
+					"memo": "1小節 "
+				}
+			]
+		},
+		{
+			"id": "SYNC_ANTHEM",
+			"title": "SYNC-ANTHEM",
+			"read": "SYNC-ANTHEM",
+			"ver": 20,
+			"verName": "Tri",
+			"soflan": 36.2,
+			"textage": "/20/sync_ant.html",
+			"SPN": 5,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 160,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 166,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "THANK_YOU_FOR_PLAYING",
+			"title": "THANK YOU FOR PLAYING",
+			"read": "THANK YOU FOR PLAYING",
+			"ver": 16,
+			"verName": "Emp",
+			"soflan": 80.36,
+			"textage": "/16/thank_u4.html",
+			"SPN": 5,
+			"SPH": 9,
+			"SPA": 10,
+			"SPL": 12,
+			"DPN": 5,
+			"DPH": 8,
+			"DPA": 10,
+			"DPL": 11,
+			"bpmList": [
+				{
+					"bpm": 170,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 160,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 145,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 128,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 117,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 99,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 45,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 145,
+					"type": "td-vs",
+					"memo": "1小節 ノーツを叩く直前で加速するので注意"
+				}
+			]
+		},
+		{
+			"id": "LEAST_100SEC",
+			"title": "The Least 100sec",
+			"read": "The Least 100sec",
+			"ver": 22,
+			"verName": "Pen",
+			"soflan": 92.9,
+			"textage": "/22/t_100sec.html",
+			"SPN": 5,
+			"SPH": 9,
+			"SPA": 12,
+			"DPN": 6,
+			"DPH": 9,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 264,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 260,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 258,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 257,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 255,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 254,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 252,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 250,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 249,
+					"type": "td-s",
+					"memo": "1.5小節 "
+				},
+				{
+					"bpm": 252,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 255,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 258,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 264,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 200,
+					"type": "td-s",
+					"memo": "3.25小節 アウトロが始まる前に皿チョン可能"
+				}
+			]
+		},
+		{
+			"id": "THEORY",
+			"title": "Theory",
+			"read": "Theory",
+			"ver": 27,
+			"verName": "HeVe",
+			"soflan": 163.08,
+			"textage": "/27/theory.html",
+			"SPN": 5,
+			"SPH": 8,
+			"SPA": 11,
+			"DPN": 5,
+			"DPH": 8,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 146,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 145,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 144,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 143,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 142,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 141,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 138,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 137,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 136,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 135,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 133,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 132,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 131,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 129,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 128,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 126,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 124,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 121,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 119,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 116,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 113,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 111,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 109,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 108,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 106,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 105,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 104,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 102,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 103,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 104,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 106,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 107,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 109,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 110,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 111,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 113,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 115,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 117,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 118,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 122,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 123,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 125,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 126,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 127,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 129,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 132,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 133,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 135,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 137,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 138,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 142,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 143,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 144,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 146,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "TITANS_RETURN",
+			"title": "TITANS RETURN",
+			"read": "TITANS RETURN",
+			"ver": 19,
+			"verName": "Linc",
+			"soflan": 146,
+			"textage": "/19/titans.html",
+			"SPL": 12,
+			"DPL": 12,
+			"bpmList": [
+				{
+					"bpm": 194,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 97,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 194,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 97,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 194,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "TOYCUBE",
+			"title": "ToyCube Pf.(RX-Ver.S.P.L.)",
+			"read": "ToyCube Pf.(RX-Ver.S.P.L.)",
+			"ver": 26,
+			"verName": "Root",
+			"soflan": 40.48,
+			"textage": "/26/toycube.html",
+			"SPN": 4,
+			"SPH": 7,
+			"SPA": 9,
+			"DPN": 7,
+			"DPH": 9,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 180,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 177,
+					"type": "td-vvs",
+					"memo": "0.16小節 "
+				},
+				{
+					"bpm": 174,
+					"type": "td-vvs",
+					"memo": "0.16小節 "
+				},
+				{
+					"bpm": 171,
+					"type": "td-vvs",
+					"memo": "0.16小節 "
+				},
+				{
+					"bpm": 168,
+					"type": "td-vvs",
+					"memo": "0.16小節 "
+				},
+				{
+					"bpm": 166,
+					"type": "td-vvs",
+					"memo": "0.16小節 "
+				},
+				{
+					"bpm": 163,
+					"type": "td-vvs",
+					"memo": "0.16小節 "
+				},
+				{
+					"bpm": 158,
+					"type": "td-vvs",
+					"memo": "0.16小節 "
+				},
+				{
+					"bpm": 153,
+					"type": "td-vvs",
+					"memo": "0.16小節 "
+				},
+				{
+					"bpm": 147,
+					"type": "td-vvs",
+					"memo": "0.16小節 "
+				},
+				{
+					"bpm": 142,
+					"type": "td-vvs",
+					"memo": "0.16小節 "
+				},
+				{
+					"bpm": 137,
+					"type": "td-vs",
+					"memo": "1小節 "
+				}
+			]
+		},
+		{
+			"id": "TRANOID",
+			"title": "TRANOID",
+			"read": "TRANOID",
+			"ver": 14,
+			"verName": "Gold",
+			"soflan": 61.67,
+			"textage": "/14/tranoid.html",
+			"SPN": 5,
+			"SPH": 10,
+			"SPA": 11,
+			"SPL": 12,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 12,
+			"DPL": 12,
+			"bpmList": [
+				{
+					"bpm": 130,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 180,
+					"type": "td-vs",
+					"memo": "1小節 イントロ終了直後は最高速ではないので注意"
+				},
+				{
+					"bpm": 185,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 190,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "TRIP_MACHINE_PHOENIX",
+			"title": "TRIP MACHINE PhoeniX",
+			"read": "TRIP MACHINE PhoeniX",
+			"ver": 15,
+			"verName": "DJT",
+			"soflan": 65.75,
+			"textage": "/15/triphx26.html",
+			"SPN": 6,
+			"SPH": 9,
+			"SPA": 10,
+			"DPN": 6,
+			"DPH": 9,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 160,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 80,
+					"type": "td-vvs",
+					"memo": "0.5小節 ﾃﾞｪｰﾝ。裏拍で鳴る"
+				},
+				{
+					"bpm": 160,
+					"type": "td-s",
+					"memo": "4小節 "
+				}
+			]
+		},
+		{
+			"id": "VJ_ARMY",
+			"title": "VJ ARMY",
+			"read": "VJ ARMY",
+			"ver": 6,
+			"verName": "6th",
+			"soflan": 69.78,
+			"textage": "/6/vjarmy26.html",
+			"SPN": 6,
+			"SPH": 9,
+			"SPA": 10,
+			"DPN": 6,
+			"DPH": 8,
+			"DPA": 10,
+			"bpmList": [
+				{
+					"bpm": 141,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 145,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 160,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 135,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "VOID",
+			"title": "VØID",
+			"read": "VØID",
+			"ver": 30,
+			"verName": "Resi",
+			"soflan": 180.14,
+			"textage": "/30/vo_id.html",
+			"SPN": 7,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 7,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 164,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 110,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 102,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 104,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 106,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 108,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 110,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 112,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 114,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 116,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 118,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 122,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 124,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 126,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 128,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 132,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 134,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 136,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 138,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 142,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 144,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 146,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 148,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 152,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 154,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 156,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 158,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 160,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 162,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 152,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 142,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 132,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 122,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 112,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 102,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 92,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 80,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 170,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "VOLTAGE",
+			"title": "Voltage (feat. Hidemaru)",
+			"read": "Voltage (feat. Hidemaru)",
+			"ver": 4,
+			"verName": "4th",
+			"soflan": 162.94,
+			"textage": "/4/voltage.html",
+			"SPN": 5,
+			"SPH": 7,
+			"SPA": 8,
+			"DPN": 5,
+			"DPH": 11,
+			"bpmList": [
+				{
+					"bpm": 125,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 30,
+					"type": "td-vvs",
+					"memo": "0.25小節 疑似停止1拍"
+				},
+				{
+					"bpm": 125,
+					"type": "td-s",
+					"memo": "1.75小節 "
+				},
+				{
+					"bpm": 30,
+					"type": "td-vvs",
+					"memo": "0.25小節 疑似停止1拍"
+				},
+				{
+					"bpm": 125,
+					"type": "td-s",
+					"memo": "1.75小節 "
+				},
+				{
+					"bpm": 30,
+					"type": "td-vvs",
+					"memo": "0.25小節 疑似停止1拍"
+				},
+				{
+					"bpm": 125,
+					"type": "td-s",
+					"memo": "1.75小節 "
+				},
+				{
+					"bpm": 30,
+					"type": "td-vvs",
+					"memo": "0.25小節 疑似停止1拍"
+				},
+				{
+					"bpm": 125,
+					"type": "td-s",
+					"memo": "1.75小節 "
+				},
+				{
+					"bpm": 30,
+					"type": "td-vvs",
+					"memo": "0.25小節 疑似停止1拍"
+				},
+				{
+					"bpm": 125,
+					"type": "td-s",
+					"memo": "1.75小節 "
+				},
+				{
+					"bpm": 30,
+					"type": "td-vvs",
+					"memo": "0.25小節 疑似停止1拍"
+				},
+				{
+					"bpm": 125,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "VOTUM_STELLARUM",
+			"title": "Votum stellarum",
+			"read": "Votum stellarum",
+			"ver": 12,
+			"verName": "HaSk",
+			"soflan": 24.37,
+			"textage": "/12/votum.html",
+			"SPN": 4,
+			"SPH": 9,
+			"SPA": 10,
+			"DPN": 4,
+			"DPH": 11,
+			"bpmList": [
+				{
+					"bpm": 136,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 147,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "WATER_CUBE",
+			"title": "WaterCube Pf.(RX-Ver.S.P.L.)",
+			"read": "WaterCube Pf.(RX-Ver.S.P.L.)",
+			"ver": 31,
+			"verName": "Epo",
+			"soflan": 63.65,
+			"textage": "/31/water_cb.html",
+			"SPN": 3,
+			"SPH": 7,
+			"SPA": 10,
+			"DPN": 3,
+			"DPH": 7,
+			"DPA": 10,
+			"bpmList": [
+				{
+					"bpm": 150,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 145,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 141,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 136,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 133,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				}
+			]
+		},
+		{
+			"id": "Y_CO_IS_DEAD",
+			"title": "Y&Co. is dead or alive",
+			"read": "Y&Co. is dead or alive",
+			"ver": 16,
+			"verName": "Emp",
+			"soflan": 151.86,
+			"textage": "/16/ycodoa25.html",
+			"SPN": 5,
+			"SPH": 9,
+			"SPA": 12,
+			"DPN": 5,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 145,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 153,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 154,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 163,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 167,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 175,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 178,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 181,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 188,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 194,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 204,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 218,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 221,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 240,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 246,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 268,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 265,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 294,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 325,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 375,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 350,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 392,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 420,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 388,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 510,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 468,
+					"type": "td-vvs",
+					"memo": "0.75小節 "
+				},
+				{
+					"bpm": 540,
+					"type": "td-s",
+					"memo": "2.25小節 "
+				},
+				{
+					"bpm": 694,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 822,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 840,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 876,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 145,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "ZETA",
+			"title": "ZETA〜素数の世界と超越者〜",
+			"read": "ZETA〜素数の世界と超越者〜",
+			"ver": 18,
+			"verName": "ReAn",
+			"soflan": 111.69,
+			"textage": "/18/zeta.html",
+			"SPN": 4,
+			"SPH": 9,
+			"SPA": 11,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 180,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 90,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "ASAYAKE",
+			"title": "朝焼けから始まるボクらの小さな旅",
+			"read": "アサヤケカラハジマルボクラノチイサナタビ",
+			"ver": 23,
+			"verName": "Cop",
+			"soflan": 69.07,
+			"textage": "/23/_asayake.html",
+			"SPN": 5,
+			"SPH": 9,
+			"SPA": 11,
+			"DPN": 5,
+			"DPH": 9,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 218,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 100,
+					"type": "td-vvs",
+					"memo": "0.75小節 "
+				},
+				{
+					"bpm": 218,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "OOSANBASI",
+			"title": "大桟橋",
+			"read": "オオサンバシ",
+			"ver": 11,
+			"verName": "Red",
+			"soflan": 38.22,
+			"textage": "/11/_oosan.html",
+			"SPN": 3,
+			"SPH": 6,
+			"SPA": 9,
+			"DPN": 3,
+			"DPH": 6,
+			"bpmList": [
+				{
+					"bpm": 84,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 168,
+					"type": "",
+					"memo": "メインフレーズの開始と同時にソフラン"
+				}
+			]
+		},
+		{
+			"id": "ONGAKU",
+			"title": "音楽",
+			"read": "オンガク",
+			"ver": 20,
+			"verName": "Tri",
+			"soflan": 175.48,
+			"textage": "/20/_ongaku.html",
+			"SPN": 5,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 5,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 245,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 280,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 245,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 230,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 240,
+					"type": "",
+					"memo": "7小節 "
+				},
+				{
+					"bpm": 250,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 280,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 270,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 270,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 240,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 210,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 280,
+					"type": "td-s",
+					"memo": "4小節 終盤のソフランに向けてここで減速する事を推奨"
+				},
+				{
+					"bpm": 290,
+					"type": "td-s",
+					"memo": "2.75小節 "
+				},
+				{
+					"bpm": 310,
+					"type": "",
+					"memo": "5.25小節 "
+				},
+				{
+					"bpm": 330,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 340,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 350,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 360,
+					"type": "",
+					"memo": "6小節 "
+				},
+				{
+					"bpm": 240,
+					"type": "td-vs",
+					"memo": "1小節 このソフランにノーツは無い"
+				}
+			]
+		},
+		{
+			"id": "ENTERTAINMEN",
+			"title": "覚悟せよ！エンタンメ～ン～より身の切り売り自暴自棄版～",
+			"read": "カクゴセヨエンタンメーン",
+			"ver": 32,
+			"verName": "PiCr",
+			"soflan": 105.24,
+			"textage": "/32/_kakugos.html",
+			"SPN": 5,
+			"SPH": 9,
+			"SPA": 11,
+			"DPN": 5,
+			"DPH": 9,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 176,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 174,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 169,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 165,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 161,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 156,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 152,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 148,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 143,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 141,
+					"type": "",
+					"memo": "6小節 "
+				},
+				{
+					"bpm": 156,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 172,
+					"type": "",
+					"memo": "ここの5連符トリルはBPM215の16分と同等"
+				}
+			]
+		},
+		{
+			"id": "KAKUMEI",
+			"title": "革命",
+			"read": "カクメイ",
+			"ver": 7,
+			"verName": "7th",
+			"soflan": 104.83,
+			"textage": "/7/_kakumei.html",
+			"SPN": 6,
+			"SPH": 10,
+			"SPA": 10,
+			"DPN": 7,
+			"DPH": 12,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 148,
+					"type": "",
+					"memo": "6.5小節 "
+				},
+				{
+					"bpm": 141,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 143,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 132,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 121,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 110,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 83,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 92,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 112,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 137,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 148,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "OOINU_CURRY",
+			"title": "華麗なる大犬円舞曲",
+			"read": "カレイナルオオイヌエンブキョク",
+			"ver": 27,
+			"verName": "HeVe",
+			"soflan": 135.75,
+			"textage": "/27/_valse27.html",
+			"SPN": 7,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 7,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 142,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 130,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "td-vvs",
+					"memo": "0.16小節 "
+				},
+				{
+					"bpm": 80,
+					"type": "td-vvs",
+					"memo": "0.16小節 "
+				},
+				{
+					"bpm": 60,
+					"type": "td-vvs",
+					"memo": "0.16小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 147,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "ZAIKA",
+			"title": "罪過の聖堂",
+			"read": "ザイカノセイドウ",
+			"ver": 30,
+			"verName": "Resi",
+			"soflan": 200,
+			"textage": "/30/_cathsin.html",
+			"SPN": 5,
+			"SPH": 8,
+			"SPA": 10,
+			"DPN": 4,
+			"DPH": 9,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 90,
+					"type": "td-s",
+					"memo": "1.5小節 "
+				},
+				{
+					"bpm": 80,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 70,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 90,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 80,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 75,
+					"type": "td-vvs",
+					"memo": "0.375小節 "
+				},
+				{
+					"bpm": 90,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "td-vvs",
+					"memo": "0.625小節 "
+				},
+				{
+					"bpm": 110,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 80,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 50,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 80,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "td-vvs",
+					"memo": "0.375小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-vvs",
+					"memo": "0.375小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 80,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.875小節 "
+				},
+				{
+					"bpm": 155,
+					"type": "",
+					"memo": "7.625小節 "
+				},
+				{
+					"bpm": 110,
+					"type": "td-s",
+					"memo": "1.5小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 80,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 70,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 60,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 80,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 90,
+					"type": "td-vvs",
+					"memo": "0.83小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "td-s",
+					"memo": "1.5小節 "
+				},
+				{
+					"bpm": 80,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 70,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 40,
+					"type": "td-vvs",
+					"memo": "0.16小節 "
+				},
+				{
+					"bpm": 80,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 90,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-s",
+					"memo": "1.5小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 90,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 60,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "",
+					"memo": "7.33小節 "
+				},
+				{
+					"bpm": 110,
+					"type": "td-vvs",
+					"memo": "0.16小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 90,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 80,
+					"type": "",
+					"memo": "7.66小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "td-vvs",
+					"memo": "0.83小節 "
+				},
+				{
+					"bpm": 110,
+					"type": "td-vvs",
+					"memo": "0.66小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 110,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-vvs",
+					"memo": "0.16小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "td-vvs",
+					"memo": "0.16小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "td-vvs",
+					"memo": "0.66小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 110,
+					"type": "td-vvs",
+					"memo": "0.416小節 "
+				},
+				{
+					"bpm": 80,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 60,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 90,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 155,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 165,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-s",
+					"memo": "3.5小節 "
+				}
+			]
+		},
+		{
+			"id": "SAKURA",
+			"title": "桜",
+			"read": "サクラ",
+			"ver": 8,
+			"verName": "8th",
+			"soflan": 151.6,
+			"textage": "/8/_sakura.html",
+			"SPN": 7,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 8,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 300,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 150,
+					"type": "td-s",
+					"memo": "2.5小節 "
+				},
+				{
+					"bpm": 135,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 127,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 117,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 89,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 60,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 44,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 13,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 320,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 300,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 250,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 220,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 170,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 149,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 129,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 89,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 60,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				}
+			]
+		},
+		{
+			"id": "BATTLE_DANCE",
+			"title": "シャムシールの舞",
+			"read": "シャムシールノマイ",
+			"ver": 27,
+			"verName": "HeVe",
+			"soflan": 102.45,
+			"textage": "/27/_shamshr.html",
+			"SPN": 4,
+			"SPH": 8,
+			"SPA": 11,
+			"DPN": 4,
+			"DPH": 8,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 100,
+					"type": "",
+					"memo": "7小節 "
+				},
+				{
+					"bpm": 155,
+					"type": "",
+					"memo": "メインフレーズ開始と同時にソフラン"
+				},
+				{
+					"bpm": 150,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 142,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 134,
+					"type": "",
+					"memo": "6小節 "
+				}
+			]
+		},
+		{
+			"id": "CLAUDIA",
+			"title": "終焔のClaudia",
+			"read": "シュウエンノクラウディア",
+			"ver": 31,
+			"verName": "Epo",
+			"soflan": 94.93,
+			"textage": "/31/_shuen_c.html",
+			"SPN": 8,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 7,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 185,
+					"type": "",
+					"memo": "5.66小節 "
+				},
+				{
+					"bpm": 175,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 170,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 160,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 125,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 110,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 90,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 185,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "KID_A",
+			"title": "少年A",
+			"read": "ショウネンエー",
+			"ver": 15,
+			"verName": "DJT",
+			"soflan": 54.19,
+			"textage": "/15/_kid_a.html",
+			"SPN": 6,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 90,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 192,
+					"type": "",
+					"memo": "イントロ終了後に皿チョン可能"
+				},
+				{
+					"bpm": 185,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 179,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "SEIJIN",
+			"title": "聖人の塔",
+			"read": "セイジンノトウ",
+			"ver": 19,
+			"verName": "Linc",
+			"soflan": 173.5,
+			"textage": "/19/_seijin.html",
+			"SPN": 6,
+			"SPH": 10,
+			"SPA": 12,
+			"SPL": 12,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 12,
+			"DPL": 12,
+			"bpmList": [
+				{
+					"bpm": 97,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 194,
+					"type": "",
+					"memo": "メインフレーズ開始と同時にソフラン"
+				},
+				{
+					"bpm": 97,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 194,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 97,
+					"type": "td-s",
+					"memo": "3小節 "
+				}
+			]
+		},
+		{
+			"id": "HIP_ROCK_3",
+			"title": "雪上断火",
+			"read": "セツジョウダンカ",
+			"ver": 29,
+			"verName": "CaHo",
+			"soflan": 63.56,
+			"textage": "/29/_setsujo.html",
+			"SPN": 6,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 180,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 105,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 180,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "SOMATO",
+			"title": "走馬灯 -The Last Song-",
+			"read": "ソウマトウ",
+			"ver": 15,
+			"verName": "DJT",
+			"soflan": 111.74,
+			"textage": "/15/_thelast.html",
+			"SPN": 3,
+			"SPH": 4,
+			"SPA": 7,
+			"DPN": 3,
+			"DPH": 5,
+			"bpmList": [
+				{
+					"bpm": 85,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 83,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 81,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 85,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 80,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 78,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 68,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 84,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 85,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 81,
+					"type": "td-vvs",
+					"memo": "0.75小節 "
+				},
+				{
+					"bpm": 77,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 73,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 76,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 71,
+					"type": "td-vvs",
+					"memo": "0.75小節 "
+				}
+			]
+		},
+		{
+			"id": "MOON_SNOW",
+			"title": "月雪に舞う華のように",
+			"read": "ツキユキニマウハナノヨウニ",
+			"ver": 24,
+			"verName": "Sino",
+			"soflan": 6.25,
+			"textage": "/24/_tkiyuki.html",
+			"SPN": 5,
+			"SPH": 7,
+			"SPA": 10,
+			"DPN": 5,
+			"DPH": 8,
+			"DPA": 10,
+			"bpmList": [
+				{
+					"bpm": 70,
+					"type": "",
+					"memo": "5小節 "
+				},
+				{
+					"bpm": 125,
+					"type": "",
+					"memo": "イントロ終わりの鈴の音のスクラッチで皿チョン可能"
+				}
+			]
+		},
+		{
+			"id": "DISCORDIA",
+			"title": "ディスコルディア",
+			"read": "ディスコルディア",
+			"ver": 28,
+			"verName": "Bis",
+			"soflan": 100.14,
+			"textage": "/28/_dscrdia.html",
+			"SPN": 7,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 7,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 280,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 250,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 200,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "NIJUITINOMAE",
+			"title": "廿",
+			"read": "ニジュウイチノマエ",
+			"ver": 21,
+			"verName": "Spa",
+			"soflan": 49.48,
+			"textage": "/21/_twenty.html",
+			"SPN": 5,
+			"SPH": 8,
+			"SPA": 10,
+			"SPL": 12,
+			"DPN": 5,
+			"DPH": 8,
+			"DPA": 10,
+			"DPL": 12,
+			"bpmList": [
+				{
+					"bpm": 120,
+					"type": "",
+					"memo": "6小節 "
+				},
+				{
+					"bpm": 160,
+					"type": "",
+					"memo": "メインフレーズの開始と同時にソフラン"
+				}
+			]
+		},
+		{
+			"id": "HANAKANMURI",
+			"title": "花冠 feat.Aikapin",
+			"read": "ハナカンムリ",
+			"ver": 26,
+			"verName": "Root",
+			"soflan": 57.3,
+			"textage": "/26/_hanakan.html",
+			"SPN": 6,
+			"SPH": 9,
+			"SPA": 11,
+			"DPN": 6,
+			"DPH": 9,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 83,
+					"type": "",
+					"memo": "5小節 "
+				},
+				{
+					"bpm": 165,
+					"type": "",
+					"memo": "メインフレーズの開始と同時にソフラン"
+				},
+				{
+					"bpm": 180,
+					"type": "",
+					"memo": "   小節 "
+				}
+			]
+		},
+		{
+			"id": "SASORIBI",
+			"title": "ピアノ協奏曲第1番\"蠍火\"",
+			"read": "ピアノキョウソウキョクダイイチバンサソリビ",
+			"ver": 11,
+			"verName": "Red",
+			"soflan": 160.1,
+			"textage": "/11/_psasori.html",
+			"SPN": 5,
+			"SPH": 11,
+			"SPA": 12,
+			"DPN": 5,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 185,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 165,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 177,
+					"type": "td-vvs",
+					"memo": "0.75小節 "
+				},
+				{
+					"bpm": 184,
+					"type": "",
+					"memo": "7小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 168,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 173,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 174,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 177,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 178,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 179,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 184,
+					"type": "",
+					"memo": "5小節 "
+				},
+				{
+					"bpm": 186,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 188,
+					"type": "td-s",
+					"memo": "1.5小節 "
+				},
+				{
+					"bpm": 178,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 179,
+					"type": "",
+					"memo": "5小節 "
+				},
+				{
+					"bpm": 182,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 188,
+					"type": "",
+					"memo": "7小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "KAIJIN",
+			"title": "ピアノ独奏無言歌 \"灰燼\"",
+			"read": "ピアノドクソウムゴンカカイジン",
+			"ver": 29,
+			"verName": "CaHo",
+			"soflan": 195.35,
+			"textage": "/29/_pkaijin.html",
+			"SPN": 6,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 150,
+					"type": "td-s",
+					"memo": "1.125小節 "
+				},
+				{
+					"bpm": 160,
+					"type": "td-vvs",
+					"memo": "0.187小節 "
+				},
+				{
+					"bpm": 177,
+					"type": "td-vvs",
+					"memo": "0.187小節 "
+				},
+				{
+					"bpm": 183,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 187,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 192,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 123,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 116,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 151,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 165,
+					"type": "td-s",
+					"memo": "1.5小節 "
+				},
+				{
+					"bpm": 157,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 147,
+					"type": "td-s",
+					"memo": "1.5小節 "
+				},
+				{
+					"bpm": 131,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 175,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 170,
+					"type": "td-s",
+					"memo": "1.5小節 "
+				},
+				{
+					"bpm": 165,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 173,
+					"type": "td-vvs",
+					"memo": "0.083小節 "
+				},
+				{
+					"bpm": 175,
+					"type": "td-vvs",
+					"memo": "0.083小節 "
+				},
+				{
+					"bpm": 177,
+					"type": "td-vvs",
+					"memo": "0.166小節 "
+				},
+				{
+					"bpm": 178,
+					"type": "td-vvs",
+					"memo": "0.083小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "td-vvs",
+					"memo": "0.166小節 "
+				},
+				{
+					"bpm": 182,
+					"type": "td-vvs",
+					"memo": "0.166小節 "
+				},
+				{
+					"bpm": 183,
+					"type": "td-vvs",
+					"memo": "0.083小節 "
+				},
+				{
+					"bpm": 185,
+					"type": "td-vvs",
+					"memo": "0.166小節 "
+				},
+				{
+					"bpm": 186,
+					"type": "td-vvs",
+					"memo": "0.083小節 "
+				},
+				{
+					"bpm": 187,
+					"type": "td-vvs",
+					"memo": "0.083小節 "
+				},
+				{
+					"bpm": 189,
+					"type": "td-vvs",
+					"memo": "0.083小節 "
+				},
+				{
+					"bpm": 190,
+					"type": "td-vvs",
+					"memo": "0.083小節 "
+				},
+				{
+					"bpm": 191,
+					"type": "td-vvs",
+					"memo": "0.083小節 "
+				},
+				{
+					"bpm": 192,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 194,
+					"type": "td-vvs",
+					"memo": "0.166小節 "
+				},
+				{
+					"bpm": 195,
+					"type": "td-vvs",
+					"memo": "0.083小節 "
+				},
+				{
+					"bpm": 196,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 198,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 200,
+					"type": "",
+					"memo": "6.5小節 ピアノの縦連がﾃﾞﾃﾞｯ、ﾃﾞﾃﾞｯ、ﾃﾞﾃﾞｯ。ﾃﾞﾃﾞｯ、「ﾃﾞﾃﾞｯ」、ﾃﾞﾃﾞｯで最高速"
+				},
+				{
+					"bpm": 198,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 196,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 194,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 192,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 189,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 185,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 182,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 177,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 173,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 171,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 167,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 173,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 175,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "",
+					"memo": "6小節 "
+				},
+				{
+					"bpm": 172,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 157,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 142,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 132,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 151,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 156,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 162,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 167,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 172,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 176,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "td-s",
+					"memo": "2.25小節 "
+				},
+				{
+					"bpm": 167,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "td-s",
+					"memo": "1.25小節 "
+				}
+			]
+		},
+		{
+			"id": "HIMUKO",
+			"title": "卑弥呼",
+			"read": "ヒミコ",
+			"ver": 16,
+			"verName": "Emp",
+			"soflan": 151.53,
+			"textage": "/16/_himiko.html",
+			"SPN": 6,
+			"SPH": 11,
+			"SPA": 12,
+			"DPN": 7,
+			"DPH": 11,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 185,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 93,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 185,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 88,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 85,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 83,
+					"type": "td-s",
+					"memo": "3小節 "
+				}
+			]
+		},
+		{
+			"id": "HAIJO",
+			"title": "二人ノ廃城幽踊宴",
+			"read": "フタリノハイジョウノユウトウエン",
+			"ver": 28,
+			"verName": "Bis",
+			"soflan": 151.42,
+			"textage": "/28/_a_rvnant.html",
+			"SPN": 7,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 7,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 290,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 293,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 295,
+					"type": "",
+					"memo": "6小節 "
+				},
+				{
+					"bpm": 302,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 305,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 312,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 316,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 314,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 300,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-s",
+					"memo": "3小節 "
+				}
+			]
+		},
+		{
+			"id": "KAKURENBO",
+			"title": "魔法のかくれんぼ",
+			"read": "マホウノカクレンボ",
+			"ver": 28,
+			"verName": "Bis",
+			"soflan": 128.64,
+			"textage": "/28/_mkakure.html",
+			"SPN": 5,
+			"SPH": 9,
+			"SPA": 12,
+			"DPN": 5,
+			"DPH": 8,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 178,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 188,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 198,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 208,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 198,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 188,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 178,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "MEI",
+			"title": "冥",
+			"read": "メイ",
+			"ver": 12,
+			"verName": "HaSk",
+			"soflan": 183.46,
+			"textage": "/12/_mei.html",
+			"SPN": 5,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 5,
+			"DPH": 11,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 200,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 100,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 110,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 160,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 170,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 180,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 190,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 200,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 180,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 175,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 165,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 110,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 90,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 66,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				}
+			]
+		},
+		{
+			"id": "MEIKYOSISUI",
+			"title": "明鏡止水",
+			"read": "メイキョウシスイ",
+			"ver": 23,
+			"verName": "Cop",
+			"soflan": 75.16,
+			"textage": "/23/_meikyou.html",
+			"SPN": 5,
+			"SPH": 9,
+			"SPA": 11,
+			"DPN": 5,
+			"DPH": 9,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 290,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 267,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 264,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 235,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 216,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 208,
+					"type": "",
+					"memo": "5小節 "
+				}
+			]
+		},
+		{
+			"id": "RAKUEN",
+			"title": "ラクエン",
+			"read": "ラクエン",
+			"ver": 12,
+			"verName": "HaSk",
+			"soflan": 74.78,
+			"textage": "/12/_rakuen.html",
+			"SPN": 4,
+			"SPH": 6,
+			"SPA": 11,
+			"DPN": 4,
+			"DPH": 9,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 99,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 198,
+					"type": "",
+					"memo": "ムービーでサメが見えたらギアチェン"
+				},
+				{
+					"bpm": 99,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "RENAI_SEIDO",
+			"title": "恋愛＝精度×認識力",
+			"read": "レンアイセイドニンシキリョク",
+			"ver": 30,
+			"verName": "Resi",
+			"soflan": 182.05,
+			"textage": "/30/_r_s_x_n.html",
+			"SPN": 7,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 7,
+			"DPH": 10,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 177,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 13,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 177,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 13,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 177,
+					"type": "td-vvs",
+					"memo": "0.625小節 "
+				},
+				{
+					"bpm": 13,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 177,
+					"type": "td-vvs",
+					"memo": "0.75小節 "
+				},
+				{
+					"bpm": 13,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 177,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 3,
+					"type": "td-vvs",
+					"memo": "0.03125小節 "
+				},
+				{
+					"bpm": 30,
+					"type": "td-vvs",
+					"memo": "0.03125小節 "
+				},
+				{
+					"bpm": 45,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 75,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 135,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 175,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 210,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 240,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 265,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 333,
+					"type": "td-s",
+					"memo": "2.25小節 "
+				},
+				{
+					"bpm": 177,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 182,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 187,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 192,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 197,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 202,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 207,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 212,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 217,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 222,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 227,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 232,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 237,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 247,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 155,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 145,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 17,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 177,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "WAKUTETU",
+			"title": "惑星鉄道",
+			"read": "ワクセイテツドウ",
+			"ver": 31,
+			"verName": "Epo",
+			"soflan": 182.75,
+			"textage": "/31/_waktetu.html",
+			"SPN": 7,
+			"SPH": 11,
+			"SPA": 12,
+			"DPN": 7,
+			"DPH": 11,
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 157,
+					"type": "",
+					"memo": "5小節 "
+				},
+				{
+					"bpm": 143,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 157,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 143,
+					"type": "td-s",
+					"memo": "1.375小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-s",
+					"memo": "2.125小節 "
+				},
+				{
+					"bpm": 92,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 157,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 166,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 143,
+					"type": "",
+					"memo": "7.625小節 "
+				},
+				{
+					"bpm": 92,
+					"type": "td-vvs",
+					"memo": "0.375小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 74,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 30,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 83,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 157,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 166,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 157,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 143,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 92,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 83,
+					"type": "td-s",
+					"memo": "1.75小節 "
+				},
+				{
+					"bpm": 74,
+					"type": "td-s",
+					"memo": "2.25小節 "
+				},
+				{
+					"bpm": 10,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 157,
+					"type": "td-vs",
+					"memo": "1小節 "
+				}
+			]
+		},
+		{
+			"id": "OOINU_17_01",
+			"title": "ワルツ第17番 ト短調\"大犬のワルツ\"(N)",
+			"read": "ワルツダイジュウナナバントタンチョウオオイヌノワルツ_01",
+			"ver": 17,
+			"verName": "Siri",
+			"soflan": 162.19,
+			"textage": "/17/_valse17.html",
+			"SPN": 6,
+			"DPN": 6,
+			"bpmList": [
+				{
+					"bpm": 270,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 250,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 260,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 250,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "td-vvs",
+					"memo": "0.66小節 "
+				},
+				{
+					"bpm": 250,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 250,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 270,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 240,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 230,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 190,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 220,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 230,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 240,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 250,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 270,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 240,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 250,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 240,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 250,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "",
+					"memo": "7小節 "
+				}
+			]
+		},
+		{
+			"id": "OOINU_17_02",
+			"title": "ワルツ第17番 ト短調\"大犬のワルツ\"(H)",
+			"read": "ワルツダイジュウナナバントタンチョウオオイヌノワルツ_02",
+			"ver": 17,
+			"verName": "Siri",
+			"soflan": 192.6,
+			"textage": "/17/_valse17.html",
+			"SPH": 10,
+			"DPH": 10,
+			"bpmList": [
+				{
+					"bpm": 290,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 240,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 310,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 285,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 275,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 285,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 280,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-vvs",
+					"memo": "0.66小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 310,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 280,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 270,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 250,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 290,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 220,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 230,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 240,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 250,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 290,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 300,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-s",
+					"memo": "3小節 "
+				}
+			]
+		},
+		{
+			"id": "OOINU_17_03",
+			"title": "ワルツ第17番 ト短調\"大犬のワルツ\"(SPA)",
+			"read": "ワルツダイジュウナナバントタンチョウオオイヌノワルツ_03",
+			"ver": 17,
+			"verName": "Siri",
+			"soflan": 200,
+			"textage": "/17/_valse17.html",
+			"SPA": 12,
+			"bpmList": [
+				{
+					"bpm": 300,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 310,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 250,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 320,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 290,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "",
+					"memo": "5小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 310,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-vvs",
+					"memo": "0.66小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 310,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 310,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 300,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 310,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 300,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 240,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 250,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 310,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 290,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 230,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 240,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 250,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 240,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 290,
+					"type": "",
+					"memo": "6小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 310,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "td-s",
+					"memo": "2小節 "
+				}
+			]
+		},
+		{
+			"id": "OOINU_17_04",
+			"title": "ワルツ第17番 ト短調\"大犬のワルツ\"(DPA)",
+			"read": "ワルツダイジュウナナバントタンチョウオオイヌノワルツ_04",
+			"ver": 17,
+			"verName": "Siri",
+			"soflan": 200,
+			"textage": "/17/_valse17.html",
+			"DPA": 12,
+			"bpmList": [
+				{
+					"bpm": 290,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 240,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 310,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 280,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "",
+					"memo": "5小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-vvs",
+					"memo": "0.66小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 300,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 340,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 350,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 320,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 250,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 290,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 230,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 240,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 250,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 260,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 300,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 280,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-s",
+					"memo": "2小節 "
+				},
+				{
+					"bpm": 220,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 230,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 240,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 230,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 250,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 280,
+					"type": "",
+					"memo": "6小節 "
+				},
+				{
+					"bpm": 270,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 280,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 300,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 290,
+					"type": "td-s",
+					"memo": "3小節 "
+				}
+			]
+		},
+		{
+			"id": "SUBSTANCE",
+			"title": "Substance",
+			"read": "Substance",
+			"ver": 33,
+			"verName": "SpSh",
+			"soflan": 162.2,
+			"textage": "/33/substanc.html",
+			"SPN": 5,
+			"SPH": 8,
+			"SPA": 11,
+			"DPN": 5,
+			"DPH": 8,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 150,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 153,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 156,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 159,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 162,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 165,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 168,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 171,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 174,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 168,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 161,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 155,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 149,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 142,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 136,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "td-vs",
+					"memo": "1小節 "
+				}
+			]
+		}
+	]
+}
