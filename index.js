@@ -996,7 +996,7 @@ function calcSpeed(targetTableName){
           }
         }
       }else if(actionType == 'ST+EFF'){
-        if(hsMode = 'FHS'){
+        if(hsMode == 'FHS'){
           if(inputValue == 'FHS'){
           }else if(inputValue == 'CHS'){
             currentChsArrIdx = findChsIdx(chsArr,currentHs);
@@ -1226,4 +1226,5 @@ function calcSpeedFromDefaultSetting(){
   }
   localStorage.setItem('soflan-input-list', createInputListJson());
 }
+
 
