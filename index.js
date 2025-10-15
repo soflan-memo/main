@@ -283,7 +283,7 @@ function sortBySoflan(){
 async function pageLoad(){
   //ソフランリストのJSONデータの読み込み
   try{
-    const soflanMusicListJsonUrl = "http://127.0.0.1:5500/soflan-music-list.json";
+    const soflanMusicListJsonUrl = "https://soflan-memo.github.io/main/soflan-music-list.json";
     const soflanMusicListJsonResponse = await fetch(soflanMusicListJsonUrl);
     soflanMusicListJson = await soflanMusicListJsonResponse.json();
     isReadSoflanMusicList = true;
@@ -1226,3 +1226,4 @@ function calcSpeedFromDefaultSetting(){
   }
   localStorage.setItem('soflan-input-list', createInputListJson());
 }
+
