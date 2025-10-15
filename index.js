@@ -735,6 +735,7 @@ function addActionTr(isNeedCalcSpeed,targetTableName,bpmChangeCount,actionType =
   memoTextarea.name = 'textarea-memo';
   memoTextarea.dataset.textareaMemo = '';
   memoTextarea.value = memo;
+  memoTextarea.onchange = function(){changeActionValue(this)};
   memoTd.appendChild(memoTextarea);
 
   if(isNeedCalcSpeed){
