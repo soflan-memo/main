@@ -202,10 +202,10 @@ function sortByName(){
     return;
   }
   soflanMusicListJson.musicList.sort((a,b) => {
-    if(a.read> b.read){
+    if(a.read.toLowerCase()> b.read.toLowerCase()){
       return 1;
     }
-    if(a.read < b.read){
+    if(a.read.toLowerCase() < b.read.toLowerCase()){
       return -1;
     }
   })
@@ -221,10 +221,10 @@ function sortByVersionAsc(){
       return 1;
     }
     if(a.ver == b.ver){
-      if(a.read> b.read){
+      if(a.read.toLowerCase()> b.read.toLowerCase()){
         return 1;
       }
-      if(a.read < b.read){
+      if(a.read.toLowerCase() < b.read.toLowerCase()){
         return -1;
       }    
     }
@@ -247,7 +247,7 @@ function sortByVersionDesc(){
       if(a.read> b.read){
         return 1;
       }
-      if(a.read < b.read){
+      if(a.read.toLowerCase() < b.read.toLowerCase()){
         return -1;
       }    
     }
@@ -270,7 +270,7 @@ function sortBySoflan(){
       if(a.read> b.read){
         return 1;
       }
-      if(a.read < b.read){
+      if(a.read.toLowerCase() < b.read.toLowerCase()){
         return -1;
       }    
     }
@@ -283,6 +283,7 @@ function sortBySoflan(){
 async function pageLoad(){
   //ソフランリストのJSONデータの読み込み
   try{
+    //const soflanMusicListJsonUrl = "http://127.0.0.1:5500/soflan-music-list.json";
     const soflanMusicListJsonUrl = "https://soflan-memo.github.io/main/soflan-music-list.json";
     const soflanMusicListJsonResponse = await fetch(soflanMusicListJsonUrl);
     soflanMusicListJson = await soflanMusicListJsonResponse.json();
@@ -1226,5 +1227,3 @@ function calcSpeedFromDefaultSetting(){
   }
   localStorage.setItem('soflan-input-list', createInputListJson());
 }
-
-
