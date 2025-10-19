@@ -950,7 +950,7 @@ function calcSpeed(targetTableName){
         }else if(hsMode == 'NHS'){
           currentNhsArrIdx = currentNhsArrIdx + parseInt(inputValue);
           currentNhsArrIdx = currentNhsArrIdx <= 0 ? 0 : currentNhsArrIdx;
-          currentChsArrIdx = currentChsArrIdx >= (chsArr.length - 1)  ? chsArr.length - 1 : currentChsArrIdx;
+          currentNhsArrIdx = currentNhsArrIdx >= (nhsArr.length - 1)  ? nhsArr.length - 1 : currentNhsArrIdx;
           currentHs = calcHsByGreen(hsCalcBaseValue,lanePx,currentBpm,nhsArr[currentNhsArrIdx],0,0); //NHSはHS制限が無い
           currentGreen = calcGreenByHs(hsCalcBaseValue,lanePx,currentBpm,currentHs,isShowSud ? currentSud : 0,currentLift);
         }
@@ -1062,7 +1062,7 @@ function calcSpeed(targetTableName){
 
     let tsHs = lookTr.querySelector('td[data-td-hs]');
     if(hsMode == 'NHS'){
-      tsHs.innerHTML = currentHs.toFixed(2) + '<BR>(' + currentNhsArrIdx + ')';
+      tsHs.innerHTML = currentHs.toFixed(2) + '<BR>(' + (currentNhsArrIdx + 1) + ')';
     }
     else{
       tsHs.innerHTML = currentHs.toFixed(2); //HSは小数点以下二桁まで表示
