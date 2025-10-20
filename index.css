@@ -130,13 +130,36 @@ table[data-table-music] {
   text-align: center;
 }
 
-tr[data-tr-type="action"]{
-  background-color: hsl(220, 20%, 15%);
+
+tr.tr-mod0{
+  background-color: hsl(220, 50%, 10%);
+
 }
+
+tr.tr-mod1{
+  background-color: hsl(160, 40%, 10%);  
+}
+
+tr.tr-mod2{
+  background-color: hsl(100, 30%, 10%);  
+}
+
+tr.tr-mod3{
+  background-color: hsl(40, 30%, 10%);    
+}
+
+tr.tr-mod4{
+  background-color: hsl(340, 40%, 10%);  
+}
+
+tr.tr-mod5{
+  background-color: hsl(280, 50%, 10%);   
+}
+
 
 /*アクション行ではBPM列を透明に*/
 tr[data-tr-type="action"] td[data-td-bpm]{
-	color:hsl(32,100%,90%,0);
+	color:transparent;
 }
 
 td[data-td-sud]{
