@@ -545,6 +545,7 @@ function addBpmTr(Tbody,musicId,bpmChangeCount,bpm,memo,bpmType = ''){
   bpmTr.dataset.trType = 'bpm';
   //同一のbpmTr、actionTrソフラングループとして配列で取得できるようにdatasetとして行番号をdata-tr-bpmchangeを付加
   bpmTr.dataset.trBpmchange = bpmChangeCount;
+  bpmTr.className = 'tr-mod' + (bpmChangeCount % 6);
   Tbody.appendChild(bpmTr);
 
   //操作追加ボタンtd
@@ -637,6 +638,7 @@ function addActionTr(isNeedCalcSpeed,targetTableName,bpmChangeCount,actionType =
   insertTr.dataset.trType = 'action';
   //同一のbpmTr、actionTrソフラングループとして配列で取得できるようにdatasetとして行番号をdata-tr-bpmchangeを付加
   insertTr.dataset.trBpmchange = bpmChangeCount;
+  insertTr.className = 'tr-mod' + (bpmChangeCount % 6);
 
   //操作削除ボタンtd
   //td-add-remove
