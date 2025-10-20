@@ -132,20 +132,20 @@ table[data-table-music] {
 
 
 tr.tr-mod0{
-  background-color: hsl(220, 50%, 10%);
+  background-color: hsl(220, 70%, 10%);
 
 }
 
 tr.tr-mod1{
-  background-color: hsl(160, 40%, 10%);  
+  background-color: hsl(160, 50%, 10%);  
 }
 
 tr.tr-mod2{
-  background-color: hsl(100, 30%, 10%);  
+  background-color: hsl(100, 40%, 10%);  
 }
 
 tr.tr-mod3{
-  background-color: hsl(40, 30%, 10%);    
+  background-color: hsl(40, 40%, 10%);    
 }
 
 tr.tr-mod4{
