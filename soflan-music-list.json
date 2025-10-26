@@ -1,49 +1,6 @@
 {
 	"musicList": [
 		{
-			"id": "TENGOKU",
-			"title": ".59",
-			"read": "テンゴク",
-			"ver": 2,
-			"verName": "2nd",
-			"soflan": 14.56,
-			"textage": "/2/_59.html",
-			"SPN": 4,
-			"SPH": 6,
-			"SPA": 7,
-			"DPN": 4,
-			"DPH": 6,
-			"DPA": 7,
-			"bpmList": [
-				{
-					"bpm": 135,
-					"type": "",
-					"memo": ""
-				},
-				{
-					"bpm": 123,
-					"type": "td-vvs",
-					"memo": "0.5小節 "
-				}
-			]
-		},
-		{
-			"id": "NOT_ANGEL",
-			"title": "(This Is Not) The Angels",
-			"read": "This Is Not The Angels",
-			"ver": 24,
-			"verName": "Sino",
-			"soflan": 171.5,
-			"textage": "/24/theangel.html",
-			"SPN": 4,
-			"SPH": 8,
-			"SPA": 11,
-			"DPN": 5,
-			"DPH": 8,
-			"DPA": 11,
-			"bpmList": []
-		},
-		{
 			"id": "FIRST_SAMURAI",
 			"title": "1st Samurai",
 			"read": "~1st Samurai",
@@ -150,17 +107,17 @@
 				{
 					"bpm": 135,
 					"type": "",
-					"memo": ""
+					"memo": "ウイイレパートが終わり次第皿チョン可"
 				},
 				{
 					"bpm": 143,
 					"type": "",
-					"memo": ""
+					"memo": "麻雀格闘倶楽部パートが終わってから1小節後"
 				},
 				{
 					"bpm": 175,
 					"type": "",
-					"memo": ""
+					"memo": "MGSパートが終わり次第皿チョン可"
 				}
 			]
 		},
@@ -247,44 +204,6 @@
 					"bpm": 80,
 					"type": "td-vs",
 					"memo": "1小節 "
-				}
-			]
-		},
-		{
-			"id": "AETHER",
-			"title": "ÆTHER",
-			"read": "エーテル",
-			"ver": 21,
-			"verName": "Spa",
-			"soflan": 131.36,
-			"textage": "/21/_aether.html",
-			"SPL": 12,
-			"DPL": 12,
-			"bpmList": [
-				{
-					"bpm": 192,
-					"type": "",
-					"memo": ""
-				},
-				{
-					"bpm": 96,
-					"type": "",
-					"memo": ""
-				},
-				{
-					"bpm": 24,
-					"type": "td-vvs",
-					"memo": "0.5小節 疑似停止2拍"
-				},
-				{
-					"bpm": 96,
-					"type": "td-vvs",
-					"memo": "0.5小節 疑似停止2拍"
-				},
-				{
-					"bpm": 192,
-					"type": "",
-					"memo": ""
 				}
 			]
 		},
@@ -2481,6 +2400,123 @@
 			]
 		},
 		{
+			"id": "GOLD_RUSH_2025",
+			"title": "GOLD RUSH 2025",
+			"read": "GOLD RUSH 2025",
+			"ver": 33,
+			"verName": "SpSh",
+			"soflan": 158.34,
+			"textage": "/33/gold2025.html",
+			"SPN": 5,
+			"SPH": 9,
+			"SPA": 11,
+			"DPN": 5,
+			"DPH": 9,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 172,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 130,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 134,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 138,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 142,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 146,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 154,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 158,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 162,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 166,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 170,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 174,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 178,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 182,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 186,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 190,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 194,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 198,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 200,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
 			"id": "GRADIUS_MEDLEY",
 			"title": "GRADIUS -FULL SPEED-",
 			"read": "GRADIUS -FULL SPEED-",
@@ -2503,12 +2539,12 @@
 				{
 					"bpm": 220,
 					"type": "",
-					"memo": "青カプセル取得の効果音のスクラッチから一拍後に加速"
+					"memo": "効果音のスクラッチから一拍後に加速"
 				},
 				{
 					"bpm": 160,
 					"type": "",
-					"memo": "5.25小節 赤カプセル取得の効果音のスクラッチから半拍後に減速"
+					"memo": "5.25小節 効果音のスクラッチから半拍後に減速"
 				},
 				{
 					"bpm": 220,
@@ -2645,12 +2681,12 @@
 				{
 					"bpm": 140,
 					"type": "",
-					"memo": ""
+					"memo": "8小節 "
 				},
 				{
 					"bpm": 280,
 					"type": "",
-					"memo": "8小節 "
+					"memo": ""
 				}
 			]
 		},
@@ -3306,7 +3342,7 @@
 				{
 					"bpm": 12,
 					"type": "td-vvs",
-					"memo": "0.1小節 厳密解192フレームに対して約189.2フレーム"
+					"memo": "0.1小節 "
 				},
 				{
 					"bpm": 300,
@@ -3373,7 +3409,7 @@
 				{
 					"bpm": 15,
 					"type": "td-vvs",
-					"memo": "0.0625小節 厳密解160フレームに対して約155.6フレーム"
+					"memo": "0.0625小節 "
 				},
 				{
 					"bpm": 360,
@@ -4961,7 +4997,7 @@
 				{
 					"bpm": 195,
 					"type": "",
-					"memo": ""
+					"memo": "ﾎｯ、ﾎｯと続けてかけ声が来る頃が目安"
 				}
 			]
 		},
@@ -5622,7 +5658,7 @@
 				{
 					"bpm": 120,
 					"type": "td-s",
-					"memo": "2小節 "
+					"memo": "2小節 楽曲に四つ打ちのバスドラムが加わる"
 				},
 				{
 					"bpm": 125,
@@ -5632,7 +5668,7 @@
 				{
 					"bpm": 130,
 					"type": "td-s",
-					"memo": "2小節 "
+					"memo": "2小節 \"Get faster!\"の掛け声後"
 				},
 				{
 					"bpm": 135,
@@ -5642,7 +5678,7 @@
 				{
 					"bpm": 140,
 					"type": "td-s",
-					"memo": "2小節 "
+					"memo": "2小節 灼熱のメインパートから移行"
 				},
 				{
 					"bpm": 145,
@@ -5652,7 +5688,7 @@
 				{
 					"bpm": 150,
 					"type": "td-s",
-					"memo": "2小節 "
+					"memo": "2小節 サンバホイッスルが加わる"
 				},
 				{
 					"bpm": 155,
@@ -5662,7 +5698,7 @@
 				{
 					"bpm": 160,
 					"type": "td-s",
-					"memo": "2小節 "
+					"memo": "2小節 \"ｶｯ ｶｯ\"と鳴る灼熱の特徴的なスクラッチ音"
 				},
 				{
 					"bpm": 165,
@@ -5672,7 +5708,7 @@
 				{
 					"bpm": 170,
 					"type": "td-s",
-					"memo": "2小節 "
+					"memo": "2小節 メロディーがRed. by Full Metal Jacketに移行して\"ﾃﾞﾚﾃﾞﾚﾃﾞﾚﾃﾞﾚﾃﾞﾚ\"と鳴った後"
 				},
 				{
 					"bpm": 175,
@@ -5682,7 +5718,7 @@
 				{
 					"bpm": 180,
 					"type": "td-s",
-					"memo": "2小節 "
+					"memo": "2小節 \"ﾌﾟｲｰﾝ\"という感じのスクラッチ音"
 				},
 				{
 					"bpm": 185,
@@ -5838,6 +5874,103 @@
 			]
 		},
 		{
+			"id": "SUBSTANCE",
+			"title": "Substance",
+			"read": "Substance",
+			"ver": 33,
+			"verName": "SpSh",
+			"soflan": 162.2,
+			"textage": "/33/substanc.html",
+			"SPN": 5,
+			"SPH": 8,
+			"SPA": 11,
+			"DPN": 5,
+			"DPH": 8,
+			"DPA": 11,
+			"bpmList": [
+				{
+					"bpm": 150,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 153,
+					"type": "td-vs",
+					"memo": "1小節 ムービーから泡が出て天探女がシルエットになったら加速"
+				},
+				{
+					"bpm": 156,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 159,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 162,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 165,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 168,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 171,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 174,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 168,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 161,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 155,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 149,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 142,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 136,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "td-vs",
+					"memo": "1小節 "
+				}
+			]
+		},
+		{
 			"id": "SURF_LIGHT",
 			"title": "Surf on the Light",
 			"read": "Surf on the Light",
@@ -5952,7 +6085,7 @@
 				{
 					"bpm": 166,
 					"type": "",
-					"memo": ""
+					"memo": "RED ZONE地帯→\"Wise UP!\"(ANTHEM LANDINGのパーカッション)→休拍→加速"
 				}
 			]
 		},
@@ -6265,7 +6398,7 @@
 				{
 					"bpm": 102,
 					"type": "",
-					"memo": ""
+					"memo": "16分のバスドラムが終わったら最低速"
 				},
 				{
 					"bpm": 103,
@@ -6413,6 +6546,22 @@
 					"memo": ""
 				}
 			]
+		},
+		{
+			"id": "NOT_ANGEL",
+			"title": "(This Is Not) The Angels",
+			"read": "This Is Not The Angels",
+			"ver": 24,
+			"verName": "Sino",
+			"soflan": 171.5,
+			"textage": "/24/theangel.html",
+			"SPN": 4,
+			"SPH": 8,
+			"SPA": 11,
+			"DPN": 5,
+			"DPH": 8,
+			"DPA": 11,
+			"bpmList": []
 		},
 		{
 			"id": "TITANS_RETURN",
@@ -7270,6 +7419,44 @@
 			]
 		},
 		{
+			"id": "AETHER",
+			"title": "ÆTHER",
+			"read": "エーテル",
+			"ver": 21,
+			"verName": "Spa",
+			"soflan": 131.36,
+			"textage": "/21/_aether.html",
+			"SPL": 12,
+			"DPL": 12,
+			"bpmList": [
+				{
+					"bpm": 192,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 96,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 24,
+					"type": "td-vvs",
+					"memo": "0.5小節 疑似停止2拍"
+				},
+				{
+					"bpm": 96,
+					"type": "td-vvs",
+					"memo": "0.5小節 疑似停止2拍"
+				},
+				{
+					"bpm": 192,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
 			"id": "OOSANBASI",
 			"title": "大桟橋",
 			"read": "オオサンバシ",
@@ -7383,12 +7570,12 @@
 				{
 					"bpm": 280,
 					"type": "td-s",
-					"memo": "4小節 終盤のソフランに向けてここで減速する事を推奨"
+					"memo": "4小節 "
 				},
 				{
 					"bpm": 290,
 					"type": "td-s",
-					"memo": "2.75小節 "
+					"memo": "2.75小節 終盤のソフランに向けてここで減速する事を推奨"
 				},
 				{
 					"bpm": 310,
@@ -7646,7 +7833,7 @@
 				{
 					"bpm": 90,
 					"type": "td-s",
-					"memo": "1.5小節 "
+					"memo": "1.5小節 Aパート(主題)"
 				},
 				{
 					"bpm": 80,
@@ -7746,7 +7933,7 @@
 				{
 					"bpm": 155,
 					"type": "",
-					"memo": "7.625小節 "
+					"memo": "7.625小節 Bパート"
 				},
 				{
 					"bpm": 110,
@@ -7771,7 +7958,7 @@
 				{
 					"bpm": 60,
 					"type": "td-vvs",
-					"memo": "0.33小節 "
+					"memo": "0.33小節 Aパート"
 				},
 				{
 					"bpm": 80,
@@ -7806,7 +7993,7 @@
 				{
 					"bpm": 80,
 					"type": "td-vvs",
-					"memo": "0.5小節 "
+					"memo": "0.5小節 A'パート"
 				},
 				{
 					"bpm": 90,
@@ -7841,7 +8028,7 @@
 				{
 					"bpm": 140,
 					"type": "",
-					"memo": "7.33小節 "
+					"memo": "7.33小節 B'パート"
 				},
 				{
 					"bpm": 110,
@@ -7856,7 +8043,7 @@
 				{
 					"bpm": 90,
 					"type": "td-vvs",
-					"memo": "0.33小節 "
+					"memo": "0.33小節 Cパート"
 				},
 				{
 					"bpm": 80,
@@ -7866,7 +8053,7 @@
 				{
 					"bpm": 100,
 					"type": "td-vvs",
-					"memo": "0.83小節 "
+					"memo": "0.83小節 コデッタ"
 				},
 				{
 					"bpm": 110,
@@ -7926,7 +8113,7 @@
 				{
 					"bpm": 90,
 					"type": "td-vvs",
-					"memo": "0.25小節 "
+					"memo": "0.25小節 Aパート"
 				},
 				{
 					"bpm": 120,
@@ -8023,7 +8210,7 @@
 				{
 					"bpm": 13,
 					"type": "td-vvs",
-					"memo": "0.125小節 "
+					"memo": "0.125小節 POORなりがち"
 				},
 				{
 					"bpm": 150,
@@ -8460,6 +8647,33 @@
 			]
 		},
 		{
+			"id": "TENGOKU",
+			"title": ".59",
+			"read": "テンゴク",
+			"ver": 2,
+			"verName": "2nd",
+			"soflan": 14.56,
+			"textage": "/2/_59.html",
+			"SPN": 4,
+			"SPH": 6,
+			"SPA": 7,
+			"DPN": 4,
+			"DPH": 6,
+			"DPA": 7,
+			"bpmList": [
+				{
+					"bpm": 135,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 123,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				}
+			]
+		},
+		{
 			"id": "NIJUITINOMAE",
 			"title": "廿",
 			"read": "ニジュウイチノマエ",
@@ -8516,7 +8730,7 @@
 				{
 					"bpm": 180,
 					"type": "",
-					"memo": "   小節 "
+					"memo": ""
 				}
 			]
 		},
@@ -10802,103 +11016,6 @@
 					"bpm": 290,
 					"type": "td-s",
 					"memo": "3小節 "
-				}
-			]
-		},
-		{
-			"id": "SUBSTANCE",
-			"title": "Substance",
-			"read": "Substance",
-			"ver": 33,
-			"verName": "SpSh",
-			"soflan": 162.2,
-			"textage": "/33/substanc.html",
-			"SPN": 5,
-			"SPH": 8,
-			"SPA": 11,
-			"DPN": 5,
-			"DPH": 8,
-			"DPA": 11,
-			"bpmList": [
-				{
-					"bpm": 150,
-					"type": "",
-					"memo": ""
-				},
-				{
-					"bpm": 153,
-					"type": "td-vs",
-					"memo": "1小節 "
-				},
-				{
-					"bpm": 156,
-					"type": "td-vs",
-					"memo": "1小節 "
-				},
-				{
-					"bpm": 159,
-					"type": "td-vs",
-					"memo": "1小節 "
-				},
-				{
-					"bpm": 162,
-					"type": "td-vs",
-					"memo": "1小節 "
-				},
-				{
-					"bpm": 165,
-					"type": "td-vs",
-					"memo": "1小節 "
-				},
-				{
-					"bpm": 168,
-					"type": "td-vs",
-					"memo": "1小節 "
-				},
-				{
-					"bpm": 171,
-					"type": "td-vs",
-					"memo": "1小節 "
-				},
-				{
-					"bpm": 174,
-					"type": "",
-					"memo": ""
-				},
-				{
-					"bpm": 168,
-					"type": "td-vs",
-					"memo": "1小節 "
-				},
-				{
-					"bpm": 161,
-					"type": "td-vs",
-					"memo": "1小節 "
-				},
-				{
-					"bpm": 155,
-					"type": "td-vs",
-					"memo": "1小節 "
-				},
-				{
-					"bpm": 149,
-					"type": "td-vs",
-					"memo": "1小節 "
-				},
-				{
-					"bpm": 142,
-					"type": "td-vs",
-					"memo": "1小節 "
-				},
-				{
-					"bpm": 136,
-					"type": "td-vs",
-					"memo": "1小節 "
-				},
-				{
-					"bpm": 130,
-					"type": "td-vs",
-					"memo": "1小節 "
 				}
 			]
 		}
