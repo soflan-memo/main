@@ -60,6 +60,21 @@ function createInputListJson(){
   return JSON.stringify(inputObj);
 }
 
+function readJson(){
+  let inputListJson;
+  try{
+    inputListJson = JSON.parse(document.getElementById('textarea-input-json').value);
+  }catch(readJsonError){
+    console.log(readJsonError);
+    alert('テキストの読込に失敗しました。');
+    return;
+  }
+  deleteAllActionTr();
+  readInputList(inputListJson);
+  alert('テキストの読込が完了しました。');
+}
+
+
 function clearJson(){
   localStorage.removeItem('soflan-input-list');
 }
@@ -283,8 +298,8 @@ function sortBySoflan(){
 async function pageLoad(){
   //ソフランリストのJSONデータの読み込み
   try{
-    //const soflanMusicListJsonUrl = "http://127.0.0.1:5500/soflan-music-list.json";
-    const soflanMusicListJsonUrl = "https://soflan-memo.github.io/main/soflan-music-list.json";
+    const soflanMusicListJsonUrl = "http://127.0.0.1:5500/soflan-music-list.json";
+    //const soflanMusicListJsonUrl = "https://soflan-memo.github.io/main/soflan-music-list.json";
     const soflanMusicListJsonResponse = await fetch(soflanMusicListJsonUrl);
     soflanMusicListJson = await soflanMusicListJsonResponse.json();
     isReadSoflanMusicList = true;
@@ -1230,4 +1245,3 @@ function calcSpeedFromDefaultSetting(){
   }
   localStorage.setItem('soflan-input-list', createInputListJson());
 }
-
