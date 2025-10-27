@@ -4,16 +4,16 @@ html{ /*remとpxを合わせるため記載 ※1.6rem = 16pxとなる*/
 }
 
 body{ /*768px未満の基本フォントサイズ*/
-  font-size: 1.6rem;
+  font-size: 1.8rem;
 }
 
 @media (min-width: 768px) { /* 768～991pxのフォントサイズ */
-  body{font-size: 1.8rem;}
+  body{font-size: 2rem;}
 }
 
 
 @media (min-width: 992px) { /* 992～1199pxのフォントサイズ */
-  body{font-size: 2.0rem;}
+  body{font-size: 2.2rem;}
 }
 
 
@@ -52,6 +52,7 @@ div.div-header-music-sort{
 
 table[data-table-music] {
   background-color: hsl(230, 25%, 10%);
+  border-color:hsl(32,100%,90%);
   text-align: center;
 }
 
@@ -64,15 +65,15 @@ table[data-table-music] {
 .col-sud,
 .col-lift
 {
-  width:calc(100% / 10.5);
+  width:calc(100% / 11);
 }
 
-.col-action{ /*操作内容幅は1.5列ぶん*/
-  width:calc((100% / 10.5) * 1.5);
+.col-action{ /*操作内容幅は2列ぶん*/
+  width:calc((100% / 11) * 2);
 }
 
 .col-memo{ /*メモ列は2幅ぶん*/
-  width:calc((100% / 10.5) * 2);
+  width:calc((100% / 11) * 2);
 }
 
 @media (min-width: 768px) { /* 768～991pxのテーブル幅 */
@@ -84,14 +85,14 @@ table[data-table-music] {
 	.col-sud,
 	.col-lift
 	{
-	  width:calc(100% / 12.5);
+	  width:calc(100% / 13);
 	}
-	.col-action{ /*操作内容幅は1.5列ぶん*/
-	  width:calc((100% / 12.5) * 1.5);
+	.col-action{ /*操作内容幅は2列ぶん*/
+	  width:calc((100% / 13) * 2);
 	}
 
   .col-memo{ /*メモ幅は4列ぶん*/
-	  width:calc((100% / 12.5) * 4);
+	  width:calc((100% / 13) * 4);
 	}
 }
 
@@ -104,13 +105,13 @@ table[data-table-music] {
 	.col-sud,
 	.col-lift
 	{
-	  width:calc(100% / 14.5);
+	  width:calc(100% / 15);
 	}
-	.col-action{ /*操作内容幅は1.5列ぶん*/
-	  width:calc((100% / 14.5) * 1.5);
+	.col-action{ /*操作内容幅は2列ぶん*/
+	  width:calc((100% / 15) * 2);
 	}
   .col-memo{ /*メモ幅は6列ぶん*/
-	  width:calc((100% / 14.5) * 6);
+	  width:calc((100% / 15) * 6);
 	}
 }
 
@@ -125,13 +126,13 @@ table[data-table-music] {
 	.col-sud,
 	.col-lift
 	{
-	  width:calc(100% / 16.5);
+	  width:calc(100% / 17);
 	}
-	.col-action{ /*操作内容幅は1.5列ぶん*/
-	  width:calc((100% / 16.5) * 1.5);
+	.col-action{ /*操作内容幅は2列ぶん*/
+	  width:calc((100% / 17) * 2);
 	}
   .col-memo{ /*メモ幅は8列ぶん*/
-	  width:calc((100% / 16.5) * 8);
+	  width:calc((100% / 17) * 8);
 	}
 }
 
@@ -161,13 +162,6 @@ tr.tr-mod5{
   background-color: hsl(280, 50%, 10%);   
 }
 
-
-/*アクション行ではBPM列を透明に*/
-tr[data-tr-type="action"] td[data-td-bpm]{
-  -webkit-text-fill-color: transparent;
-  color: inherit;
-}
-
 td[data-td-sud]{
 	color:hsl(32,20%,90%);
 }
@@ -192,6 +186,10 @@ td.td-vvs{
 	opacity: 0.5;
 }
 
+/*アクション行ではBPM列を透明に*/
+tr[data-tr-type="action"] td[data-td-bpm]{
+  opacity: 0;
+}
 
 #input-default-green{
   margin-right: 10px;
@@ -258,11 +256,11 @@ input[data-input-delete-row]:hover {
 }
 
 select[data-select-action]{
-  width:100%;
+  width:95%;
   background-color: hsl(210, 10%, 95%);
   text-align:center; 
   color:hsl(240, 100%, 10%);
-  appearance:none; /*幅ギリギリなので矢印を削除*/
+  appearance:none;
 }
 
 select[data-select-action="ST+SCR"]{
