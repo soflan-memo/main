@@ -26,12 +26,12 @@ body{
   color:hsl(32,100%,90%);
 }
 
-div[data-div-header]{
-  background-color:hsl(240, 35%, 5%);
+div.div-popup{
+  background-color:hsl(210, 100%, 98%);
 }
 
-div[data-div-footer]{
-  background-color:hsl(240, 5%, 5%);
+div.div-footer{
+  background-color:hsl(240, 0%, 0%);
 }
 
 div.div-header-text-read{
@@ -46,13 +46,17 @@ div.div-header-default-setting{
 }
 
 div.div-header-music-sort{
-  font-size: 1.5em;
+  font-size: 1.3em;
+  margin-bottom: 5px;
+}
+div.div-header-music-select{
   margin-bottom: 5px;
 }
 
 table[data-table-music] {
   background-color: hsl(230, 25%, 10%);
-  border-color:hsl(32,100%,90%);
+  border-color:hsla(32,100%,100%,0.3);
+  border-width: 1px;
   text-align: center;
 }
 
@@ -300,7 +304,7 @@ textarea[data-textarea-memo]{
   max-width:100%;
   field-sizing: content;
   resize:none;
-  overflow: hidden;
+  overflow: visible;
   background-color: hsl(230, 25%, 10%);
   color:hsl(32,100%,90%);
 }
