@@ -30,19 +30,13 @@
   <div class="row div-header-text-read">  
       <input type="button" id="button-open-popover" name="button-open-popover" value="外部ファイル連携" onclick="openPopover()">
   </div>
-  <div class="row div-header-default-setting no-gutters">  
-    <div class="col-12 col-md-auto">
+  <div class="row div-header-default-setting">  
       基本緑数字
       <input type="number" id="input-default-green" name="input-default-green" min="0" max="9999" onchange="calcSpeedFromDefaultSetting()">
-    </div>
-    <div class="col-12 col-md-auto">
       基本SUD+
       <input type="number" id="input-default-sud" name="input-default-sud" min="0" max="999" onchange="calcSpeedFromDefaultSetting()">
-    </div>
-    <div class="col-12 col-md-auto">
       基本LIFT
       <input type="number" id="input-default-lift" name="input-default-lift" min="0" max="830" onchange="calcSpeedFromDefaultSetting()">
-    </div>
   </div>
   <div class="row div-header-music-sort">
       <input type="button" id="button-sort-by-name" name="button-sort-by-name" value="楽曲名順" onclick="createSelectSortByName()">
