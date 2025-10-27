@@ -4,13 +4,17 @@ html{ /*remとpxを合わせるため記載 ※1.6rem = 16pxとなる*/
 }
 
 body{ /*768px未満の基本フォントサイズ*/
-  font-size: 1.8rem;
+  font-size: 1.4rem;
 }
+
+@media (min-width: 576px) { /* 576～767pxのフォントサイズ */
+  body{font-size: 1.6rem;}
+}
+
 
 @media (min-width: 768px) { /* 768～991pxのフォントサイズ */
-  body{font-size: 1.9rem;}
+  body{font-size: 1.8rem;}
 }
-
 
 @media (min-width: 992px) { /* 992～1199pxのフォントサイズ */
   body{font-size: 2rem;}
@@ -18,7 +22,7 @@ body{ /*768px未満の基本フォントサイズ*/
 
 
 @media (min-width: 1200px) { /* 1200px以上のフォントサイズ */
-  body{font-size: 2.1rem;}
+  body{font-size: 2.2rem;}
 }
 
 body{
@@ -56,6 +60,10 @@ div.div-popup{
   background-color:hsl(210, 100%, 98%);
 }
 
+div.div-header{
+  background-color:hsl(235, 30%, 7.5%);
+}
+
 div.div-footer{
   background-color:hsl(240, 0%, 0%);
 }
@@ -67,12 +75,12 @@ div.div-header-text-read{
 }
 
 div.div-header-default-setting{
-  font-size: 2.5rem;
+  font-size: 1em;
   margin-bottom: 5px;
 }
 
 div.div-header-music-sort{
-  font-size: 1.3em;
+  font-size: 1em;
   margin-bottom: 5px;
 }
 div.div-header-music-select{
@@ -95,15 +103,15 @@ table[data-table-music] {
 .col-sud,
 .col-lift
 {
-  width:calc(100% / 11);
+  width:calc(100% / 13);
 }
 
 .col-action{ /*操作内容幅は2列ぶん*/
-  width:calc((100% / 11) * 2);
+  width:calc((100% / 13) * 2);
 }
 
-.col-memo{ /*メモ列は2幅ぶん*/
-  width:calc((100% / 11) * 2);
+.col-memo{ /*メモ列は4幅ぶん*/
+  width:calc((100% / 13) * 4);
 }
 
 @media (min-width: 768px) { /* 768～991pxのテーブル幅 */
@@ -247,7 +255,7 @@ tr[data-tr-type="action"] td[data-td-bpm]{
 #MUSIC_SELECT{
   width:100%;
   background-color: hsl(210, 10%, 95%);
-  font-size: 5rem;
+  font-size: 3em;
   font-family: monospace;
 }
 
