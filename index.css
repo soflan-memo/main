@@ -3,12 +3,12 @@ html{ /*remとpxを合わせるため記載 ※1.6rem = 16pxとなる*/
   font-size: 62.5%;
 }
 
-body{ /*768px未満の基本フォントサイズ*/
-  font-size: 1.4rem;
+body{ /*576px未満の基本フォントサイズ*/
+  font-size: 1rem;
 }
 
 @media (min-width: 576px) { /* 576～767pxのフォントサイズ */
-  body{font-size: 1.6rem;}
+  body{font-size: 1.4rem;}
 }
 
 
@@ -75,12 +75,10 @@ div.div-header-text-read{
 }
 
 div.div-header-default-setting{
-  font-size: 1em;
   margin-bottom: 5px;
 }
 
 div.div-header-music-sort{
-  font-size: 1em;
   margin-bottom: 5px;
 }
 div.div-header-music-select{
@@ -231,7 +229,7 @@ tr[data-tr-type="action"] td[data-td-bpm]{
 
 #input-default-green{
   margin-right: 10px;
-  width:3em;
+  width:max(50px,3em);
   background-color: hsl(210, 10%, 95%);
   text-align:center; 
   color:hsl(240, 100%, 10%);
@@ -239,14 +237,14 @@ tr[data-tr-type="action"] td[data-td-bpm]{
 
 #input-default-sud{
   margin-right: 10px;
-  width:3em;
+  width:max(50px,3em);
   background-color: hsl(210, 10%, 95%);
   text-align:center; 
   color:hsl(240, 100%, 10%);
 }
 
 #input-default-lift{
-  width:3em;
+  width:max(50px,3em);
   background-color: hsl(210, 10%, 95%);
   text-align:center; 
   color:hsl(240, 100%, 10%);
@@ -255,7 +253,7 @@ tr[data-tr-type="action"] td[data-td-bpm]{
 #MUSIC_SELECT{
   width:100%;
   background-color: hsl(210, 10%, 95%);
-  font-size: 3em;
+  font-size: 2em;
   font-family: monospace;
 }
 
@@ -336,9 +334,11 @@ textarea[data-textarea-memo]{
   width:100%;
   box-sizing: border-box;
   max-width:100%;
+  white-space: pre-wrap;
+  word-break: break-word;
   field-sizing: content;
   resize:none;
-  overflow: visible;
+  overflow: hidden;
   background-color: hsl(230, 25%, 10%);
   color:hsl(32,100%,90%);
 }
