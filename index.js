@@ -191,17 +191,13 @@ function createMusicOptionList(sortType){
 
     soflanMusicListJson.musicList[lookMusic].soflan
     if(sortType == 'name'){
-    addOp.text = soflanMusicListJson.musicList[lookMusic].title
-                + '\u00A0' + soflanMusicListJson.musicList[lookMusic].verName
-                + '\u00A0' + soflanMusicListJson.musicList[lookMusic].soflan;
+    addOp.text = soflanMusicListJson.musicList[lookMusic].title;
     }else if(sortType == 'version'){
     addOp.text = (soflanMusicListJson.musicList[lookMusic].verName + '\u00A0\u00A0').substring(0,5)
-                + soflanMusicListJson.musicList[lookMusic].title
-                + '\u00A0' + soflanMusicListJson.musicList[lookMusic].soflan;
+                + soflanMusicListJson.musicList[lookMusic].title;
     }else if(sortType == 'soflan'){
     addOp.text = soflanMusicListJson.musicList[lookMusic].soflan.toFixed(2)
-                + '\u00A0' + soflanMusicListJson.musicList[lookMusic].title
-                + '\u00A0' + soflanMusicListJson.musicList[lookMusic].verName;
+                + '\u00A0' + soflanMusicListJson.musicList[lookMusic].title;
     }
     addOp.value = soflanMusicListJson.musicList[lookMusic].id;
     musicListSelect.appendChild(addOp);
@@ -1245,4 +1241,3 @@ function calcSpeedFromDefaultSetting(){
   }
   localStorage.setItem('soflan-input-list', createInputListJson());
 }
-
