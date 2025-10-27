@@ -4,7 +4,7 @@ html{ /*remとpxを合わせるため記載 ※1.6rem = 16pxとなる*/
 }
 
 body{ /*576px未満の基本フォントサイズ*/
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 
 @media (min-width: 576px) { /* 576～767pxのフォントサイズ */
@@ -334,8 +334,6 @@ textarea[data-textarea-memo]{
   width:100%;
   box-sizing: border-box;
   max-width:100%;
-  white-space: pre-wrap;
-  word-break: break-word;
   field-sizing: content;
   resize:none;
   overflow: hidden;
