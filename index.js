@@ -133,7 +133,7 @@ function inputJsonToClipboard(){
 function musicSelect(){
   let selectMusic = document.getElementById('MUSIC_SELECT').value;
   if(isShowAllMode){
-    let headerDiv = document.querySelector('div[data-div-header]');
+    let headerDiv = document.querySelector('div.div-header');
     let selectMusicDiv = document.querySelector('div[data-music-id="' + selectMusic +'"]');
     window.scrollTo({top:selectMusicDiv.offsetTop - headerDiv.offsetHeight});
   }else{
