@@ -235,34 +235,28 @@ tr[data-tr-type="action"] td[data-td-bpm]{
 
 #input-default-green{
   margin-right: 10px;
+  padding:0;
   width:calc(3em + 10px);
   background-color: hsl(210, 10%, 95%);
   text-align:center; 
   color:hsl(240, 100%, 10%);
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;
 }
 
 #input-default-sud{
   margin-right: 10px;
+  padding:0;
   width:calc(3em + 10px);
   background-color: hsl(210, 10%, 95%);
   text-align:center; 
   color:hsl(240, 100%, 10%);
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;
 }
 
 #input-default-lift{
   width:calc(3em + 10px);
+  padding:0;
   background-color: hsl(210, 10%, 95%);
   text-align:center; 
   color:hsl(240, 100%, 10%);
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;
 }
 
 #MUSIC_SELECT{
@@ -270,6 +264,9 @@ tr[data-tr-type="action"] td[data-td-bpm]{
   background-color: hsl(210, 10%, 95%);
   font-size: 2em;
   font-family: monospace;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
 }
 
 input[data-input-add-row] {
@@ -329,6 +326,7 @@ select[data-select-action="ST→ST"]{
 }
 
 [data-element-input-value]{
+  padding:0;
   width:100%;
   background-color: hsl(210, 10%, 95%);
   text-align:center;
