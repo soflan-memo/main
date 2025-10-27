@@ -65,11 +65,12 @@ div.div-header{
 }
 
 div.div-main{
- padding:0 15px;
+ padding:0 15px; 
  margin-bottom: 2em;
 }
 
-div.div-footer{
+div.div-footer-comment{
+  padding:0 15px;
   background-color:hsl(240, 0%, 0%);
 }
 
