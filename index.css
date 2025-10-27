@@ -292,6 +292,7 @@ tr[data-tr-type="action"] td[data-td-bpm]{
 #MUSIC_SELECT{
   width:100%;
   background-color: hsl(210, 10%, 95%);
+  color:hsl(240,0%,0%);
   font-size: 2em;
   font-family: monospace;
   -webkit-appearance: none;
