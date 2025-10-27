@@ -229,7 +229,7 @@ tr[data-tr-type="action"] td[data-td-bpm]{
 
 #input-default-green{
   margin-right: 10px;
-  width:max(50px,3em);
+  width:calc(3em + 10px);
   background-color: hsl(210, 10%, 95%);
   text-align:center; 
   color:hsl(240, 100%, 10%);
@@ -237,14 +237,14 @@ tr[data-tr-type="action"] td[data-td-bpm]{
 
 #input-default-sud{
   margin-right: 10px;
-  width:max(50px,3em);
+  width:calc(3em + 10px);
   background-color: hsl(210, 10%, 95%);
   text-align:center; 
   color:hsl(240, 100%, 10%);
 }
 
 #input-default-lift{
-  width:max(50px,3em);
+  width:calc(3em + 10px);
   background-color: hsl(210, 10%, 95%);
   text-align:center; 
   color:hsl(240, 100%, 10%);
