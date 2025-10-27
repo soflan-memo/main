@@ -365,8 +365,6 @@ select[data-select-action="ST→ST"]{
   background-color: hsl(210, 10%, 95%);
   text-align:center;
   color:hsl(240, 100%, 10%);
-  -webkit-appearance: none;
-  -moz-appearance: none;
   appearance: none;
 }
 
