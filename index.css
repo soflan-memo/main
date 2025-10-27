@@ -104,8 +104,13 @@ table[data-table-music] {
 }
 
   .col-action
-  { /*操作内容は幅2列ぶん*/
-  width:calc((100% / 13) * 2);
+  { /*操作内容は幅1.8列ぶん*/
+  width:calc((100% / 13) * 1.8);
+  }
+
+  .col-input-value
+  { /*操作値は幅1.2列ぶん*/
+  width:calc((100% / 13) * 1.2);
   }
 
 .col-memo{ /*メモ列は4幅ぶん*/
@@ -114,7 +119,6 @@ table[data-table-music] {
 
 @media (min-width: 768px) { /* 768～991pxのテーブル幅 */
 	.col-add-remove,
-	.col-input-value,
 	.col-bpm,
 	.col-green,
 	.col-hs,
@@ -125,8 +129,13 @@ table[data-table-music] {
 	}
 
   .col-action
-  { /*操作内容は幅2列ぶん*/
-  width:calc((100% / 13) * 2);
+  { /*操作内容は幅1.8列ぶん*/
+  width:calc((100% / 13) * 1.8);
+  }
+
+  .col-input-value
+  { /*操作値は幅1.2列ぶん*/
+  width:calc((100% / 13) * 1.2);
   }
 
   .col-memo{ /*メモ幅は4列ぶん*/
@@ -147,9 +156,15 @@ table[data-table-music] {
 	}
 
   .col-action
-  { /*操作内容は幅2列ぶん*/
-  width:calc((100% / 15) * 2);
+  { /*操作内容は幅1.8列ぶん*/
+  width:calc((100% / 15) * 1.8);
   }
+
+  .col-input-value
+  { /*操作値は幅1.2列ぶん*/
+  width:calc((100% / 15) * 1.2);
+  }
+
   .col-memo{ /*メモ幅は6列ぶん*/
 	  width:calc((100% / 15) * 6);
 	}
@@ -159,7 +174,6 @@ table[data-table-music] {
 @media (min-width: 1200px) {
 	.col-add-remove,
 	.col-action,
-	.col-input-value,
 	.col-bpm,
 	.col-green,
 	.col-hs,
@@ -170,9 +184,14 @@ table[data-table-music] {
 	}
 
   .col-action
-  { /*操作内容は幅2列ぶん*/
-  width:calc((100% / 17) * 2);
+  { /*操作内容は幅1.8列ぶん*/
+  width:calc((100% / 17) * 1.8);
   }
+  .col-input-value
+  { /*操作値は幅1.2列ぶん*/
+  width:calc((100% / 17) * 1.2);
+  }
+
   .col-memo{ /*メモ幅は8列ぶん*/
 	  width:calc((100% / 17) * 8);
 	}
@@ -235,7 +254,7 @@ tr[data-tr-type="action"] td[data-td-bpm]{
 
 #input-default-green{
   margin-right: 10px;
-  padding:0;
+  padding:0 auto;
   width:calc(3em + 10px);
   background-color: hsl(210, 10%, 95%);
   text-align:center; 
@@ -244,7 +263,7 @@ tr[data-tr-type="action"] td[data-td-bpm]{
 
 #input-default-sud{
   margin-right: 10px;
-  padding:0;
+  padding:0 auto;
   width:calc(3em + 10px);
   background-color: hsl(210, 10%, 95%);
   text-align:center; 
@@ -253,7 +272,7 @@ tr[data-tr-type="action"] td[data-td-bpm]{
 
 #input-default-lift{
   width:calc(3em + 10px);
-  padding:0;
+  padding:0 auto;
   background-color: hsl(210, 10%, 95%);
   text-align:center; 
   color:hsl(240, 100%, 10%);
@@ -326,7 +345,7 @@ select[data-select-action="ST→ST"]{
 }
 
 [data-element-input-value]{
-  padding:0;
+  padding:0 auto;
   width:100%;
   background-color: hsl(210, 10%, 95%);
   text-align:center;
