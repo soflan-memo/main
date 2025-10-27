@@ -164,7 +164,8 @@ tr.tr-mod5{
 
 /*アクション行ではBPM列を透明に*/
 tr[data-tr-type="action"] td[data-td-bpm]{
-	color:transparent;
+  -webkit-text-fill-color: transparent;
+  color: inherit;
 }
 
 td[data-td-sud]{
