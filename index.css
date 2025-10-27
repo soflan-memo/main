@@ -103,10 +103,10 @@ table[data-table-music] {
   width:calc(100% / 13);
 }
 
-.col-action,.col-input-value
-{ /*操作内容、操作値は幅1.5列ぶん*/
-  width:calc((100% / 13) * 1.5);
-}
+  .col-action
+  { /*操作内容は幅2列ぶん*/
+  width:calc((100% / 13) * 2);
+  }
 
 .col-memo{ /*メモ列は4幅ぶん*/
   width:calc((100% / 13) * 4);
@@ -124,9 +124,9 @@ table[data-table-music] {
 	  width:calc(100% / 13);
 	}
 
-  .col-action,.col-input-value
-  { /*操作内容、操作値は幅1.5列ぶん*/
-  width:calc((100% / 13) * 1.5);
+  .col-action
+  { /*操作内容は幅2列ぶん*/
+  width:calc((100% / 13) * 2);
   }
 
   .col-memo{ /*メモ幅は4列ぶん*/
@@ -146,9 +146,9 @@ table[data-table-music] {
 	  width:calc(100% / 15);
 	}
 
-  .col-action,.col-input-value
-  { /*操作内容、操作値は幅1.5列ぶん*/
-  width:calc((100% / 15) * 1.5);
+  .col-action
+  { /*操作内容は幅2列ぶん*/
+  width:calc((100% / 15) * 2);
   }
   .col-memo{ /*メモ幅は6列ぶん*/
 	  width:calc((100% / 15) * 6);
@@ -169,9 +169,9 @@ table[data-table-music] {
 	  width:calc(100% / 17);
 	}
 
-  .col-action,.col-input-value
-  { /*操作内容、操作値は幅1.5列ぶん*/
-  width:calc((100% / 17) * 1.5);
+  .col-action
+  { /*操作内容は幅2列ぶん*/
+  width:calc((100% / 17) * 2);
   }
   .col-memo{ /*メモ幅は8列ぶん*/
 	  width:calc((100% / 17) * 8);
