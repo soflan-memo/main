@@ -15,14 +15,15 @@ function checkKonamiCommand(e){
   || keyInputArr.toString().toLowerCase() =='u,u,d,d,l,r,l,r,b,a'){
     isShowAllMode = true;
     document.getElementById('MUSIC_SELECT').value = '';
-    let musicList = document.querySelectorAll('div[data-div-music]');
-    for (let musicListIdx = 0;musicListIdx < musicList.length;musicListIdx++){
-      musicList[musicListIdx].style.display = '';
-    }
     let musicTitleList = document.querySelectorAll('div[data-div-music-title]');
     for(musicTitleListIdx = 0;musicTitleListIdx < musicTitleList.length;musicTitleListIdx++){
       musicTitleList[musicTitleListIdx].style.display = '';
     }
+    let musicList = document.querySelectorAll('div[data-div-music]');
+    for (let musicListIdx = 0;musicListIdx < musicList.length;musicListIdx++){
+      musicList[musicListIdx].style.display = '';
+    }
+    calcSpeedAll();
   }
 }
 
@@ -294,8 +295,8 @@ function sortBySoflan(){
 async function pageLoad(){
   //ソフランリストのJSONデータの読み込み
   try{
-    //const soflanMusicListJsonUrl = "http://127.0.0.1:5500/soflan-music-list.json";
-    const soflanMusicListJsonUrl = "https://soflan-memo.github.io/main/soflan-music-list.json";
+    const soflanMusicListJsonUrl = "http://127.0.0.1:5500/soflan-music-list.json";
+    //const soflanMusicListJsonUrl = "https://soflan-memo.github.io/main/soflan-music-list.json";
     const soflanMusicListJsonResponse = await fetch(soflanMusicListJsonUrl);
     soflanMusicListJson = await soflanMusicListJsonResponse.json();
     isReadSoflanMusicList = true;
@@ -748,7 +749,7 @@ function addActionTr(isNeedCalcSpeed,targetTableName,bpmChangeCount,actionType =
   memoTextarea.name = 'textarea-memo';
   memoTextarea.dataset.textareaMemo = '';
   memoTextarea.value = memo;
-  memoTextarea.onchange = function(){changeActionValue(this)};
+  memoTextarea.onchange = function(){changeMemoValue(this)};
   memoTd.appendChild(memoTextarea);
 
   if(isNeedCalcSpeed){
@@ -840,9 +841,15 @@ function changeAction(actionSelect){
   localStorage.setItem('soflan-input-list', createInputListJson());
 }
 
-function changeActionValue(acitonValue){
-  calcSpeed(acitonValue.closest('table').id);
+function changeActionValue(acitonElement){
+  calcSpeed(acitonElement.closest('table').id);
   localStorage.setItem('soflan-input-list', createInputListJson());
+}
+
+function changeMemoValue(memoElement){
+  memoElement.style.height = 'auto'
+  memoElement.style.height = memoElement.scrollHeight + 'px';
+  changeActionValue(memoElement);
 }
 
 function calcSpeed(targetTableName){
