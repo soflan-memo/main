@@ -23,6 +23,10 @@ function checkKonamiCommand(e){
     for (let musicListIdx = 0;musicListIdx < musicList.length;musicListIdx++){
       musicList[musicListIdx].style.display = '';
     }
+    memoTextareaList = document.querySelectorAll('textarea');
+    for(let memoTextareaListIdx = 0;memoTextareaListIdx < memoTextareaList.length;memoTextareaList++){
+      fixMemoHeight(memoTextareaList[memoTextareaListIdx]);
+    }    
     calcSpeedAll();
   }
 }
@@ -143,6 +147,10 @@ function musicSelect(){
       if(musicDivList[musicDivListIdx].dataset.musicId == selectMusic){
         musicDivList[musicDivListIdx].style.display = '';
         calcSpeed(selectMusic + '_TBL');
+        memoTextareaList = musicDivList[musicDivListIdx].querySelectorAll('textarea');
+        for(let memoTextareaListIdx = 0;memoTextareaListIdx < memoTextareaList.length;memoTextareaList++){
+          fixMemoHeight(memoTextareaList[memoTextareaListIdx]);
+        }
       }else{
         musicDivList[musicDivListIdx].style.display = 'none';
       }
@@ -750,9 +758,8 @@ function addActionTr(isNeedCalcSpeed,targetTableName,bpmChangeCount,actionType =
   memoTextarea.dataset.textareaMemo = '';
   memoTextarea.value = memo;
   memoTextarea.onchange = function(){changeMemoValue(this)};
-  fixMemoHeight(memoTextarea);
   memoTd.appendChild(memoTextarea);
-
+  
   if(isNeedCalcSpeed){
     calcSpeed(targetTableName);
     localStorage.setItem('soflan-input-list', createInputListJson());
