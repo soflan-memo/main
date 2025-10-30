@@ -14,6 +14,7 @@
 			"DPN": 7,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 175,
@@ -41,6 +42,7 @@
 			"DPN": 4,
 			"DPH": 9,
 			"DPA": 10,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 140,
@@ -98,6 +100,7 @@
 			"DPN": 5,
 			"DPH": 8,
 			"DPA": 10,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 175,
@@ -135,6 +138,7 @@
 			"DPN": 8,
 			"DPH": 11,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 93,
@@ -164,6 +168,7 @@
 			"DPH": 8,
 			"DPA": 11,
 			"DPL": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 144,
@@ -221,6 +226,7 @@
 			"DPN": 5,
 			"DPH": 8,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 168,
@@ -273,6 +279,7 @@
 			"DPN": 4,
 			"DPH": 8,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 115,
@@ -310,6 +317,7 @@
 			"DPN": 3,
 			"DPH": 6,
 			"DPA": 7,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 148,
@@ -387,6 +395,7 @@
 			"DPN": 6,
 			"DPH": 9,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 157,
@@ -429,6 +438,7 @@
 			"DPN": 5,
 			"DPH": 9,
 			"DPA": 10,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 146,
@@ -461,6 +471,7 @@
 			"DPN": 4,
 			"DPH": 7,
 			"DPA": 10,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 165,
@@ -513,6 +524,7 @@
 			"DPN": 6,
 			"DPH": 9,
 			"DPA": 11,
+			"memo": "複雑なソフランなので対応は様々",
 			"bpmList": [
 				{
 					"bpm": 105,
@@ -615,6 +627,7 @@
 			"DPN": 4,
 			"DPH": 7,
 			"DPA": 10,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 180,
@@ -647,6 +660,7 @@
 			"DPN": 7,
 			"DPH": 8,
 			"DPA": 10,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 165,
@@ -679,6 +693,7 @@
 			"DPN": 5,
 			"DPH": 8,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 150,
@@ -706,6 +721,7 @@
 			"DPN": 5,
 			"DPH": 8,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 162,
@@ -738,6 +754,7 @@
 			"DPN": 7,
 			"DPH": 11,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 108,
@@ -770,6 +787,7 @@
 			"DPN": 5,
 			"DPH": 8,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 132,
@@ -797,6 +815,7 @@
 			"DPN": 5,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 140,
@@ -898,6 +917,7 @@
 			"SPA": 10,
 			"DPN": 6,
 			"DPH": 10,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 160,
@@ -925,6 +945,7 @@
 			"DPN": 6,
 			"DPH": 10,
 			"DPA": 11,
+			"memo": "複雑なソフランなので対応は様々",
 			"bpmList": [
 				{
 					"bpm": 120,
@@ -1047,6 +1068,7 @@
 			"DPN": 6,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 80,
@@ -1089,6 +1111,7 @@
 			"DPN": 6,
 			"DPH": 9,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 145,
@@ -1126,6 +1149,7 @@
 			"DPN": 7,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 200,
@@ -1173,6 +1197,7 @@
 			"DPN": 4,
 			"DPH": 8,
 			"DPA": 9,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 131,
@@ -1200,6 +1225,7 @@
 			"DPN": 6,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 400,
@@ -1231,6 +1257,7 @@
 			"SPA": 7,
 			"DPN": 2,
 			"DPH": 6,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 94,
@@ -1414,6 +1441,7 @@
 			"textage": "/22/ebnyivry.html",
 			"SPL": 12,
 			"DPL": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 170,
@@ -1446,6 +1474,7 @@
 			"DPN": 7,
 			"DPH": 11,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 176,
@@ -1474,6 +1503,7 @@
 			"textage": "/4/empathy.html",
 			"SPH": 7,
 			"SPA": 8,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 170,
@@ -1506,6 +1536,7 @@
 			"DPN": 5,
 			"DPH": 12,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 180,
@@ -1543,6 +1574,7 @@
 			"DPN": 4,
 			"DPH": 8,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 180,
@@ -1580,6 +1612,7 @@
 			"DPN": 8,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 135,
@@ -1607,6 +1640,7 @@
 			"DPN": 6,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 161,
@@ -1654,6 +1688,7 @@
 			"DPN": 9,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "複雑なソフランなので対応は様々",
 			"bpmList": [
 				{
 					"bpm": 100,
@@ -1761,6 +1796,7 @@
 			"DPN": 6,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 157,
@@ -1786,6 +1822,7 @@
 			"SPH": 5,
 			"DPN": 5,
 			"DPH": 7,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 80,
@@ -1890,6 +1927,7 @@
 			"DPH": 10,
 			"DPA": 12,
 			"DPL": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 195,
@@ -1982,6 +2020,7 @@
 			"DPN": 4,
 			"DPH": 7,
 			"DPA": 10,
+			"memo": "複雑なソフランなので対応は様々",
 			"bpmList": [
 				{
 					"bpm": 100,
@@ -2020,6 +2059,7 @@
 			"textage": "/25/futuredd.html",
 			"SPA": 11,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 110,
@@ -2062,6 +2102,7 @@
 			"DPN": 4,
 			"DPH": 8,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 105,
@@ -2091,6 +2132,7 @@
 			"DPH": 11,
 			"DPA": 12,
 			"DPL": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 82,
@@ -2128,6 +2170,7 @@
 			"DPN": 5,
 			"DPH": 8,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 180,
@@ -2180,6 +2223,7 @@
 			"DPN": 7,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "複雑なソフランなので対応は様々",
 			"bpmList": [
 				{
 					"bpm": 150,
@@ -2341,6 +2385,7 @@
 			"SPA": 6,
 			"DPN": 6,
 			"DPH": 7,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 82,
@@ -2413,6 +2458,7 @@
 			"DPN": 5,
 			"DPH": 9,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 172,
@@ -2530,6 +2576,7 @@
 			"DPN": 3,
 			"DPH": 7,
 			"DPA": 11,
+			"memo": "複雑なソフランなので対応は様々",
 			"bpmList": [
 				{
 					"bpm": 160,
@@ -2575,6 +2622,7 @@
 			"SPH": 6,
 			"DPN": 4,
 			"DPH": 9,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 160,
@@ -2613,6 +2661,7 @@
 			"textage": "/1/gracyber.html",
 			"SPA": 7,
 			"DPA": 9,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 160,
@@ -2645,6 +2694,7 @@
 			"DPN": 4,
 			"DPH": 8,
 			"DPA": 10,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 150,
@@ -2677,6 +2727,7 @@
 			"DPN": 6,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 140,
@@ -2706,6 +2757,7 @@
 			"DPH": 10,
 			"DPA": 12,
 			"DPL": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 176,
@@ -2838,6 +2890,7 @@
 			"DPN": 6,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 191,
@@ -2870,6 +2923,7 @@
 			"DPN": 5,
 			"DPH": 8,
 			"DPA": 10,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 123,
@@ -2897,6 +2951,7 @@
 			"DPN": 6,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "複雑なソフランなので対応は様々",
 			"bpmList": [
 				{
 					"bpm": 195,
@@ -3024,6 +3079,7 @@
 			"DPN": 5,
 			"DPH": 9,
 			"DPA": 11,
+			"memo": "複雑なソフランなので対応は様々",
 			"bpmList": [
 				{
 					"bpm": 124,
@@ -3071,6 +3127,7 @@
 			"DPN": 5,
 			"DPH": 8,
 			"DPA": 10,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 145,
@@ -3113,6 +3170,7 @@
 			"DPN": 6,
 			"DPH": 9,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 180,
@@ -3145,6 +3203,7 @@
 			"DPN": 5,
 			"DPH": 9,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 176,
@@ -3242,6 +3301,7 @@
 			"DPH": 10,
 			"DPA": 11,
 			"DPL": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 212,
@@ -3271,6 +3331,7 @@
 			"DPH": 9,
 			"DPA": 11,
 			"DPL": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 215,
@@ -3303,6 +3364,7 @@
 			"DPN": 7,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 300,
@@ -3365,6 +3427,7 @@
 			"DPN": 6,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 360,
@@ -3432,6 +3495,7 @@
 			"DPN": 5,
 			"DPH": 9,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 174,
@@ -3484,6 +3548,7 @@
 			"DPN": 3,
 			"DPH": 8,
 			"DPA": 10,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 110,
@@ -3526,6 +3591,7 @@
 			"DPN": 6,
 			"DPH": 8,
 			"DPA": 9,
+			"memo": "複雑なソフランなので対応は様々",
 			"bpmList": [
 				{
 					"bpm": 98,
@@ -3568,6 +3634,7 @@
 			"DPN": 5,
 			"DPH": 8,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 160,
@@ -3640,6 +3707,7 @@
 			"DPN": 4,
 			"DPH": 11,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 146,
@@ -3697,6 +3765,7 @@
 			"DPN": 7,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 170,
@@ -3769,6 +3838,7 @@
 			"DPN": 7,
 			"DPH": 9,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 152,
@@ -3796,6 +3866,7 @@
 			"DPN": 6,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "複雑なソフランなので対応は様々",
 			"bpmList": [
 				{
 					"bpm": 120,
@@ -3838,6 +3909,7 @@
 			"DPN": 6,
 			"DPH": 9,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 222,
@@ -3870,6 +3942,7 @@
 			"DPN": 6,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 101,
@@ -3902,6 +3975,7 @@
 			"DPN": 5,
 			"DPH": 9,
 			"DPA": 11,
+			"memo": "複雑なソフランなので対応は様々",
 			"bpmList": [
 				{
 					"bpm": 128,
@@ -3979,6 +4053,7 @@
 			"DPN": 5,
 			"DPH": 7,
 			"DPA": 10,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 180,
@@ -4031,6 +4106,7 @@
 			"DPN": 5,
 			"DPH": 8,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 174,
@@ -4073,6 +4149,7 @@
 			"DPN": 6,
 			"DPH": 11,
 			"DPA": 12,
+			"memo": "複雑なソフランなので対応は様々",
 			"bpmList": [
 				{
 					"bpm": 180,
@@ -4275,6 +4352,7 @@
 			"DPN": 8,
 			"DPH": 11,
 			"DPA": 12,
+			"memo": "複雑なソフランなので対応は様々",
 			"bpmList": [
 				{
 					"bpm": 300,
@@ -4312,6 +4390,7 @@
 			"DPN": 5,
 			"DPH": 8,
 			"DPA": 10,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 290,
@@ -4384,6 +4463,7 @@
 			"DPN": 4,
 			"DPH": 8,
 			"DPA": 10,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 160,
@@ -4413,6 +4493,7 @@
 			"DPH": 5,
 			"DPA": 8,
 			"DPL": 10,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 132,
@@ -4460,6 +4541,7 @@
 			"DPN": 7,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 185,
@@ -4517,6 +4599,7 @@
 			"DPN": 6,
 			"DPH": 9,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 168,
@@ -4564,6 +4647,7 @@
 			"DPN": 4,
 			"DPH": 9,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 182,
@@ -4596,6 +4680,7 @@
 			"DPN": 7,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 111,
@@ -4643,6 +4728,7 @@
 			"DPN": 6,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 155,
@@ -4670,6 +4756,7 @@
 			"DPN": 6,
 			"DPH": 10,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 128,
@@ -4707,6 +4794,7 @@
 			"DPN": 6,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 355,
@@ -4869,6 +4957,7 @@
 			"DPN": 5,
 			"DPH": 9,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 170,
@@ -4901,6 +4990,7 @@
 			"DPN": 5,
 			"DPH": 9,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 222,
@@ -4988,6 +5078,7 @@
 			"DPN": 6,
 			"DPH": 9,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 130,
@@ -5015,6 +5106,7 @@
 			"DPN": 8,
 			"DPH": 9,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 79,
@@ -5042,6 +5134,7 @@
 			"DPN": 5,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 182,
@@ -5069,6 +5162,7 @@
 			"DPN": 5,
 			"DPH": 9,
 			"DPA": 10,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 85,
@@ -5096,6 +5190,7 @@
 			"DPN": 4,
 			"DPH": 8,
 			"DPA": 10,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 153,
@@ -5128,6 +5223,7 @@
 			"DPN": 6,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 168,
@@ -5365,6 +5461,7 @@
 			"DPN": 7,
 			"DPH": 11,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 128,
@@ -5407,6 +5504,7 @@
 			"DPN": 6,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 180,
@@ -5634,6 +5732,7 @@
 			"DPN": 7,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "複雑なソフランなので対応は様々",
 			"bpmList": [
 				{
 					"bpm": 100,
@@ -5756,6 +5855,7 @@
 			"DPN": 6,
 			"DPH": 11,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 190,
@@ -5788,6 +5888,7 @@
 			"DPN": 6,
 			"DPH": 9,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 165,
@@ -5855,6 +5956,7 @@
 			"DPN": 5,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 182,
@@ -5887,6 +5989,7 @@
 			"DPN": 5,
 			"DPH": 8,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 150,
@@ -5984,6 +6087,7 @@
 			"DPN": 4,
 			"DPH": 8,
 			"DPA": 10,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 160,
@@ -6076,6 +6180,7 @@
 			"DPN": 6,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 160,
@@ -6105,6 +6210,7 @@
 			"DPH": 8,
 			"DPA": 10,
 			"DPL": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 170,
@@ -6167,6 +6273,7 @@
 			"DPN": 6,
 			"DPH": 9,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 264,
@@ -6254,6 +6361,7 @@
 			"DPN": 5,
 			"DPH": 8,
 			"DPA": 11,
+			"memo": "複雑なソフランなので対応は様々",
 			"bpmList": [
 				{
 					"bpm": 146,
@@ -6561,6 +6669,7 @@
 			"DPN": 5,
 			"DPH": 8,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": []
 		},
 		{
@@ -6573,6 +6682,7 @@
 			"textage": "/19/titans.html",
 			"SPL": 12,
 			"DPL": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 194,
@@ -6615,6 +6725,7 @@
 			"DPN": 7,
 			"DPH": 9,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 180,
@@ -6694,6 +6805,7 @@
 			"DPH": 10,
 			"DPA": 12,
 			"DPL": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 130,
@@ -6731,6 +6843,7 @@
 			"DPN": 6,
 			"DPH": 9,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 160,
@@ -6763,6 +6876,7 @@
 			"DPN": 6,
 			"DPH": 8,
 			"DPA": 10,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 141,
@@ -6800,6 +6914,7 @@
 			"DPN": 7,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "複雑なソフランなので対応は様々",
 			"bpmList": [
 				{
 					"bpm": 164,
@@ -7031,6 +7146,7 @@
 			"SPA": 8,
 			"DPN": 5,
 			"DPH": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 125,
@@ -7112,6 +7228,7 @@
 			"SPA": 10,
 			"DPN": 4,
 			"DPH": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 136,
@@ -7139,6 +7256,7 @@
 			"DPN": 3,
 			"DPH": 7,
 			"DPA": 10,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 150,
@@ -7181,6 +7299,7 @@
 			"DPN": 5,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "複雑なソフランなので対応は様々",
 			"bpmList": [
 				{
 					"bpm": 145,
@@ -7368,6 +7487,7 @@
 			"DPN": 6,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 180,
@@ -7400,6 +7520,7 @@
 			"DPN": 5,
 			"DPH": 9,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 218,
@@ -7428,6 +7549,7 @@
 			"textage": "/21/_aether.html",
 			"SPL": 12,
 			"DPL": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 192,
@@ -7469,6 +7591,7 @@
 			"SPA": 9,
 			"DPN": 3,
 			"DPH": 6,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 84,
@@ -7496,6 +7619,7 @@
 			"DPN": 5,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "複雑なソフランなので対応は様々",
 			"bpmList": [
 				{
 					"bpm": 245,
@@ -7623,6 +7747,7 @@
 			"DPN": 5,
 			"DPH": 9,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 176,
@@ -7700,6 +7825,7 @@
 			"DPN": 7,
 			"DPH": 12,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 148,
@@ -7772,6 +7898,7 @@
 			"DPN": 7,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 142,
@@ -7829,6 +7956,7 @@
 			"DPN": 4,
 			"DPH": 9,
 			"DPA": 11,
+			"memo": "複雑なソフランなので対応は様々",
 			"bpmList": [
 				{
 					"bpm": 90,
@@ -8166,6 +8294,7 @@
 			"DPN": 8,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "複雑なソフランなので対応は様々",
 			"bpmList": [
 				{
 					"bpm": 300,
@@ -8283,6 +8412,7 @@
 			"DPN": 4,
 			"DPH": 8,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 100,
@@ -8325,6 +8455,7 @@
 			"DPN": 7,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 185,
@@ -8392,6 +8523,7 @@
 			"DPN": 6,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 90,
@@ -8431,6 +8563,7 @@
 			"DPH": 10,
 			"DPA": 12,
 			"DPL": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 97,
@@ -8473,6 +8606,7 @@
 			"DPN": 6,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 180,
@@ -8504,6 +8638,7 @@
 			"SPA": 7,
 			"DPN": 3,
 			"DPH": 5,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 85,
@@ -8591,6 +8726,7 @@
 			"DPN": 5,
 			"DPH": 8,
 			"DPA": 10,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 70,
@@ -8618,6 +8754,7 @@
 			"DPN": 7,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 280,
@@ -8660,6 +8797,7 @@
 			"DPN": 4,
 			"DPH": 6,
 			"DPA": 7,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 135,
@@ -8689,6 +8827,7 @@
 			"DPH": 8,
 			"DPA": 10,
 			"DPL": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 120,
@@ -8716,6 +8855,7 @@
 			"DPN": 6,
 			"DPH": 9,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 83,
@@ -8748,6 +8888,7 @@
 			"DPN": 5,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 185,
@@ -8860,6 +9001,7 @@
 			"DPN": 6,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "複雑なソフランなので対応は様々",
 			"bpmList": [
 				{
 					"bpm": 150,
@@ -9212,6 +9354,7 @@
 			"DPN": 7,
 			"DPH": 11,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 185,
@@ -9259,6 +9402,7 @@
 			"DPN": 7,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 290,
@@ -9336,6 +9480,7 @@
 			"DPN": 5,
 			"DPH": 8,
 			"DPA": 12,
+			"memo": "複雑なソフランなので対応は様々",
 			"bpmList": [
 				{
 					"bpm": 178,
@@ -9388,6 +9533,7 @@
 			"DPN": 5,
 			"DPH": 11,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 200,
@@ -9505,6 +9651,7 @@
 			"DPN": 5,
 			"DPH": 9,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 290,
@@ -9552,6 +9699,7 @@
 			"DPN": 4,
 			"DPH": 9,
 			"DPA": 11,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 99,
@@ -9584,6 +9732,7 @@
 			"DPN": 7,
 			"DPH": 10,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 177,
@@ -9806,6 +9955,7 @@
 			"DPN": 7,
 			"DPH": 11,
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 157,
@@ -9939,6 +10089,7 @@
 			"textage": "/17/_valse17.html",
 			"SPN": 6,
 			"DPN": 6,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 270,
@@ -10157,6 +10308,7 @@
 			"textage": "/17/_valse17.html",
 			"SPH": 10,
 			"DPH": 10,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 290,
@@ -10429,6 +10581,7 @@
 			"soflan": 200,
 			"textage": "/17/_valse17.html",
 			"SPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 300,
@@ -10731,6 +10884,7 @@
 			"soflan": 200,
 			"textage": "/17/_valse17.html",
 			"DPA": 12,
+			"memo": "",
 			"bpmList": [
 				{
 					"bpm": 290,
