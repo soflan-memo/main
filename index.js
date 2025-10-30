@@ -15,18 +15,22 @@ function checkKonamiCommand(e){
   || keyInputArr.toString().toLowerCase() =='u,u,d,d,l,r,l,r,b,a'){
     isShowAllMode = true;
     document.getElementById('MUSIC_SELECT').value = '';
+
     let musicTitleList = document.querySelectorAll('div[data-div-music-title]');
     for(musicTitleListIdx = 0;musicTitleListIdx < musicTitleList.length;musicTitleListIdx++){
       musicTitleList[musicTitleListIdx].style.display = '';
     }
+
     let musicList = document.querySelectorAll('div[data-div-music]');
     for (let musicListIdx = 0;musicListIdx < musicList.length;musicListIdx++){
       musicList[musicListIdx].style.display = '';
     }
-    memoTextareaList = document.querySelectorAll('textarea');
+    
+    let memoTextareaList = document.querySelectorAll('textarea');
     for(let memoTextareaListIdx = 0;memoTextareaListIdx < memoTextareaList.length;memoTextareaList++){
       fixMemoHeight(memoTextareaList[memoTextareaListIdx]);
     }    
+
     calcSpeedAll();
   }
 }
@@ -491,11 +495,16 @@ async function pageLoad(){
     }
 
     //memo要素
-    let musicMemo = document.createElement('div');
-    if(lookMusic.memo !== undefined){
-      musicMemo.innerText = lookMusic.memo;
-    }
-    musicDiv.appendChild(musicMemo);
+    //ポップオーバーで解説を表示させる事を模索
+    // let musicMemoDiv = document.createElement('div');
+    // musicMemoDiv.dataset.divMusicMemo = '';    
+    // let musicMemoP = document.createElement('p');
+    // if(lookMusic.memo !== undefined){
+    //   musicMemoP.innerText = lookMusic.memo;
+    // }
+    // musicMemoDiv.appendChild(musicMemoP);
+    // musicDiv.appendChild(musicMemoDiv);
+
   }
 
   let inputListLocalStrage = localStorage.getItem('soflan-input-list');
