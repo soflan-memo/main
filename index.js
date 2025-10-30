@@ -750,6 +750,7 @@ function addActionTr(isNeedCalcSpeed,targetTableName,bpmChangeCount,actionType =
   memoTextarea.dataset.textareaMemo = '';
   memoTextarea.value = memo;
   memoTextarea.onchange = function(){changeMemoValue(this)};
+  fixMemoHeight(memoTextarea);
   memoTd.appendChild(memoTextarea);
 
   if(isNeedCalcSpeed){
@@ -847,9 +848,13 @@ function changeActionValue(acitonElement){
 }
 
 function changeMemoValue(memoElement){
+  fixMemoHeight(memoElement);
+  changeActionValue(memoElement);
+}
+
+function fixMemoHeight(memoElement){
   memoElement.style.height = 'auto'
   memoElement.style.height = memoElement.scrollHeight + 'px';
-  changeActionValue(memoElement);
 }
 
 function calcSpeed(targetTableName){
