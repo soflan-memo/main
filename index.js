@@ -152,7 +152,7 @@ function musicSelect(){
         musicDivList[musicDivListIdx].style.display = '';
         calcSpeed(selectMusic + '_TBL');
         memoTextareaList = musicDivList[musicDivListIdx].querySelectorAll('textarea');
-        for(let memoTextareaListIdx = 0;memoTextareaListIdx < memoTextareaList.length;memoTextareaList++){
+        for(let memoTextareaListIdx = 0;memoTextareaListIdx < memoTextareaList.length;memoTextareaListIdx++){
           fixMemoHeight(memoTextareaList[memoTextareaListIdx]);
         }
       }else{
@@ -495,7 +495,7 @@ async function pageLoad(){
     }
 
     //memo要素
-    //ポップオーバーで解説を表示させる事を模索
+    //ポップオーバーで解説を表示させる事を模索する形に変更
     // let musicMemoDiv = document.createElement('div');
     // musicMemoDiv.dataset.divMusicMemo = '';    
     // let musicMemoP = document.createElement('p');
@@ -869,7 +869,8 @@ function changeMemoValue(memoElement){
 }
 
 function fixMemoHeight(memoElement){
-  memoElement.style.height = 'auto'
+  let fontSize = parseFloat(getComputedStyle(memoElement).fontSize);
+  memoElement.style.height = fontSize;
   memoElement.style.height = memoElement.scrollHeight + 'px';
 }
 
