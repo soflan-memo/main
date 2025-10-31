@@ -380,7 +380,8 @@ textarea[data-textarea-memo]{
   align-items: center;
   padding:0;
   width:100%;
-  height:1.4em;
+  min-width: 100%;
+  height: 1.4em;
   box-sizing: border-box;
   field-sizing: content;
   resize:none;
