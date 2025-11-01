@@ -93,6 +93,7 @@ div.div-header-music-select{
 }
 
 table[data-table-music] {
+  width:100%;
   background-color: hsl(230, 25%, 10%);
   border-color:hsla(32,100%,100%,0.3);
   border-width: 1px;
@@ -380,7 +381,6 @@ textarea[data-textarea-memo]{
   align-items: center;
   padding:0;
   width:100%;
-  min-width: 100%;
   height: 1.4em;
   box-sizing: border-box;
   field-sizing: content;
