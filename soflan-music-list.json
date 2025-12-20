@@ -4035,7 +4035,7 @@
 				{
 					"bpm": 90,
 					"type": "td-s",
-					"memo": "2.125小節 小節線より少し前に減"
+					"memo": "2.125小節 小節線より少し前に減速"
 				}
 			]
 		},
@@ -6670,7 +6670,78 @@
 			"DPH": 8,
 			"DPA": 11,
 			"memo": "",
-			"bpmList": []
+			"bpmList": [
+				{
+					"bpm": 130,
+					"type": "",
+					"memo": "5.5小節 "
+				},
+				{
+					"bpm": 33,
+					"type": "td-vvs",
+					"memo": "0.25小節 疑似停止1拍"
+				},
+				{
+					"bpm": 130,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 33,
+					"type": "td-vvs",
+					"memo": "0.25小節 疑似停止1拍"
+				},
+				{
+					"bpm": 130,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 98,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "",
+					"memo": "4.5小節 "
+				},
+				{
+					"bpm": 65,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 98,
+					"type": "td-vvs",
+					"memo": "0.75小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 65,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 33,
+					"type": "td-vs",
+					"memo": "1小節 曲の終了後に変化"
+				}
+			]
 		},
 		{
 			"id": "TITANS_RETURN",
