@@ -80,6 +80,7 @@ function readJson(){
   }
   deleteAllActionTr();
   readInputList(inputListJson);
+  localStorage.setItem('soflan-input-list', createInputListJson());
   alert('テキストの読込が完了しました。');
 }
 
@@ -1270,4 +1271,5 @@ function calcSpeedFromDefaultSetting(){
   }
   localStorage.setItem('soflan-input-list', createInputListJson());
 }
+
 
