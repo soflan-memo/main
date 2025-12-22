@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<head>
+<title>IIDXアリーナ勝率表</title>
+<style>
+</style>
+</head>
+<body style="text-align:center;">
+<H3>IIDXアリーナ勝率表</H3>
+<script>
+(() => {
+
+  //組み合わせ全体の結果数
+  let totalResultsCount = 0;
+
+  //スコア別の結果数
+  let scoreCountArr = new Array(9).fill(0);
+
+  //スコア別の順位の二重配列 rankRessultsDoubleArr[スコア][順位(※0インデックス)]
+  let scoreRankeDoubleArr = [];
+  for(let i=0; i<9; i++) scoreRankeDoubleArr.push(Array(4).fill(0));
+
+
+  //一回の対曲結果はこの組み合わせ
+  const compeResultsDoubleArr =[
+    [2,1,0,0],
+    [2,0,1,0],
+    [2,0,0,1],
+    [1,2,0,0],
+    [0,2,1,0],
+    [0,2,0,1],
+    [1,0,2,0],
+    [0,1,2,0],
+    [0,0,2,1],
+    [1,0,0,2],
+    [0,1,0,2],
+    [0,0,1,2]
+  ];
+
+  function exponentDoubleArr(dArr){
+    return dArr.flatMap(Arr1 =>
+      dArr.map(Arr2 =>
+        Arr1.map((value,index) => value + Arr2[index])
+      )
+    )
+  }
+
+  //2*2で4試合分の結果を生成
+  const totalResultsDoubleArr = exponentDoubleArr(exponentDoubleArr(compeResultsDoubleArr));
+
+  totalResultsDoubleArr.forEach(scoreArr => {
+    //同配列の中で自分より高いスコアのみの配列を生成し、lengthを順位とする
+    const rankArr = scoreArr.map(targetScore => scoreArr.filter(wholeScore => wholeScore > targetScore).length);
+    //スコア、順位の結果をそれぞれの変数へ格納してカウント
+    scoreArr.forEach((score,index) => {
+      totalResultsCount++;
+      scoreCountArr[score]++;
+      scoreRankeDoubleArr[score][rankArr[index]]++;
+    });
+  });
+
+  console.log(totalResultsCount);
+  console.log(scoreCountArr);
+  console.log(scoreRankeDoubleArr);
+
+  //試合結果をhtmlに表示
+  let resultTable = document.createElement('table');
+  resultTable.border = 1;
+  resultTable.align = 'center';
+  document.body.appendChild(resultTable);
+
+  let headerTd =  document.createElement('tr');
+  resultTable.appendChild(headerTd);
+
+  let headerArr = ['とる確率','スコア','1位','2位','3位','4位'];
+  headerArr.forEach(headerTitle => {
+    let headerTd = document.createElement('td');
+    headerTd.innerText = headerTitle;
+    headerTd.appendChild(headerTd);
+  });
+
+  scoreRankeDoubleArr.forEach((rankArr,score) => {
+    let scoreTr = document.createElement('tr');
+    resultTable.appendChild(scoreTr);
+    let getPercentTd = document.createElement('td');
+    getPercentTd.innerText = (scoreCountArr[score]/totalResultsCount * 100).toFixed(2) + '%';
+    scoreTr.appendChild(getPercentTd);
+
+    let scoreTd = document.createElement('td');
+    scoreTd.innerText = score;
+    scoreTr.appendChild(scoreTd);
+
+    rankArr.forEach((rankCount,rank) => {
+      let rankTd = document.createElement('td');
+      rankTd.innerText = (rankCount/scoreCountArr[score] * 100).toFixed(2) + '%';
+      scoreTr.appendChild(rankTd);      
+    });
+  });
+
+
+})();
+</script>
+</body>
+</html>
