@@ -75,7 +75,7 @@
   headerArr.forEach(headerTitle => {
     let headerTd = document.createElement('td');
     headerTd.innerText = headerTitle;
-    headerTd.appendChild(headerTd);
+    resultTable.appendChild(headerTd);
   });
 
   scoreRankeDoubleArr.forEach((rankArr,score) => {
