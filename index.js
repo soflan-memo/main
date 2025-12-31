@@ -27,7 +27,10 @@ function checkKonamiCommand(e){
     }
     
     let memoTextareaList = document.querySelectorAll('textarea');
-    for(let memoTextareaListIdx = 0;memoTextareaListIdx < memoTextareaList.length;memoTextareaListIdx++){
+    for(let memoTextareaListIdx = 0;memoTextareaListIdx < memoTextareaList.length;memoTextareaListIdx++){      
+      if(memoTextareaList[memoTextareaListIdx].id == 'textarea-input-json'){ //入力JSONのtextareaはサイズ修正しない
+        continue;
+      }
       fixMemoHeight(memoTextareaList[memoTextareaListIdx]);
     }    
 
@@ -394,8 +397,32 @@ async function pageLoad(){
     doubleDifTd.appendChild(dplA);
     doubleDifTr.appendChild(doubleDifTd); 
 
+    // //曲解説ポップオーバー
+    // let musicCommentPopoverDiv = document.createElement('div');
+    // musicCommentPopoverDiv.id = lookMusic.id + '_COMMENT';
+    // musicCommentPopoverDiv.setAttribute('popover','auto');
+    // if(lookMusic.memo !== undefined && lookMusic.memo !== ''){
+    //   musicCommentPopoverDiv.textContent = lookMusic.memo;
+    // }else{
+    //   musicCommentPopoverDiv.textContent = '';
+    // }
+    // document.body.appendChild(musicCommentPopoverDiv);
+
     let doubleDifRightBlankTd =  document.createElement('td');
     doubleDifRightBlankTd.colSpan = 1;
+    doubleDifRightBlankTd.style.textAlign = 'left';
+    // if(lookMusic.memo !== undefined && lookMusic.memo !== ''){
+    //   let musicCommentInput = document.createElement('input');
+    //   musicCommentInput.type = 'button';
+    //   musicCommentInput.name = 'input-music-comment';
+    //   musicCommentInput.className = 'input-music-comment';
+    //   musicCommentInput.value = '解説';
+    //   musicCommentInput.setAttribute('popovertarget',lookMusic.id + '_COMMENT');
+    //   musicCommentInput.setAttribute('popovertargetaction','toggle');
+    //   doubleDifRightBlankTd.appendChild(musicCommentInput);
+    // }else{
+    //   doubleDifRightBlankTd.innerText = '解説';
+    // }
     doubleDifTr.appendChild(doubleDifRightBlankTd);
 
     //ヘッダーシングル用譜面
@@ -478,9 +505,12 @@ async function pageLoad(){
         explainTd.style.textAlign = 'center';
       }
 
-      if(explainArr[explainArrIdx] == '入力値' || explainArr[explainArrIdx] == '緑数字'){
+      if(explainArr[explainArrIdx] == '緑数字'){
         explainTd.style.fontSize = '0.8em';
       }
+      // if(explainArr[explainArrIdx] == '入力値' || explainArr[explainArrIdx] == '緑数字'){
+      //   explainTd.style.fontSize = '0.8em';
+      // }
 
       explainTr.appendChild(explainTd);
     }
@@ -494,17 +524,6 @@ async function pageLoad(){
       //楽曲bpmTrを追加
       addBpmTr(musicTbody,lookMusic.id,bpmChangeCount,lookMusic.bpmList[bpmChangeCount].bpm,lookMusic.bpmList[bpmChangeCount].memo,lookMusic.bpmList[bpmChangeCount].type);
     }
-
-    //memo要素
-    //ポップオーバーで解説を表示させる事を模索する形に変更
-    // let musicMemoDiv = document.createElement('div');
-    // musicMemoDiv.dataset.divMusicMemo = '';    
-    // let musicMemoP = document.createElement('p');
-    // if(lookMusic.memo !== undefined){
-    //   musicMemoP.innerText = lookMusic.memo;
-    // }
-    // musicMemoDiv.appendChild(musicMemoP);
-    // musicDiv.appendChild(musicMemoDiv);
 
   }
 
@@ -1230,6 +1249,10 @@ function calcSpeedFromDefaultSetting(){
     return;
   }
 
+  if(isReadSoflanMusicList == false){
+    return;
+  }
+
   const lanePx = 723;
   let defaultGreen = parseInt(document.getElementById('input-default-green').value);
   let defaultSud = parseInt(document.getElementById('input-default-sud').value);
@@ -1271,5 +1294,3 @@ function calcSpeedFromDefaultSetting(){
   }
   localStorage.setItem('soflan-input-list', createInputListJson());
 }
-
-
