@@ -11243,6 +11243,44 @@
 					"memo": "3小節 "
 				}
 			]
+		},
+		{
+			"id": "HAO",
+			"title": "ハオ",
+			"read": "ハオ",
+			"ver": 32,
+			"verName": "PiCr",
+			"soflan": 92.23,
+			"textage": "/32/_hao.html",
+			"SPN": 4,
+			"SPH": 8,
+			"SPA": 11,
+			"DPN": 4,
+			"DPH": 8,
+			"DPA": 11,
+			"memo": "",
+			"bpmList": [
+				{
+					"bpm": 176,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 130,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 153,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 176,
+					"type": "",
+					"memo": ""
+				}
+			]
 		}
 	]
 }
