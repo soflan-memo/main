@@ -11281,6 +11281,299 @@
 					"memo": ""
 				}
 			]
+		},
+		{
+			"id": "TROLL",
+			"title": "T.R.O.L.L.",
+			"read": "T.R.O.L.L.",
+			"ver": 31,
+			"verName": "Epo",
+			"soflan": 156.07,
+			"textage": "/31/troll.html",
+			"SPN": 6,
+			"SPH": 9,
+			"SPA": 11,
+			"DPN": 6,
+			"DPH": 9,
+			"DPA": 12,
+			"memo": "",
+			"bpmList": [
+				{
+					"bpm": 160,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 158,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 156,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 154,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 152,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 148,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 146,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 144,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 142,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 138,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 136,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 134,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 132,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 128,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 126,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 124,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 122,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 118,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 116,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 114,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 112,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 110,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 108,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 106,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 104,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 102,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 103,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 105,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 108,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 110,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 113,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 115,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 118,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 123,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 125,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 128,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 133,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 135,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 138,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 143,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 145,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 148,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 153,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 155,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 158,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 160,
+					"type": "",
+					"memo": ""
+				}
+			]
 		}
 	]
 }
