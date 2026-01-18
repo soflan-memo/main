@@ -11574,6 +11574,234 @@
 					"memo": ""
 				}
 			]
+		},
+		{
+			"id": "HALLUCINATION",
+			"title": "Hallucination",
+			"read": "Hallucination",
+			"ver": 33,
+			"verName": "SpSh",
+			"soflan": 0,
+			"textage": "/33/hallucin.html",
+			"SPN": 5,
+			"SPH": 9,
+			"SPA": 11,
+			"DPN": 5,
+			"DPH": 9,
+			"DPA": 11,
+			"memo": "",
+			"bpmList": [
+				{
+					"bpm": 160,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 120,
+					"type": "",
+					"memo": "4.0625小節 "
+				},
+				{
+					"bpm": 121,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 122,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 123,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 124,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 125,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 126,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 127,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 128,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 129,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 131,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 132,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 133,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 134,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 135,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 136,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 137,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 138,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 139,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 141,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 142,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 143,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 144,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 145,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 146,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 147,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 148,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 149,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 151,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 152,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 153,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 154,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 155,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 156,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 157,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 158,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 159,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				},
+				{
+					"bpm": 160,
+					"type": "td-vvs",
+					"memo": "0.0625小節 "
+				}
+			]
 		}
 	]
 }
