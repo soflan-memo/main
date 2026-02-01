@@ -11802,6 +11802,94 @@
 					"memo": "3小節 "
 				}
 			]
+		},
+		{
+			"id": "FIXER",
+			"title": "fixer",
+			"read": "fixer",
+			"ver": 33,
+			"verName": "SpSh",
+			"soflan": 162.32,
+			"textage": "/33/fixer.html",
+			"SPN": 6,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 12,
+			"memo": "",
+			"bpmList": [
+				{
+					"bpm": 150,
+					"type": "td-s",
+					"memo": "3小節 "
+				},
+				{
+					"bpm": 130,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 135,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 140,
+					"type": "td-vvs",
+					"memo": "0.75小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-s",
+					"memo": "1.25小節 "
+				},
+				{
+					"bpm": 110,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 100,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 90,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 75,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 215,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 180,
+					"type": "td-s",
+					"memo": "4小節 "
+				},
+				{
+					"bpm": 200,
+					"type": "",
+					"memo": "6.5小節 "
+				},
+				{
+					"bpm": 150,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 160,
+					"type": "",
+					"memo": ""
+				}
+			]
 		}
 	]
 }
