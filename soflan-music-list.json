@@ -11890,6 +11890,79 @@
 					"memo": ""
 				}
 			]
+		},
+		{
+			"id": "HINABITA_CURRY",
+			"title": "華麗なる!音戯探偵ひなビタ♫",
+			"read": "カレイナルオトギタンテイヒナビタ",
+			"ver": 33,
+			"verName": "SpSh",
+			"soflan": 115.28,
+			"textage": "/33/_kareinr.html",
+			"SPN": 4,
+			"SPH": 8,
+			"SPA": 11,
+			"DPN": 5,
+			"DPH": 8,
+			"DPA": 11,
+			"memo": "",
+			"bpmList": [
+				{
+					"bpm": 127,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 124,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 120,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 112,
+					"type": "td-vvs",
+					"memo": "0.25小節 "
+				},
+				{
+					"bpm": 86,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 82,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 92,
+					"type": "",
+					"memo": "5.625小節 "
+				},
+				{
+					"bpm": 88,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 84,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 72,
+					"type": "td-vvs",
+					"memo": "0.125小節 "
+				},
+				{
+					"bpm": 127,
+					"type": "",
+					"memo": ""
+				}
+			]
 		}
 	]
 }
