@@ -11963,6 +11963,39 @@
 					"memo": ""
 				}
 			]
+		},
+		{
+			"id": "BITRACER",
+			"title": "BitRacer",
+			"read": "BitRacer",
+			"ver": 33,
+			"verName": "SpSh",
+			"soflan": 56.45,
+			"textage": "/33/bitracer.html",
+			"SPN": 6,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 12,
+			"memo": "",
+			"bpmList": [
+				{
+					"bpm": 158,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 149,
+					"type": "td-vvs",
+					"memo": "0.5小節 "
+				},
+				{
+					"bpm": 132,
+					"type": "td-s",
+					"memo": "3.5小節 トリル前に皿チョン可"
+				}
+			]
 		}
 	]
 }
