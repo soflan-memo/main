@@ -11996,6 +11996,97 @@
 					"memo": "3.5小節 トリル前に皿チョン可"
 				}
 			]
+		},
+		{
+			"id": "ANY_PERCENT",
+			"title": "Any%",
+			"read": "Any%",
+			"ver": 33,
+			"verName": "SpSh",
+			"soflan": 114.36,
+			"textage": "",
+			"SPN": 6,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 6,
+			"DPH": 10,
+			"DPA": 12,
+			"memo": "",
+			"bpmList": [
+				{
+					"bpm": 157,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 159,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 162,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 164,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 167,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 170,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 172,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 175,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 177,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "SMINTHEUS",
+			"title": "Smintheus",
+			"read": "Smintheus",
+			"ver": 33,
+			"verName": "SpSh",
+			"soflan": 36.36,
+			"textage": "",
+			"SPN": 7,
+			"SPH": 10,
+			"SPA": 12,
+			"DPN": 7,
+			"DPH": 10,
+			"DPA": 12,
+			"memo": "",
+			"bpmList": [
+				{
+					"bpm": 228,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 250,
+					"type": "",
+					"memo": ""
+				}
+			]
 		}
 	]
 }
