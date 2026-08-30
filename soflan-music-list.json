@@ -4953,9 +4953,11 @@
 			"SPN": 5,
 			"SPH": 10,
 			"SPA": 11,
+			"SPL": 12,
 			"DPN": 6,
 			"DPH": 10,
 			"DPA": 12,
+			"DPL": 12,
 			"memo": "",
 			"bpmList": [
 				{
@@ -12083,6 +12085,84 @@
 				},
 				{
 					"bpm": 250,
+					"type": "",
+					"memo": ""
+				}
+			]
+		},
+		{
+			"id": "DREAM_WONDER",
+			"title": "夢色ワンダー",
+			"read": "ユメイロワンダー",
+			"ver": 33,
+			"verName": "SpSh",
+			"soflan": 135.09,
+			"textage": "/33/_yumeiro.html",
+			"SPN": 6,
+			"SPH": 9,
+			"SPA": 11,
+			"DPN": 6,
+			"DPH": 9,
+			"DPA": 11,
+			"memo": "",
+			"bpmList": [
+				{
+					"bpm": 170,
+					"type": "",
+					"memo": "7小節 "
+				},
+				{
+					"bpm": 208,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 190,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 170,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 158,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 145,
+					"type": "td-vvs",
+					"memo": "0.33小節 "
+				},
+				{
+					"bpm": 135,
+					"type": "td-vs",
+					"memo": "1小節 "
+				},
+				{
+					"bpm": 208,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 194,
+					"type": "",
+					"memo": "8小節 "
+				},
+				{
+					"bpm": 208,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 203,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 208,
 					"type": "",
 					"memo": ""
 				}
