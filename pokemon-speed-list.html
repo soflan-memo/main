@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head prefix="og: https://ogp.me/ns#">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="keywords" content="ポケモン,ポケモンチャンピオンズ,種族値,素早さ">
+<meta name="description" content="ポケチャンで先手を取れるかわからない……?この表で素早さをチェックしましょう！">
+<meta property="og:url" content="https://soflan-memo.github.io/main/pokemon-speed-list.html" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="github.io" />
+<meta property="og:title" content="ポケモンチャンピオンズ種族値別素早さ表" />
+<meta property="og:description" content="ポケチャンで先手を取れるかわからない……?この表で素早さをチェックしましょう！" />
+<meta property="og:image" content="https://soflan-memo.github.io/main/OGP.png" />
+
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text x=%2250%%22 y=%2250%%22 style=%22dominant-baseline:central;text-anchor:middle;font-size:90px;%22>📝</text></svg>">
+
+<title>ポケモンチャンピオンズ種族値別素早さ表</title>
+<style>
+  :root {
+    background:#e0e0e0;
+  }
+
+  th{
+    /*ヘッダー行は固定する*/
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+
+  .td-speed{
+    background: #f0f0f0;    
+  }
+
+  .td-latestSpd{
+    background: #e0e0e0;
+  }
+
+  .td-normalSpd{
+    background: #f0f0f0;    
+  }
+
+  .td-semiSpd{
+    background: #f0f0e0;
+  }
+
+  .td-fastestSpd{
+    background: #f0e0e0;
+  }
+
+  .td-normalSpd15{
+    background: #f8f8f8;
+  }
+
+  .td-semiSpd15{
+    background: #f8f8e0;
+  }
+
+  .td-fastestSpd15{
+    background: #f8e0e0;
+  }
+
+  .td-normalSpd20{
+    background: #ffffff;
+  }
+
+  .td-semiSpd20{
+    background: #ffffe0;
+  }
+
+  .td-fastestSpd20{
+    background: #ffe8e8;
+  }
+
+
+  /* ポップオーバーウィンドウ本体 */
+  .window {
+    display: none;         /* 初期状態は非表示 */
+    position: fixed;       /* 画面に対して絶対位置で配置（ドラッグ用） */
+    background: #ffffff;   /* 下の文字が透けないように背景色は必須 */
+    border: 1px solid #777;/* 境界がわかるように枠線 */
+    max-height: 80vh;       /* 画面の高さの80%までに制限 */
+    overflow-y: auto;       /* はみ出た分はスクロール可能にする */
+  }
+
+  /* ポップオーバー表示状態 */
+  .window.is-open {
+    display: block;        /* 開いた時に表示 */
+  }
+
+  /* ヘッダー（ドラッグ操作するバー） */
+  .window-header {
+    display: flex;
+    justify-content: space-between; /*タイトルとボタンを両端に配置させる*/
+    background: #f0f0f0;
+    cursor: grab;          /* 掴めるカーソル */
+    user-select: none;     /* ドラッグ中に文字選択されるのを防止（必須） */
+    touch-action: none;    /* タッチ操作時に画面スクロールするのを防止（必須） */
+  }
+
+  /* ヘッダーを掴んでいる時のカーソル */
+  .window-header:active {
+    cursor: grabbing;
+  }
+</style>
+</head>
+<body onload="pageLoad()">
+<H3 style="text-align: center;">ポケモンチャンピオンズ種族値別素早さ表</H3>
+<hr>
+<div id="main-div">
+</div>
+<script src="pokemon-speed-list.js"></script>
+</body>
+</html>
