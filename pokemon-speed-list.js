@@ -122,7 +122,12 @@ function createPopWindow(){
       const pkmnSpan = document.createElement('span');
       pkmnSpan.style.display = 'block';
       pkmnSpan.textContent = pkmnName;
-      pkmnListDivDetail.appendChild(pkmnSpan);
+      if(pkmnName.slice(0,2) == 'メガ' && pkmnName != 'メガニウム'){
+        pkmnSpan.classList.add('span-mega-pokemon');
+      }else{
+        pkmnSpan.classList.add('span-normal-pokemon');
+      }
+        pkmnListDivDetail.appendChild(pkmnSpan);
     }
   }
 }
@@ -200,8 +205,6 @@ function createTable(){
           td.appendChild(aTag);
         }
       }
-      
-
     }
   }
 }
@@ -228,8 +231,21 @@ function openWindow(targetWindowId,callElement){
   // 呼び出し元が把握できるなら呼び出し元の下部にウィンドウを呼び出す
   if(callElement){
     const callElementRect = callElement.getBoundingClientRect();
-    targetWindow.style.top = (callElementRect.bottom + 8) + 'px';
-    targetWindow.style.left = callElementRect.left + 'px';
+    
+    let topPx = callElementRect.bottom + 8;
+    let leftPx = callElementRect.left;
+    if(targetWindow.offsetHeight + topPx > window.innerHeight){ //表示位置がウィンドウ最下部を抜けるなら少し上に補正
+      topPx = window.innerHeight - targetWindow.offsetHeight;
+    }
+    if(leftPx + 64  > window.innerWidth){ //表示位置がウィンドウ右限を抜けるなら少し左に補正
+      leftPx = window.innerWidth - 64;
+    }    
+    // 画面左端・上端を突き抜けてマイナスになるのを防止
+    if (leftPx < 0) leftPx = 0;
+    if (topPx < 0) topPx = 0;
+
+    targetWindow.style.top = topPx + 'px';
+    targetWindow.style.left = leftPx + 'px';
   }
 }
 
