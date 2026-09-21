@@ -237,8 +237,8 @@ function openWindow(targetWindowId,callElement){
     if(targetWindow.offsetHeight + topPx > window.innerHeight){ //表示位置がウィンドウ最下部を抜けるなら少し上に補正
       topPx = window.innerHeight - targetWindow.offsetHeight;
     }
-    if(leftPx + 64  > window.innerWidth){ //表示位置がウィンドウ右限を抜けるなら少し左に補正
-      leftPx = window.innerWidth - 64;
+    if(leftPx + targetWindow.offsetWidth > window.innerWidth){ //表示位置がウィンドウ右限を抜けるなら少し左に補正
+      leftPx = window.innerWidth - targetWindow.offsetWidth;
     }    
     // 画面左端・上端を突き抜けてマイナスになるのを防止
     if (leftPx < 0) leftPx = 0;
