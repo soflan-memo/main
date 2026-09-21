@@ -28,8 +28,16 @@
     z-index: 1;
   }
 
+  span.span-mega-pokemon{
+    background: #f4f4f4;
+  }
+
+  span.span-normal-pokemon{
+    background: #ffffff;
+  }
+
   .td-speed{
-    background: #f0f0f0;    
+    background: #f0f0f0;
   }
 
   .td-latestSpd{
@@ -72,7 +80,6 @@
     background: #ffe8e8;
   }
 
-
   /* ポップオーバーウィンドウ本体 */
   .window {
     display: none;         /* 初期状態は非表示 */
@@ -81,6 +88,12 @@
     border: 1px solid #777;/* 境界がわかるように枠線 */
     max-height: 80vh;       /* 画面の高さの80%までに制限 */
     overflow-y: auto;       /* はみ出た分はスクロール可能にする */
+  }
+  
+  @media (max-width: 768px) {/* スマホからなら画面の高さは40%までに制限 */
+    .window {
+      max-height: 40vh;
+    }
   }
 
   /* ポップオーバー表示状態 */
@@ -92,7 +105,7 @@
   .window-header {
     display: flex;
     justify-content: space-between; /*タイトルとボタンを両端に配置させる*/
-    background: #f0f0f0;
+    background: #e8e8e8;
     cursor: grab;          /* 掴めるカーソル */
     user-select: none;     /* ドラッグ中に文字選択されるのを防止（必須） */
     touch-action: none;    /* タッチ操作時に画面スクロールするのを防止（必須） */
@@ -105,7 +118,7 @@
 </style>
 </head>
 <body onload="pageLoad()">
-<H3 style="text-align: center;">ポケモンチャンピオンズ種族値別素早さ表</H3>
+<H2 style="text-align: center;">ポケモンチャンピオンズ種族値別素早さ表</H2>
 <hr>
 <div id="main-div">
 </div>
