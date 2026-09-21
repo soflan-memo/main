@@ -87,7 +87,26 @@
     border: 1px solid #777;/* 境界がわかるように枠線 */
     max-height: 80vh;       /* 画面の高さの80%までに制限 */
     overflow-y: auto;       /* はみ出た分はスクロール可能にする */
-  }
+    -webkit-overflow-scrolling: touch; /* スマホでの滑らかなスクロール */
+    /* 標準仕様（Firefox / 最新Chromeなど） */
+    scrollbar-width: thin;
+    scrollbar-color: #888 #f1f1f1;
+    }
+  
+    /* WebKit系（iOS Safari / Android Chrome / PC Chrome）向けのスクロールバースタイル */
+    .window::-webkit-scrollbar {
+      -webkit-appearance: none;
+      width: 6px;  /* スクロールバーの太さ */
+    }
+  
+    .window::-webkit-scrollbar-track {
+      background: #f1f1f1; /* スクロールバーのレール（背景） */
+    }
+  
+    .window::-webkit-scrollbar-thumb {
+      background-color: #888;  /* つまみ（バー本体）の色 */
+      border-radius: 3px; /* バーの角の丸み */
+    }
   
   @media (max-width: 768px) {/* スマホからなら画面の高さは40%までに制限 */
     .window {
