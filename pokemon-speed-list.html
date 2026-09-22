@@ -25,6 +25,8 @@
     position: sticky;
     top: 0;
     z-index: 1;
+    user-select: none; /* 長押し時の文字選択を防止 */
+    -webkit-user-select: none;
   }
 
   span.span-mega-pokemon{
@@ -122,6 +124,10 @@
 
   /* ヘッダー（ドラッグ操作するバー） */
   .window-header {
+    position: sticky;      /* スクロールしても上端に固定 */
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 1;
     display: flex;
     justify-content: space-between; /*タイトルとボタンを両端に配置させる*/
     background: #e8e8e8;
