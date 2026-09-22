@@ -3,7 +3,6 @@ const pkmnListByBaseSpd = {};
 //全ポケモンの実在する素早さの実数値のリスト
 const speedListArr = [];
 
-
 async function pageLoad(){
   //ポケモンリストのCSVデータの読み込み
   let pkmnCsv  
@@ -132,6 +131,10 @@ function createPopWindow(){
   }
 }
 
+function callTest(e){
+  console.log('test');
+}
+
 function createTable(){
 
   const mainDiv = document.getElementById('main-div')
@@ -148,6 +151,16 @@ function createTable(){
   spdTbl.appendChild(thead);
 
   const headerTr = document.createElement('tr');
+  headerTr.addEventListener('pointerdown',(event) => {clickHoldForSearchPkmnSpeed(event);}); //ヘッダー行を長押しした際にポケモン名検索ダイアログを表示させる
+  //長押しが解除されたら長押しチェックタイマーをリセット
+  headerTr.addEventListener('pointerup', () => {cancelLongPress();});
+  headerTr.addEventListener('pointerleave', () => {cancelLongPress();});
+  headerTr.addEventListener('pointercancel', () => {cancelLongPress();});
+  // 長押し時にスマホ等の右クリックメニュー（コンテキストメニュー）が出るのを防止
+  headerTr.addEventListener('contextmenu', (event) => {
+    event.preventDefault();
+  });
+
   spdTbl.appendChild(headerTr);
 
   //シチュエーション別の名称配列
@@ -302,4 +315,123 @@ function endDragWindow(targetWindowId,event){
         header.releasePointerCapture(event.pointerId);
       }
   }
+}
+
+// ?キーが入力されたらポケモン検索ダイアログを表示させる
+document.addEventListener('keydown',checkInputKeyIsQuestion);
+function checkInputKeyIsQuestion(event){
+  if(event.key == '?'){
+    searchPkmnSpeed();
+  }
+}
+
+// テーブルのヘッダー行が長押しされたらポケモン検索ダイアログを表示させる
+let longPressTimer = null;
+const LONG_PRESS_DURATION = 600;
+function clickHoldForSearchPkmnSpeed(event){
+  if (event.button !== 0) return; // 左クリック・タッチ以外は除外
+  cancelLongPress(); //既存タイマーがある場合リセット
+  longPressTimer = setTimeout(() => {
+    longPressTimer = null;
+    searchPkmnSpeed();
+  }, LONG_PRESS_DURATION);
+}
+
+// 長押しが途中で止まったらタイマーをリセットする
+function cancelLongPress(){
+  if (longPressTimer) {
+    clearTimeout(longPressTimer);
+    longPressTimer = null;
+  }
+};
+
+// 入力ダイアログを表示し、入力に対応する名前のポケモンの素早さ種族値を表示
+let searchCount = 0;
+function searchPkmnSpeed(){
+  // スマホから呼び出された場合はスマホを軽く振動させる
+  if (navigator.vibrate) {
+    navigator.vibrate(50); // 50ミリ秒振動
+  }
+  const pkmnInputWord = window.prompt('ポケモンの名前(部分一致可)から対応する素早さ種族値を表示します')
+  if(pkmnInputWord == null){ //キャンセルなら処理終了
+    return;
+  }else{
+    searchCount++; //検索回数を+1
+    //pkmnListByBaseSpdから入力に部分一致するポケモンのリストを取得
+    const matchedPkmnList = Object.entries(pkmnListByBaseSpd).flatMap(([baseSpd,pkmnArr]) =>
+      pkmnArr
+        .filter(name => name.includes(pkmnInputWord))
+        .map(name =>({name,baseSpd:Number(baseSpd)}))
+      )
+      matchedPkmnList.sort((a,b) => { //メガポケモン、素早さ降順、名前順の形でソート
+        const isMegaPkmnA = a.name.startsWith('メガ') && a.name !== 'メガニウム';
+        const isMegaPkmnB = b.name.startsWith('メガ') && b.name !== 'メガニウム';
+        if(isMegaPkmnA !== isMegaPkmnB){ //どちらかがメガポケモンならメガポケモンを優先
+          return isMegaPkmnB - isMegaPkmnA;
+        }else if(a.baseSpd != b.baseSpd){ //どちらも同じなら素早さ種族値が高いものを優先
+          return b.baseSpd - a.baseSpd;
+        }else{ //どちらも素早さ種族値が同じなら名前昇順
+          return a.name.localeCompare(b.name,'ja');
+        }
+      });
+    console.log(matchedPkmnList);
+
+    //検索結果のdivを作成
+    const mainDiv = document.getElementById('main-div');
+
+    //ウィンドウ本体
+    const searchResultDiv = document.createElement('div');
+    searchResultDiv.id = 'search-result-' + searchCount;
+    searchResultDiv.classList.add('window');
+    searchResultDiv.classList.add('is-open');
+    searchResultDiv.addEventListener('click',() => {setFrontWindow('search-result-' + searchCount);});
+    frontZIndex += 1;
+    searchResultDiv.style.zIndex = frontZIndex;
+    mainDiv.appendChild(searchResultDiv);
+
+    //ヘッダー部
+    const searchResultDivHeader = document.createElement('div');
+    searchResultDivHeader.classList.add('window-header');
+    searchResultDivHeader.addEventListener('pointerdown',(event) =>  {beginDragWindow('search-result-' + searchCount,event);});
+    searchResultDivHeader.addEventListener('pointermove',(event) =>  {dragWindow('search-result-' + searchCount,event);});
+    searchResultDivHeader.addEventListener('pointerup',(event) =>  {endDragWindow('search-result-' + searchCount,event);});
+    searchResultDivHeader.addEventListener('pointercancel',(event) =>  {endDragWindow('search-result-' + searchCount,event);});
+    searchResultDiv.appendChild(searchResultDivHeader);
+
+    // タイトル部(入力文字)
+    const titleSpan = document.createElement('span');
+    titleSpan.textContent = pkmnInputWord;
+    searchResultDivHeader.appendChild(titleSpan);
+
+    //閉じるボタン
+    const closeBtn = document.createElement('button');
+    closeBtn.classList.add('close-btn');
+    closeBtn.textContent = '✕';
+    closeBtn.addEventListener('click', (event) => {
+      event.stopPropagation(); // 親要素へのクリック伝播（バブリング）を防止
+      closeWindow('search-result-' + searchCount);
+    });
+    searchResultDivHeader.appendChild(closeBtn);
+
+    //検索結果のポケモンのリスト
+    const searchResultDivDetail = document.createElement('div');
+    searchResultDiv.appendChild(searchResultDivDetail);
+    for(const matchedPkmn of matchedPkmnList){
+      const pkmnSpan = document.createElement('span');
+      pkmnSpan.style.display = 'block';
+      pkmnSpan.textContent = matchedPkmn.name + '(' + matchedPkmn.baseSpd + '族)';
+      if(matchedPkmn.name.slice(0,2) == 'メガ' && matchedPkmn.name != 'メガニウム'){
+        pkmnSpan.classList.add('span-mega-pokemon');
+      }else{
+        pkmnSpan.classList.add('span-normal-pokemon');
+      }
+        searchResultDivDetail.appendChild(pkmnSpan);
+    }
+
+    //検索結果を画面中央に表示させる
+    const topPx = Math.max(0, (window.innerHeight - searchResultDiv.offsetHeight) / 2);
+    const leftPx = Math.max(0, (window.innerWidth - searchResultDiv.offsetWidth) / 2);
+    searchResultDiv.style.top = topPx + 'px';
+    searchResultDiv.style.left = leftPx + 'px';
+  } 
 }
