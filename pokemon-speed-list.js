@@ -131,12 +131,8 @@ function createPopWindow(){
   }
 }
 
-function callTest(e){
-  console.log('test');
-}
 
 function createTable(){
-
   const mainDiv = document.getElementById('main-div')
 
   //テーブルを作成
@@ -151,7 +147,8 @@ function createTable(){
   spdTbl.appendChild(thead);
 
   const headerTr = document.createElement('tr');
-  headerTr.addEventListener('pointerdown',(event) => {clickHoldForSearchPkmnSpeed(event);}); //ヘッダー行を長押しした際にポケモン名検索ダイアログを表示させる
+  headerTr.addEventListener('pointerdown',(event) => {clickHoldForSearchPkmnSpeed(event);}); //ヘッダー行をクリックした際にポケモン名検索ダイアログを表示させる
+  /*
   //長押しが解除されたら長押しチェックタイマーをリセット
   headerTr.addEventListener('pointerup', () => {cancelLongPress();});
   headerTr.addEventListener('pointerleave', () => {cancelLongPress();});
@@ -160,7 +157,7 @@ function createTable(){
   headerTr.addEventListener('contextmenu', (event) => {
     event.preventDefault();
   });
-
+  */
   spdTbl.appendChild(headerTr);
 
   //シチュエーション別の名称配列
@@ -325,6 +322,11 @@ function checkInputKeyIsQuestion(event){
   }
 }
 
+function clickHoldForSearchPkmnSpeed(event){
+  searchPkmnSpeed();
+}
+
+/*
 // テーブルのヘッダー行が長押しされたらポケモン検索ダイアログを表示させる
 let longPressTimer = null;
 const LONG_PRESS_DURATION = 600;
@@ -344,14 +346,11 @@ function cancelLongPress(){
     longPressTimer = null;
   }
 };
+*/
 
-// 入力ダイアログを表示し、入力に対応する名前のポケモンの素早さ種族値を表示
+// 入力プロンプトを表示し、入力に対応する名前のポケモンの素早さ種族値を表示
 let searchCount = 0;
 function searchPkmnSpeed(){
-  // スマホから呼び出された場合はスマホを軽く振動させる
-  if (navigator.vibrate) {
-    navigator.vibrate(50); // 50ミリ秒振動
-  }
   const pkmnInputWord = window.prompt('ポケモンの名前(部分一致可)から対応する素早さ種族値を表示します')
   if(pkmnInputWord == null){ //キャンセルなら処理終了
     return;
