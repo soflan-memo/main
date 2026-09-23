@@ -147,17 +147,6 @@ function createTable(){
   spdTbl.appendChild(thead);
 
   const headerTr = document.createElement('tr');
-  headerTr.addEventListener('pointerdown',(event) => {clickHoldForSearchPkmnSpeed(event);}); //ヘッダー行をクリックした際にポケモン名検索ダイアログを表示させる
-  /*
-  //長押しが解除されたら長押しチェックタイマーをリセット
-  headerTr.addEventListener('pointerup', () => {cancelLongPress();});
-  headerTr.addEventListener('pointerleave', () => {cancelLongPress();});
-  headerTr.addEventListener('pointercancel', () => {cancelLongPress();});
-  // 長押し時にスマホ等の右クリックメニュー（コンテキストメニュー）が出るのを防止
-  headerTr.addEventListener('contextmenu', (event) => {
-    event.preventDefault();
-  });
-  */
   spdTbl.appendChild(headerTr);
 
   //シチュエーション別の名称配列
@@ -173,6 +162,7 @@ function createTable(){
       th.classList.add('td-' + spdMethodArr[i - 1]);
     }
     th.textContent = headerTextArr[i];
+    th.addEventListener('pointerdown',(event) => {clickForSearchPkmnSpeed(event);}); //テーブルヘッダー行をクリックした際にポケモン名検索ダイアログを表示させる
     headerTr.appendChild(th);
   }
 
@@ -322,31 +312,10 @@ function checkInputKeyIsQuestion(event){
   }
 }
 
-function clickHoldForSearchPkmnSpeed(event){
+function clickForSearchPkmnSpeed(event){
   searchPkmnSpeed();
 }
 
-/*
-// テーブルのヘッダー行が長押しされたらポケモン検索ダイアログを表示させる
-let longPressTimer = null;
-const LONG_PRESS_DURATION = 600;
-function clickHoldForSearchPkmnSpeed(event){
-  if (event.button !== 0) return; // 左クリック・タッチ以外は除外
-  cancelLongPress(); //既存タイマーがある場合リセット
-  longPressTimer = setTimeout(() => {
-    longPressTimer = null;
-    searchPkmnSpeed();
-  }, LONG_PRESS_DURATION);
-}
-
-// 長押しが途中で止まったらタイマーをリセットする
-function cancelLongPress(){
-  if (longPressTimer) {
-    clearTimeout(longPressTimer);
-    longPressTimer = null;
-  }
-};
-*/
 
 // 入力プロンプトを表示し、入力に対応する名前のポケモンの素早さ種族値を表示
 let searchCount = 0;
