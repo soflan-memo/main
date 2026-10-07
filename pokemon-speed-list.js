@@ -121,7 +121,7 @@ function createPopWindow(){
       const pkmnSpan = document.createElement('span');
       pkmnSpan.style.display = 'block';
       pkmnSpan.textContent = pkmnName;
-      if(pkmnName.slice(0,2) == 'メガ' && pkmnName != 'メガニウム'){
+      if(pkmnName.slice(0,2) == 'メガ' && pkmnName != 'メガニウム' && pkmnName != 'メガヤンマ'){
         pkmnSpan.classList.add('span-mega-pokemon');
       }else{
         pkmnSpan.classList.add('span-normal-pokemon');
@@ -332,8 +332,8 @@ function searchPkmnSpeed(){
         .map(name =>({name,baseSpd:Number(baseSpd)}))
       )
       matchedPkmnList.sort((a,b) => { //メガポケモン、素早さ降順、名前順の形でソート
-        const isMegaPkmnA = a.name.startsWith('メガ') && a.name !== 'メガニウム';
-        const isMegaPkmnB = b.name.startsWith('メガ') && b.name !== 'メガニウム';
+        const isMegaPkmnA = a.name.startsWith('メガ') && a.name !== 'メガニウム' && a.name !== 'メガヤンマ';
+        const isMegaPkmnB = b.name.startsWith('メガ') && b.name !== 'メガニウム' && b.name !== 'メガヤンマ';
         if(isMegaPkmnA !== isMegaPkmnB){ //どちらかがメガポケモンならメガポケモンを優先
           return isMegaPkmnB - isMegaPkmnA;
         }else if(a.baseSpd != b.baseSpd){ //どちらも同じなら素早さ種族値が高いものを優先
@@ -388,7 +388,7 @@ function searchPkmnSpeed(){
       const pkmnSpan = document.createElement('span');
       pkmnSpan.style.display = 'block';
       pkmnSpan.textContent = matchedPkmn.name + '(' + matchedPkmn.baseSpd + '族)';
-      if(matchedPkmn.name.slice(0,2) == 'メガ' && matchedPkmn.name != 'メガニウム'){
+      if(matchedPkmn.name.slice(0,2) == 'メガ' && matchedPkmn.name != 'メガニウム' && matchedPkmn.name != 'メガヤンマ'){
         pkmnSpan.classList.add('span-mega-pokemon');
       }else{
         pkmnSpan.classList.add('span-normal-pokemon');
