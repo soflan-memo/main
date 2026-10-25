@@ -12183,7 +12183,33 @@
 			"DPH": 7,
 			"DPA": 10,
 			"memo": "",
-			"bpmList": []
+			"bpmList": [
+				{
+					"bpm": 138,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 200,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 138,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 200,
+					"type": "",
+					"memo": ""
+				},
+				{
+					"bpm": 138,
+					"type": "",
+					"memo": ""
+				}
+			]
 		}
 	]
 }
