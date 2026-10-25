@@ -12167,6 +12167,23 @@
 					"memo": ""
 				}
 			]
+		},
+		{
+			"id": "GIMME_ENTERTAINMENT",
+			"title": "ギミギミエンターテイメント",
+			"read": "ギミギミエンターテイメント",
+			"ver": 34,
+			"verName": "Zin",
+			"soflan": 57.87,
+			"textage": "/34/_gimentr.html",
+			"SPN": 5,
+			"SPH": 7,
+			"SPA": 10,
+			"DPN": 5,
+			"DPH": 7,
+			"DPA": 10,
+			"memo": "",
+			"bpmList": []
 		}
 	]
 }
